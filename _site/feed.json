@@ -1,0 +1,89 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Jarrod Whaley",
+	"home_page_url": "http://www.jarrodwhaley.com/",
+	"feed_url": "http://www.jarrodwhaley.com/feed.json",
+	"items": [
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2017/11/27/i-am-experimenting.html",
+	      	
+			"content_html": "<p>I am experimenting with the idea of avoiding all news six days out of the week, and then just diving deeply into it on the seventh day. This way I only get kicked in the guts once per week.</p>\n",
+			"date_published": "2017-11-27T12:22:00-08:00",
+			"url": "http://www.jarrodwhaley.com/2017/11/27/i-am-experimenting.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2017/11/27/firefox-quantum-is.html",
+	      	
+			"content_html": "<p>Firefox Quantum is pretty great overall, but Mozilla will have to sort out the power consumption issues if they want to regain some market share. I used it with about 5-6 tabs open for a while this morning, and it depleted my MacBook Pro’s battery to 40% in about 90 minutes.</p>\n",
+			"date_published": "2017-11-27T11:05:00-08:00",
+			"url": "http://www.jarrodwhaley.com/2017/11/27/firefox-quantum-is.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2017/11/26/sunset-over-big.html",
+	      	
+			"content_html": "<p>Sunset over Big Sur.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/ade25f34d1.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-11-25T18:29:00-08:00",
+			"url": "http://www.jarrodwhaley.com/2017/11/25/sunset-over-big.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2017/11/25/big-sur-meadow.html",
+	      	
+			"content_html": "<p>Big Sur meadow, with really old tombstones.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/9f87187b81.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-11-24T17:45:00-08:00",
+			"url": "http://www.jarrodwhaley.com/2017/11/24/big-sur-meadow.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2017/11/24/going-off-the.html",
+	      	
+			"content_html": "<p>Going off the grid and outside of cellular range is a terrifying prospect when you are responsible for keeping servers running, but in many ways it’s the only shot at true peace you’ll ever get.</p>\n",
+			"date_published": "2017-11-24T10:49:00-08:00",
+			"url": "http://www.jarrodwhaley.com/2017/11/24/going-off-the.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2017/11/24/184718.html",
+	      	
+			"content_html": "<p><a href=\"https://www.theverge.com/tldr/2017/11/24/16696398/steve-jobs-figurine-holiday-gift-apple-one-foot-tall\">“Unfortunately”</a></p>\n",
+			"date_published": "2017-11-24T10:47:00-08:00",
+			"url": "http://www.jarrodwhaley.com/2017/11/24/184718.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2017/11/23/the-pythonista-script.html",
+	      	
+			"content_html": "<p>The Pythonista script I mentioned for posting to Micro.blog can be found <a href=\"https://gist.github.com/jbwhaley/126ddcd807bf5ff95909a78d863e1e6d\">on GitHub Gists</a>.</p>\n",
+			"date_published": "2017-11-23T12:46:00-08:00",
+			"url": "http://www.jarrodwhaley.com/2017/11/23/the-pythonista-script.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2017/11/23/194201.html",
+	      	
+			"content_html": "<p><a href=\"https://www.washingtonpost.com/news/the-switch/wp/2017/11/22/official-says-hes-been-stymied-by-the-fcc-in-investigation-of-fake-net-neutrality-foes/\">This story</a> is particularly rich, after <a href=\"https://www.theverge.com/2017/11/22/16689838/fcc-net-neutrality-comments-were-largely-ignored\">yesterday’s story</a> about their throwing out comments that didn’t make a “serious legal argument.” It’s amazing that they think they can (and may!) get away with this.</p>\n",
+			"date_published": "2017-11-23T11:42:00-08:00",
+			"url": "http://www.jarrodwhaley.com/2017/11/23/194201.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2017/11/23/ubers-decision-to.html",
+	      	
+			"content_html": "<p><a href=\"https://finance.yahoo.com/news/hacked-companies-like-uber-not-pay-ransoms-200811674.html\">Uber’s decision to pay the ransom was stupid</a> not just for the reasons enumerated in this article—it was also stupid because it’s money down a hole. How would anyone be able to verify that the attackers destroyed the data? What keeps them from hanging onto it, exactly? Utterly moronic.</p>\n",
+			"date_published": "2017-11-22T23:36:00-08:00",
+			"url": "http://www.jarrodwhaley.com/2017/11/22/ubers-decision-to.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2017/11/23/new-exquisite-corpse.html",
+	      	
+			"content_html": "<p>New Exquisite Corpse Brand Absinthe Basil Bliss Chicken Patty Man Cave Flavor Pucks</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/268635aae3.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-11-22T22:09:00-08:00",
+			"url": "http://www.jarrodwhaley.com/2017/11/22/new-exquisite-corpse.html"
+		}
+		
+	]
+}
