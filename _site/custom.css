@@ -6,6 +6,6 @@ p {
   font-weight: normal;
 }
 
-a:hover {
+a:hover, a:hover span {
   color: black;
 }
