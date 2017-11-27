@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2017/11/27/imgur-was-breached.html",
+	      	
+			"content_html": "<p><a href=\"https://techcrunch.com/2017/11/27/imgur-says-1-7m-emails-and-passwords-were-breached-in-2014-hack/\">Imgur was breached in 2014</a>. That’s three freaking years ago.</p>\n",
+			"date_published": "2017-11-27T13:34:00-08:00",
+			"url": "http://www.jarrodwhaley.com/2017/11/27/imgur-was-breached.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2017/11/27/i-am-experimenting.html",
 	      	
 			"content_html": "<p>I am experimenting with the idea of avoiding all news six days out of the week, and then just diving deeply into it on the seventh day. This way I only get kicked in the guts once per week.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p><a href=\"https://finance.yahoo.com/news/hacked-companies-like-uber-not-pay-ransoms-200811674.html\">Uber’s decision to pay the ransom was stupid</a> not just for the reasons enumerated in this article—it was also stupid because it’s money down a hole. How would anyone be able to verify that the attackers destroyed the data? What keeps them from hanging onto it, exactly? Utterly moronic.</p>\n",
 			"date_published": "2017-11-22T23:36:00-08:00",
 			"url": "http://www.jarrodwhaley.com/2017/11/22/ubers-decision-to.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2017/11/23/new-exquisite-corpse.html",
-	      	
-			"content_html": "<p>New Exquisite Corpse Brand Absinthe Basil Bliss Chicken Patty Man Cave Flavor Pucks</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/268635aae3.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-11-22T22:09:00-08:00",
-			"url": "http://www.jarrodwhaley.com/2017/11/22/new-exquisite-corpse.html"
 		}
 		
 	]
