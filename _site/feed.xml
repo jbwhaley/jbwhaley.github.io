@@ -4,8 +4,17 @@
     <title>Jarrod Whaley</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jbwhaley&quot;&gt;@jbwhaley on Micro.blog&lt;/a&gt;.</description>
     <link>http://www.jarrodwhaley.com/</link>
-    <pubDate>Tue, 28 Nov 2017 13:26:39 -0800</pubDate>
-    <lastBuildDate>Tue, 28 Nov 2017 13:26:39 -0800</lastBuildDate>
+    <pubDate>Tue, 28 Nov 2017 14:42:28 -0800</pubDate>
+    <lastBuildDate>Tue, 28 Nov 2017 14:42:28 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://9to5mac.com/2017/11/28/how-to-set-root-password/&quot;&gt;The MacOs High Sierra root account bug&lt;/a&gt; is indeed serious, and it is indeed due to a really amazingly dumb failure in Apple’s QC checks. Bear in mind that the threat model entails physical access to the machine, and that there is a workaround in enabling a root account and giving it a decent password. For many users, there may not be much to worry about, and Apple will certainly issue a fix soon. Still, this is a &lt;em&gt;really&lt;/em&gt; dumb bug.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 28 Nov 2017 14:42:00 -0800</pubDate>
+        <link>http://www.jarrodwhaley.com/2017/11/28/the-macos-high.html</link>
+        <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/11/28/the-macos-high.html</guid>
+      </item>
     
       <item>
       	
