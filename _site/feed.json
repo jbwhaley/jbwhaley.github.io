@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2017/11/28/billing-oneself-as.html",
+	      	
+			"content_html": "<p><a href=\"https://arstechnica.com/tech-policy/2017/11/security-firm-was-front-for-advanced-chinese-hacking-operation-feds-say/\">Billing oneself as a “security company” is the perfect cover.</a></p>\n",
+			"date_published": "2017-11-27T19:08:00-08:00",
+			"url": "http://www.jarrodwhaley.com/2017/11/27/billing-oneself-as.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2017/11/27/an-ancient-relic.html",
 	      	
 			"content_html": "<p>An ancient relic, spotted along a highway deep in a redwood forest.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/0e3628aa88.jpg\" width=\"450\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>The Pythonista script I mentioned for posting to Micro.blog can be found <a href=\"https://gist.github.com/jbwhaley/126ddcd807bf5ff95909a78d863e1e6d\">on GitHub Gists</a>.</p>\n",
 			"date_published": "2017-11-23T12:46:00-08:00",
 			"url": "http://www.jarrodwhaley.com/2017/11/23/the-pythonista-script.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2017/11/23/194201.html",
-	      	
-			"content_html": "<p><a href=\"https://www.washingtonpost.com/news/the-switch/wp/2017/11/22/official-says-hes-been-stymied-by-the-fcc-in-investigation-of-fake-net-neutrality-foes/\">This story</a> is particularly rich, after <a href=\"https://www.theverge.com/2017/11/22/16689838/fcc-net-neutrality-comments-were-largely-ignored\">yesterday’s story</a> about their throwing out comments that didn’t make a “serious legal argument.” It’s amazing that they think they can (and may!) get away with this.</p>\n",
-			"date_published": "2017-11-23T11:42:00-08:00",
-			"url": "http://www.jarrodwhaley.com/2017/11/23/194201.html"
 		}
 		
 	]
