@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2017/11/28/someone-submitted-a.html",
+	      	
+			"content_html": "<p>“Someone” submitted a million fake comments to the FCC which appear to favor their push to upend Net Neutrality. They may even have posted such a comment under <strong>your</strong> name. <a href=\"https://www.comcastroturf.com\">Comcastroturf</a> will help you search the FCC’s site for comments fraudulently posted on your behalf.</p>\n",
+			"date_published": "2017-11-28T10:16:00-08:00",
+			"url": "http://www.jarrodwhaley.com/2017/11/28/someone-submitted-a.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2017/11/28/billing-oneself-as.html",
 	      	
 			"content_html": "<p><a href=\"https://arstechnica.com/tech-policy/2017/11/security-firm-was-front-for-advanced-chinese-hacking-operation-feds-say/\">Billing oneself as a “security company” is the perfect cover.</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p><a href=\"https://www.theverge.com/tldr/2017/11/24/16696398/steve-jobs-figurine-holiday-gift-apple-one-foot-tall\">“Unfortunately”</a></p>\n",
 			"date_published": "2017-11-24T10:47:00-08:00",
 			"url": "http://www.jarrodwhaley.com/2017/11/24/184718.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2017/11/23/the-pythonista-script.html",
-	      	
-			"content_html": "<p>The Pythonista script I mentioned for posting to Micro.blog can be found <a href=\"https://gist.github.com/jbwhaley/126ddcd807bf5ff95909a78d863e1e6d\">on GitHub Gists</a>.</p>\n",
-			"date_published": "2017-11-23T12:46:00-08:00",
-			"url": "http://www.jarrodwhaley.com/2017/11/23/the-pythonista-script.html"
 		}
 		
 	]
