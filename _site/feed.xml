@@ -4,8 +4,17 @@
     <title>Jarrod Whaley</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jbwhaley&quot;&gt;@jbwhaley on Micro.blog&lt;/a&gt;.</description>
     <link>http://www.jarrodwhaley.com/</link>
-    <pubDate>Tue, 28 Nov 2017 14:42:28 -0800</pubDate>
-    <lastBuildDate>Tue, 28 Nov 2017 14:42:28 -0800</lastBuildDate>
+    <pubDate>Tue, 28 Nov 2017 14:58:35 -0800</pubDate>
+    <lastBuildDate>Tue, 28 Nov 2017 14:58:35 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Correction: &lt;a href=&quot;https://krebsonsecurity.com/2017/11/macos-high-sierra-users-change-root-password-now/&quot;&gt;Brian Krebs points out&lt;/a&gt; that the High Sierra root bug is exploitable remotely if the attacked machine has Screen Sharing enabled. Probably a good idea to change the root password on all Macs ASAP.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 28 Nov 2017 14:57:00 -0800</pubDate>
+        <link>http://www.jarrodwhaley.com/2017/11/28/correction-brian-krebs.html</link>
+        <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/11/28/correction-brian-krebs.html</guid>
+      </item>
     
       <item>
       	
