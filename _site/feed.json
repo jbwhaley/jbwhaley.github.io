@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2017/11/29/i-dreamed-about.html",
+	      	
+			"content_html": "<p>I dreamed about an app that lets users take 360-degree photography of their homes, and then post it publicly for all to see; it also encouraged publication of one’s home address and phone number. It led to a horrific spate of home invasions, harassment, and other crimes. People loved it.</p>\n",
+			"date_published": "2017-11-29T09:02:00-08:00",
+			"url": "http://www.jarrodwhaley.com/2017/11/29/i-dreamed-about.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2017/11/29/the-edge-of.html",
 	      	
 			"content_html": "<p>The edge of the world.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/cd5c384ef6.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I am experimenting with the idea of avoiding all news six days out of the week, and then just diving deeply into it on the seventh day. This way I only get kicked in the guts once per week.</p>\n",
 			"date_published": "2017-11-27T12:22:00-08:00",
 			"url": "http://www.jarrodwhaley.com/2017/11/27/i-am-experimenting.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2017/11/27/firefox-quantum-is.html",
-	      	
-			"content_html": "<p>Firefox Quantum is pretty great overall, but Mozilla will have to sort out the power consumption issues if they want to regain some market share. I used it with about 5-6 tabs open for a while this morning, and it depleted my MacBook Pro’s battery to 40% in about 90 minutes.</p>\n",
-			"date_published": "2017-11-27T11:05:00-08:00",
-			"url": "http://www.jarrodwhaley.com/2017/11/27/firefox-quantum-is.html"
 		}
 		
 	]
