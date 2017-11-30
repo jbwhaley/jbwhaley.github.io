@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2017/11/30/spending-last-weekend.html",
+	      	
+			"content_html": "<p>Spending last weekend in Big Sur reminded me that total silence is the most beautiful sound I have ever heard.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/26bac4e2f8.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-11-29T22:50:00-08:00",
+			"url": "http://www.jarrodwhaley.com/2017/11/29/spending-last-weekend.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2017/11/29/an-australian-electrician.html",
 	      	
 			"content_html": "<p>An Australian electrician discovered that he could <a href=\"https://arstechnica.com/information-technology/2017/11/australian-man-uses-snack-bags-as-faraday-cage-to-block-tracking-by-employer/\">keep his employer from creepily tracking his location by putting his mobile device in a mylar snack bag</a>, using the bag as a Faraday cage to block GPS signals. Congratulations to you, sir.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>An ancient relic, spotted along a highway deep in a redwood forest.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/0e3628aa88.jpg\" width=\"450\" height=\"600\" /></p>\n",
 			"date_published": "2017-11-27T14:03:00-08:00",
 			"url": "http://www.jarrodwhaley.com/2017/11/27/an-ancient-relic.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2017/11/27/imgur-was-breached.html",
-	      	
-			"content_html": "<p><a href=\"https://techcrunch.com/2017/11/27/imgur-says-1-7m-emails-and-passwords-were-breached-in-2014-hack/\">Imgur was breached in 2014</a>. That’s three freaking years ago.</p>\n",
-			"date_published": "2017-11-27T13:34:00-08:00",
-			"url": "http://www.jarrodwhaley.com/2017/11/27/imgur-was-breached.html"
 		}
 		
 	]
