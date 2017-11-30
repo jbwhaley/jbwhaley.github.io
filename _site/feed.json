@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2017/11/30/i-put-together.html",
+	      	
+			"content_html": "<p>I put together a workflow for Alfred that makes posting to Micro.blog on a Mac extremely easy. You can grab the workflow file and find setup instructions <a href=\"https://github.com/jbwhaley/MicroBlogger\">here</a>.</p>\n",
+			"date_published": "2017-11-30T14:41:00-08:00",
+			"url": "http://www.jarrodwhaley.com/2017/11/30/i-put-together.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2017/11/30/for-some-reason.html",
 	      	
 			"content_html": "<p>For some reason I actually just found myself saying “howdy do” to a person, with no irony intended. Clearly something has gone wacko with my brain.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Correction: <a href=\"https://krebsonsecurity.com/2017/11/macos-high-sierra-users-change-root-password-now/\">Brian Krebs points out</a> that the High Sierra root bug is exploitable remotely if the attacked machine has Screen Sharing enabled. Probably a good idea to change the root password on all Macs ASAP.</p>\n",
 			"date_published": "2017-11-28T14:57:00-08:00",
 			"url": "http://www.jarrodwhaley.com/2017/11/28/correction-brian-krebs.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2017/11/28/the-macos-high.html",
-	      	
-			"content_html": "<p><a href=\"https://9to5mac.com/2017/11/28/how-to-set-root-password/\">The MacOs High Sierra root account bug</a> is indeed serious, and it is indeed due to a really amazingly dumb failure in Apple’s QC checks. Bear in mind that the threat model entails physical access to the machine, and that there is a workaround in enabling a root account and giving it a decent password. For many users, there may not be much to worry about, and Apple will certainly issue a fix soon. Still, this is a <em>really</em> dumb bug.</p>\n",
-			"date_published": "2017-11-28T14:42:00-08:00",
-			"url": "http://www.jarrodwhaley.com/2017/11/28/the-macos-high.html"
 		}
 		
 	]
