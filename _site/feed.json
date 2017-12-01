@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2017/12/01/there-are-few.html",
+	      	
+			"content_html": "<p>There are few things I find more calming than just watching the surf for a few minutes.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/1c4fe302df.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2017-11-30T22:52:00-08:00",
+			"url": "http://www.jarrodwhaley.com/2017/11/30/there-are-few.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2017/11/30/i-put-together.html",
 	      	
 			"content_html": "<p>I put together a workflow for Alfred that makes posting to Micro.blog on a Mac extremely easy. You can grab the workflow file and find setup instructions <a href=\"https://github.com/jbwhaley/MicroBlogger\">here</a>.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>The edge of the world.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/cd5c384ef6.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-11-28T17:38:00-08:00",
 			"url": "http://www.jarrodwhaley.com/2017/11/28/the-edge-of.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2017/11/28/correction-brian-krebs.html",
-	      	
-			"content_html": "<p>Correction: <a href=\"https://krebsonsecurity.com/2017/11/macos-high-sierra-users-change-root-password-now/\">Brian Krebs points out</a> that the High Sierra root bug is exploitable remotely if the attacked machine has Screen Sharing enabled. Probably a good idea to change the root password on all Macs ASAP.</p>\n",
-			"date_published": "2017-11-28T14:57:00-08:00",
-			"url": "http://www.jarrodwhaley.com/2017/11/28/correction-brian-krebs.html"
 		}
 		
 	]
