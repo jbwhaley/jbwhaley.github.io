@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2017/12/01/181750.html",
+	      	
+			"content_html": "<p><a href=\"https://github.com/thingles/1Blocker-Packages\">These 1Blocker packages</a> by <a href=\"https://micro.blog/jthingelstad\">@jthingelstad</a> have made the Internet so much nicer to use for me. They block <strong>all</strong> requests aimed at domains controlled by Twitter, Facebook, Instagram, Reddit, and more. Fantastic.</p>\n",
+			"date_published": "2017-12-01T10:17:00-08:00",
+			"url": "http://www.jarrodwhaley.com/2017/12/01/181750.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2017/12/01/there-are-few.html",
 	      	
 			"content_html": "<p>There are few things I find more calming than just watching the surf for a few minutes.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/1c4fe302df.jpg\" width=\"600\" height=\"599\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I dreamed about an app that lets users take 360-degree photography of their homes, and then post it publicly for all to see; it also encouraged publication of one’s home address and phone number. It led to a horrific spate of home invasions, harassment, and other crimes. People loved it.</p>\n",
 			"date_published": "2017-11-29T09:02:00-08:00",
 			"url": "http://www.jarrodwhaley.com/2017/11/29/i-dreamed-about.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2017/11/29/the-edge-of.html",
-	      	
-			"content_html": "<p>The edge of the world.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/cd5c384ef6.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-11-28T17:38:00-08:00",
-			"url": "http://www.jarrodwhaley.com/2017/11/28/the-edge-of.html"
 		}
 		
 	]
