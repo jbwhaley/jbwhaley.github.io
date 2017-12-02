@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2017/12/02/the-fact-that.html",
+	      	
+			"content_html": "<p>The fact that <a href=\"https://www.theregister.co.uk/2017/12/01/apple_ios_11_security_downgrade_decried_as_horror_show/\">encrypted iTunes backup keys can now be reset with just the device’s passcode</a> is indeed a worrying change. At this point, it’s hard to recommend anything to international travelers other than leaving iPhones at home.</p>\n",
+			"date_published": "2017-12-02T08:49:00-08:00",
+			"url": "http://www.jarrodwhaley.com/2017/12/02/the-fact-that.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2017/12/02/its-strange-how.html",
 	      	
 			"content_html": "<p>It’s strange how hard we have to fight for a little peace.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Big waves in Half Moon Bay this morning.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/f36ef4ad82.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-11-30T07:37:00-08:00",
 			"url": "http://www.jarrodwhaley.com/2017/11/30/big-waves-in.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2017/11/30/spending-last-weekend.html",
-	      	
-			"content_html": "<p>Spending last weekend in Big Sur reminded me that total silence is the most beautiful sound I have ever heard.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/26bac4e2f8.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-11-29T22:50:00-08:00",
-			"url": "http://www.jarrodwhaley.com/2017/11/29/spending-last-weekend.html"
 		}
 		
 	]
