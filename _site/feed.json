@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2017/12/03/streaming-tv-services.html",
+	      	
+			"content_html": "<p>Streaming TV services still do a pretty terrible job at keeping track of what you’ve watched. I keep watching three minutes of an episode and then realizing I’ve seen it.</p>\n",
+			"date_published": "2017-12-02T23:23:00-08:00",
+			"url": "http://www.jarrodwhaley.com/2017/12/02/streaming-tv-services.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2017/12/02/the-fact-that.html",
 	      	
 			"content_html": "<p>The fact that <a href=\"https://www.theregister.co.uk/2017/12/01/apple_ios_11_security_downgrade_decried_as_horror_show/\">encrypted iTunes backup keys can now be reset with just the device’s passcode</a> is indeed a worrying change. At this point, it’s hard to recommend anything to international travelers other than leaving iPhones at home.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p><a href=\"https://arstechnica.com/tech-policy/2017/11/justices-hear-case-that-could-reshape-location-privacy-in-the-cellular-age/\">The cell phone location data case currently before the Supreme Court</a> has the potential to be a landmark win for privacy advocates. It could set a precedent indicating that the 4th Amendment applies to digital data. Imagine that.</p>\n",
 			"date_published": "2017-11-30T08:50:00-08:00",
 			"url": "http://www.jarrodwhaley.com/2017/11/30/the-cell-phone.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2017/11/30/big-waves-in.html",
-	      	
-			"content_html": "<p>Big waves in Half Moon Bay this morning.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/f36ef4ad82.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-11-30T07:37:00-08:00",
-			"url": "http://www.jarrodwhaley.com/2017/11/30/big-waves-in.html"
 		}
 		
 	]
