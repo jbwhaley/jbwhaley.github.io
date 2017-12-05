@@ -4,8 +4,17 @@
     <title>Jarrod Whaley</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jbwhaley&quot;&gt;@jbwhaley on Micro.blog&lt;/a&gt;.</description>
     <link>http://www.jarrodwhaley.com/</link>
-    <pubDate>Mon, 04 Dec 2017 17:49:02 -0800</pubDate>
-    <lastBuildDate>Mon, 04 Dec 2017 17:49:02 -0800</lastBuildDate>
+    <pubDate>Mon, 04 Dec 2017 20:16:36 -0800</pubDate>
+    <lastBuildDate>Mon, 04 Dec 2017 20:16:36 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Have I mentioned Algo VPN lately? It’s an Ansible script that sets up a personal VPN on a cloud instance you control. Tear your VPN down and rebuild a new one at will. I &lt;a href=&quot;https://linklocker.co/blog/run-your-own-secure-vpn-service-with-algo.html&quot;&gt;wrote about it&lt;/a&gt; a while back.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 Dec 2017 20:16:00 -0800</pubDate>
+        <link>http://www.jarrodwhaley.com/2017/12/04/have-i-mentioned.html</link>
+        <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/05/have-i-mentioned.html</guid>
+      </item>
     
       <item>
       	
