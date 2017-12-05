@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2017/12/05/have-i-mentioned.html",
+	      	
+			"content_html": "<p>Have I mentioned Algo VPN lately? It’s an Ansible script that sets up a personal VPN on a cloud instance you control. Tear your VPN down and rebuild a new one at will. I <a href=\"https://linklocker.co/blog/run-your-own-secure-vpn-service-with-algo.html\">wrote about it</a> a while back.</p>\n",
+			"date_published": "2017-12-04T20:16:00-08:00",
+			"url": "http://www.jarrodwhaley.com/2017/12/04/have-i-mentioned.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2017/12/05/beautiful-sunset-bike.html",
 	      	
 			"content_html": "<p>Beautiful sunset bike ride down the coast. One day ends, and another one begins.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/fdd3a13f25.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Reddit really is a flaming dumpster full of flaming diapers. It makes Twitter look like an enlightened paradise.</p>\n",
 			"date_published": "2017-12-01T14:06:00-08:00",
 			"url": "http://www.jarrodwhaley.com/2017/12/01/reddit-really-is.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2017/12/01/181750.html",
-	      	
-			"content_html": "<p><a href=\"https://github.com/thingles/1Blocker-Packages\">These 1Blocker packages</a> by <a href=\"https://micro.blog/jthingelstad\">@jthingelstad</a> have made the Internet so much nicer to use for me. They block <strong>all</strong> requests aimed at domains controlled by Twitter, Facebook, Instagram, Reddit, and more. Fantastic.</p>\n",
-			"date_published": "2017-12-01T10:17:00-08:00",
-			"url": "http://www.jarrodwhaley.com/2017/12/01/181750.html"
 		}
 		
 	]
