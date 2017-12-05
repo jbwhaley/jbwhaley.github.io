@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2017/12/05/i-left-the.html",
+	      	
+			"content_html": "<p>I left the house without my wallet this morning, so I guess I’ll be running an unplanned experiment with using Apple Pay for everything I buy today. Should be interesting.</p>\n",
+			"date_published": "2017-12-05T12:49:00-08:00",
+			"url": "http://www.jarrodwhaley.com/2017/12/05/i-left-the.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2017/12/05/have-i-mentioned.html",
 	      	
 			"content_html": "<p>Have I mentioned Algo VPN lately? It’s an Ansible script that sets up a personal VPN on a cloud instance you control. Tear your VPN down and rebuild a new one at will. I <a href=\"https://linklocker.co/blog/run-your-own-secure-vpn-service-with-algo.html\">wrote about it</a> a while back.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>It’s strange how hard we have to fight for a little peace.</p>\n",
 			"date_published": "2017-12-01T23:04:00-08:00",
 			"url": "http://www.jarrodwhaley.com/2017/12/01/its-strange-how.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2017/12/01/reddit-really-is.html",
-	      	
-			"content_html": "<p>Reddit really is a flaming dumpster full of flaming diapers. It makes Twitter look like an enlightened paradise.</p>\n",
-			"date_published": "2017-12-01T14:06:00-08:00",
-			"url": "http://www.jarrodwhaley.com/2017/12/01/reddit-really-is.html"
 		}
 		
 	]
