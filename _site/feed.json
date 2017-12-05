@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2017/12/05/chairman-pai-and.html",
+	      	
+			"content_html": "<blockquote>\n  <p>Chairman Pai and the other Republican commissioners simply do not care if consumers are protected or not.</p>\n</blockquote>\n\n<p><a href=\"https://arstechnica.com/tech-policy/2017/12/fcc-chair-refuses-to-delay-net-neutrality-vote-despite-pending-court-case/\">Obviously.</a></p>\n",
+			"date_published": "2017-12-04T16:05:00-08:00",
+			"url": "http://www.jarrodwhaley.com/2017/12/04/chairman-pai-and.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2017/12/04/our-smalltown-newspaper.html",
 	      	
 			"content_html": "<p>Our <a href=\"http://www.hmbreview.com/\">small-town newspaper here in Half Moon Bay</a> is full of stories about pumpkin farming, small-scale public works, and the like. Unlike the putative news concerning the many facets of Our Great National Shame, this paper is <em>pleasant</em> to consume.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I put together a workflow for Alfred that makes posting to Micro.blog on a Mac extremely easy. You can grab the workflow file and find setup instructions <a href=\"https://github.com/jbwhaley/MicroBlogger\">here</a>.</p>\n",
 			"date_published": "2017-11-30T14:41:00-08:00",
 			"url": "http://www.jarrodwhaley.com/2017/11/30/i-put-together.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2017/11/30/for-some-reason.html",
-	      	
-			"content_html": "<p>For some reason I actually just found myself saying “howdy do” to a person, with no irony intended. Clearly something has gone wacko with my brain.</p>\n",
-			"date_published": "2017-11-30T13:45:00-08:00",
-			"url": "http://www.jarrodwhaley.com/2017/11/30/for-some-reason.html"
 		}
 		
 	]
