@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2017/12/06/the-story-of.html",
+	      	
+			"content_html": "<p>The <a href=\"https://arstechnica.com/science/2017/12/victims-of-mystery-attacks-in-cuba-have-anomalies-in-brain-white-matter/\">story of the strange attacks on American diplomats in Cuba</a> keeps getting more and more bizarre.</p>\n",
+			"date_published": "2017-12-06T14:52:00-08:00",
+			"url": "http://www.jarrodwhaley.com/2017/12/06/the-story-of.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2017/12/06/few-things-build.html",
 	      	
 			"content_html": "<p>Few things build more confidence in a financial institution than visiting a page on their Web site and being greeted with a JSON string which includes a developer’s to-do list.</p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<blockquote>\n  <p>Chairman Pai and the other Republican commissioners simply do not care if consumers are protected or not.</p>\n</blockquote>\n\n<p><a href=\"https://arstechnica.com/tech-policy/2017/12/fcc-chair-refuses-to-delay-net-neutrality-vote-despite-pending-court-case/\">Obviously.</a></p>\n",
 			"date_published": "2017-12-04T16:05:00-08:00",
 			"url": "http://www.jarrodwhaley.com/2017/12/04/chairman-pai-and.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2017/12/04/our-smalltown-newspaper.html",
-	      	
-			"content_html": "<p>Our <a href=\"http://www.hmbreview.com/\">small-town newspaper here in Half Moon Bay</a> is full of stories about pumpkin farming, small-scale public works, and the like. Unlike the putative news concerning the many facets of Our Great National Shame, this paper is <em>pleasant</em> to consume.</p>\n",
-			"date_published": "2017-12-03T19:29:00-08:00",
-			"url": "http://www.jarrodwhaley.com/2017/12/03/our-smalltown-newspaper.html"
 		}
 		
 	]
