@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2017/12/06/the-vibe-at.html",
+	      	
+			"content_html": "<p>The vibe at our local post office is so ridiculously chill. I think it’s where postal employees from elsewhere in the country spend their vacations. It must be the best week of their lives.</p>\n",
+			"date_published": "2017-12-06T11:27:00-08:00",
+			"url": "http://www.jarrodwhaley.com/2017/12/06/the-vibe-at.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2017/12/06/i-spotted-a.html",
 	      	
 			"content_html": "<p>I spotted a large jackrabbit running away from my headlights on my drive home tonight. Sometimes I just want to hide in the dark too.</p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>Getting ready for Xmas on the Coastside.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/c9b31ffc31.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-12-03T17:00:00-08:00",
 			"url": "http://www.jarrodwhaley.com/2017/12/03/getting-ready-for.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2017/12/03/streaming-tv-services.html",
-	      	
-			"content_html": "<p>Streaming TV services still do a pretty terrible job at keeping track of what you’ve watched. I keep watching three minutes of an episode and then realizing I’ve seen it.</p>\n",
-			"date_published": "2017-12-02T23:23:00-08:00",
-			"url": "http://www.jarrodwhaley.com/2017/12/02/streaming-tv-services.html"
 		}
 		
 	]
