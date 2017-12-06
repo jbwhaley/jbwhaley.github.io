@@ -1,15 +1,29 @@
-<header class="header" role="banner">
-  <figure class="avatar">
-    <a href="/"><img src="{{ site.avatar }}" alt="{{ site.full_name }}"></a>
-  </figure>
-  <h1 class="site__name">{{ site.full_name }}</h1>
+<header class="header">
+    <div class="navigation">
+        <a href="/" class="logo">{{ site.title }}</a>
 
-	{% assign sorted_pages = site.pages | sort: "order" %}
-	{% for page in sorted_pages %}
-		{% if page.title %}
-			<a class="site__page" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-		{% endif %}
-	{% endfor %}
+        <ul class="menu">
+            <li class="menu__entry"><a href="{{ '/' | prepend: site.baseurl }}">Home</a></li>
+			{% assign sorted_pages = site.pages | sort: "order" %}
+			{% for page in sorted_pages %}
+				{% if page.title %}
+		            <li class="menu__entry"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+				{% endif %}
+			{% endfor %}
+        </ul>
+    </div>
 
-<!--  <a href="#" class="button button--primary">Subscribe</a> -->
+    <ul class="social-links">
+        {% if site.author.github %}
+            <a href="https://github.com/{{ site.author.github }}" class="social-links__entry" target="_blank">
+                <i class="fa fa-github"></i>
+            </a>
+        {% endif %}
+
+        {% if site.author.twitter %}
+            <a href="https://twitter.com/{{ site.author.twitter }}" class="social-links__entry" target="_blank">
+                <i class="fa fa-twitter"></i>
+            </a>
+        {% endif %}
+    </ul>
 </header>
