@@ -1,32 +1,11 @@
-aboutPage: true
+email: your-email@domain.com
 
-# - markdown: redcarpet
-highlighter: pygments
-
-domain_# - name: "http://[HOSTNAME]"
-google_analytics: 'UA-XXXXXXXX-X'
-disqus: false
-disqus_short# - name: 'your-disqus-shortname'
-
-defaults:
-    -
-        scope:
-            path: "" # empty string for all files
-            type: pages
-        values:
-            layout: default
-    -
-        scope:
-            path: "" # empty string for all files
-            type: posts
-        values:
-            layout: post
-    -
-        scope:
-            path: ""
-            type: drafts
-        values:
-            layout: post
+exclude:
+  - Gemfile
+  - Gemfile.lock
+sass:
+  sass_dir: assets/stylesheets
+  style: :compressed
 
 title: "Jarrod Whaley"
 tagline: ""
