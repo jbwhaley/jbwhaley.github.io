@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2017/12/07/would-you-go.html",
+	      	
+			"content_html": "<blockquote>\n  <p><a href=\"https://apple.news/AMTcsYtgWR4OtryJOp3pTHw\">Would you go for a discounted phone if it had ads on it?</a> </p>\n</blockquote>\n\n<p>No.</p>\n",
+			"date_published": "2017-12-06T17:48:00-08:00",
+			"url": "http://www.jarrodwhaley.com/2017/12/06/would-you-go.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2017/12/06/the-story-of.html",
 	      	
 			"content_html": "<p>The <a href=\"https://arstechnica.com/science/2017/12/victims-of-mystery-attacks-in-cuba-have-anomalies-in-brain-white-matter/\">story of the strange attacks on American diplomats in Cuba</a> keeps getting more and more bizarre.</p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>Goodbye, sun.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/27b63c3eff.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2017-12-04T16:58:00-08:00",
 			"url": "http://www.jarrodwhaley.com/2017/12/04/goodbye-sun.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2017/12/05/chairman-pai-and.html",
-	      	
-			"content_html": "<blockquote>\n  <p>Chairman Pai and the other Republican commissioners simply do not care if consumers are protected or not.</p>\n</blockquote>\n\n<p><a href=\"https://arstechnica.com/tech-policy/2017/12/fcc-chair-refuses-to-delay-net-neutrality-vote-despite-pending-court-case/\">Obviously.</a></p>\n",
-			"date_published": "2017-12-04T16:05:00-08:00",
-			"url": "http://www.jarrodwhaley.com/2017/12/04/chairman-pai-and.html"
 		}
 		
 	]
