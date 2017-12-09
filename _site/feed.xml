@@ -4,8 +4,17 @@
     <title>Jarrod Whaley</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jbwhaley&quot;&gt;@jbwhaley on Micro.blog&lt;/a&gt;.</description>
     <link>http://www.jarrodwhaley.com/</link>
-    <pubDate>Thu, 07 Dec 2017 17:04:14 -0800</pubDate>
-    <lastBuildDate>Thu, 07 Dec 2017 17:04:14 -0800</lastBuildDate>
+    <pubDate>Fri, 08 Dec 2017 18:11:58 -0800</pubDate>
+    <lastBuildDate>Fri, 08 Dec 2017 18:11:58 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://linklocker.co/blog/&quot;&gt;LinkLocker&lt;/a&gt; is now on Micro.blog, with the rather obvious handle of &lt;a href=&quot;https://micro.blog/linklocker&quot;&gt;@linklocker&lt;/a&gt;. I had to fiddle around with my Pelican templates a bit, and I had to do some redirects to get the various feeds working correctly…but not too hard to pull off.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 08 Dec 2017 18:11:00 -0800</pubDate>
+        <link>http://www.jarrodwhaley.com/2017/12/08/linklockerhttpslinklockercoblog-is-now.html</link>
+        <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/09/linklockerhttpslinklockercoblog-is-now.html</guid>
+      </item>
     
       <item>
       	
@@ -482,15 +491,6 @@
         <pubDate>Wed, 22 Nov 2017 17:37:00 -0800</pubDate>
         <link>http://www.jarrodwhaley.com/2017/11/22/my-strategy-for.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/11/23/my-strategy-for.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I put together a really simple Pythonista script that makes it extremely easy to post to &lt;a href=&quot;https://micro.blog&quot;&gt;micro.blog&lt;/a&gt; from Drafts on iOS. If you’re using micro.blog and are interested in something like this, let me know.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 22 Nov 2017 16:15:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/11/22/i-put-together.html</link>
-        <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/11/23/i-put-together.html</guid>
       </item>
     
   </channel>
