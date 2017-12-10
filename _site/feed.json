@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2017/12/10/have-a-weird.html",
+	      	
+			"content_html": "<p>Have a weird Christmas, everyone.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/c44fd154dc.jpg\" width=\"599\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-09T18:31:00-08:00",
+			"url": "http://www.jarrodwhaley.com/2017/12/09/have-a-weird.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2017/12/10/christmas-at-pillar.html",
+	      	
+			"content_html": "<p>Christmas at Pillar Point Harbor.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/06a784f0e9.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-09T18:30:00-08:00",
+			"url": "http://www.jarrodwhaley.com/2017/12/09/christmas-at-pillar.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2017/12/09/at-least-wordpress.html",
 	      	
 			"content_html": "<p>At least 5,000 Wordpress sites are <a href=\"http://securityaffairs.co/wordpress/66432/hacking/keylogger.html\">infected with a script that both logs keystrokes <strong>and</strong> mines cryptocurrency</a> for the attacker(s). If you are running a site on Wordpress, keep it patched, for Pete’s sake.</p>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p>The <a href=\"https://arstechnica.com/science/2017/12/victims-of-mystery-attacks-in-cuba-have-anomalies-in-brain-white-matter/\">story of the strange attacks on American diplomats in Cuba</a> keeps getting more and more bizarre.</p>\n",
 			"date_published": "2017-12-06T14:52:00-08:00",
 			"url": "http://www.jarrodwhaley.com/2017/12/06/the-story-of.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2017/12/06/few-things-build.html",
-	      	
-			"content_html": "<p>Few things build more confidence in a financial institution than visiting a page on their Web site and being greeted with a JSON string which includes a developer’s to-do list.</p>\n",
-			"date_published": "2017-12-06T12:22:00-08:00",
-			"url": "http://www.jarrodwhaley.com/2017/12/06/few-things-build.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2017/12/06/the-vibe-at.html",
-	      	
-			"content_html": "<p>The vibe at our local post office is so ridiculously chill. I think it’s where postal employees from elsewhere in the country spend their vacations. It must be the best week of their lives.</p>\n",
-			"date_published": "2017-12-06T11:27:00-08:00",
-			"url": "http://www.jarrodwhaley.com/2017/12/06/the-vibe-at.html"
 		}
 		
 	]
