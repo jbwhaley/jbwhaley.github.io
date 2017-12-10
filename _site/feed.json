@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2017/12/10/didnt-learn-from.html",
+	      	
+			"content_html": "<p>Didn’t learn from the mistakes of Deceiver I, eh?</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/c84dfb06c0.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-09T18:53:00-08:00",
+			"url": "http://www.jarrodwhaley.com/2017/12/09/didnt-learn-from.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2017/12/10/have-a-weird.html",
 	      	
 			"content_html": "<p>Have a weird Christmas, everyone.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/c44fd154dc.jpg\" width=\"599\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<blockquote>\n  <p><a href=\"https://apple.news/AMTcsYtgWR4OtryJOp3pTHw\">Would you go for a discounted phone if it had ads on it?</a> </p>\n</blockquote>\n\n<p>No.</p>\n",
 			"date_published": "2017-12-06T17:48:00-08:00",
 			"url": "http://www.jarrodwhaley.com/2017/12/06/would-you-go.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2017/12/06/the-story-of.html",
-	      	
-			"content_html": "<p>The <a href=\"https://arstechnica.com/science/2017/12/victims-of-mystery-attacks-in-cuba-have-anomalies-in-brain-white-matter/\">story of the strange attacks on American diplomats in Cuba</a> keeps getting more and more bizarre.</p>\n",
-			"date_published": "2017-12-06T14:52:00-08:00",
-			"url": "http://www.jarrodwhaley.com/2017/12/06/the-story-of.html"
 		}
 		
 	]
