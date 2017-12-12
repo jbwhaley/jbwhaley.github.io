@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2017/12/12/if-you-oppose.html",
+	      	
+			"content_html": "<p>If you oppose stupidity, take heart. Your opponent is stupid, after all.</p>\n",
+			"date_published": "2017-12-12T00:56:00-08:00",
+			"url": "http://www.jarrodwhaley.com/2017/12/12/if-you-oppose.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2017/12/12/life-is-rough.html",
 	      	
 			"content_html": "<p>Life is rough for her.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/3624c62783.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Christmas at Pillar Point Harbor.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/06a784f0e9.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-12-09T18:30:00-08:00",
 			"url": "http://www.jarrodwhaley.com/2017/12/09/christmas-at-pillar.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2017/12/09/at-least-wordpress.html",
-	      	
-			"content_html": "<p>At least 5,000 Wordpress sites are <a href=\"http://securityaffairs.co/wordpress/66432/hacking/keylogger.html\">infected with a script that both logs keystrokes <strong>and</strong> mines cryptocurrency</a> for the attacker(s). If you are running a site on Wordpress, keep it patched, for Pete’s sake.</p>\n",
-			"date_published": "2017-12-08T21:50:00-08:00",
-			"url": "http://www.jarrodwhaley.com/2017/12/08/at-least-wordpress.html"
 		}
 		
 	]
