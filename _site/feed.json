@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2017/12/13/wired-published-a.html",
+	      	
+			"content_html": "<p><em>Wired</em> published a <a href=\"https://www.wired.com/story/how-email-open-tracking-quietly-took-over-the-web/\">great history of the practice of tracking when emails are opened</a>. As you might expect, many slimy tales are told.</p>\n",
+			"date_published": "2017-12-12T16:37:00-08:00",
+			"url": "http://www.jarrodwhaley.com/2017/12/12/wired-published-a.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2017/12/12/if-you-oppose.html",
 	      	
 			"content_html": "<p>If you oppose stupidity, take heart. Your opponent is stupid, after all.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Have a weird Christmas, everyone.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/c44fd154dc.jpg\" width=\"599\" height=\"600\" /></p>\n",
 			"date_published": "2017-12-09T18:31:00-08:00",
 			"url": "http://www.jarrodwhaley.com/2017/12/09/have-a-weird.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2017/12/10/christmas-at-pillar.html",
-	      	
-			"content_html": "<p>Christmas at Pillar Point Harbor.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/06a784f0e9.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-12-09T18:30:00-08:00",
-			"url": "http://www.jarrodwhaley.com/2017/12/09/christmas-at-pillar.html"
 		}
 		
 	]
