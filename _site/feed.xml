@@ -4,8 +4,17 @@
     <title>Jarrod Whaley</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jbwhaley&quot;&gt;@jbwhaley on Micro.blog&lt;/a&gt;.</description>
     <link>http://www.jarrodwhaley.com/</link>
-    <pubDate>Thu, 14 Dec 2017 00:29:10 -0800</pubDate>
-    <lastBuildDate>Thu, 14 Dec 2017 00:29:10 -0800</lastBuildDate>
+    <pubDate>Thu, 14 Dec 2017 10:15:37 -0800</pubDate>
+    <lastBuildDate>Thu, 14 Dec 2017 10:15:37 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Whoever coined the phrase “mind over matter” probably never had his mind on anything that mattered.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 14 Dec 2017 10:15:00 -0800</pubDate>
+        <link>http://www.jarrodwhaley.com/2017/12/14/whoever-coined-the.html</link>
+        <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/14/whoever-coined-the.html</guid>
+      </item>
     
       <item>
       	
@@ -490,15 +499,6 @@
         <pubDate>Tue, 28 Nov 2017 17:38:00 -0800</pubDate>
         <link>http://www.jarrodwhaley.com/2017/11/28/the-edge-of.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/11/29/the-edge-of.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Correction: &lt;a href=&quot;https://krebsonsecurity.com/2017/11/macos-high-sierra-users-change-root-password-now/&quot;&gt;Brian Krebs points out&lt;/a&gt; that the High Sierra root bug is exploitable remotely if the attacked machine has Screen Sharing enabled. Probably a good idea to change the root password on all Macs ASAP.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 28 Nov 2017 14:57:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/11/28/correction-brian-krebs.html</link>
-        <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/11/28/correction-brian-krebs.html</guid>
       </item>
     
   </channel>
