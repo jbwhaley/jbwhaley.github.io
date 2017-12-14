@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2017/12/14/has-anyone-ever.html",
+	      	
+			"content_html": "<p>Has anyone ever scheduled a pickup with the USPS for which a driver actually showed up? Share your story.</p>\n",
+			"date_published": "2017-12-13T16:08:00-08:00",
+			"url": "http://www.jarrodwhaley.com/2017/12/13/has-anyone-ever.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2017/12/13/i-know-the.html",
 	      	
 			"content_html": "<p>I know the complete lack of rain in California right now is a dire sign of bad things, but I’ll be damned if I’m not enjoying this weather anyway.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<blockquote>\n  <p><a href=\"https://www.theverge.com/circuitbreaker/2017/12/10/16751232/smart-assistants-please-thank-you-politeness-manners-alexa-siri-google-cortana\">Should you say ‘please’ and ‘thank you’ to your Amazon Echo or Google Home?</a></p>\n</blockquote>\n\n<p>No, but you probably shouldn’t be saying anything to them <em>at all</em>.</p>\n",
 			"date_published": "2017-12-10T16:36:00-08:00",
 			"url": "http://www.jarrodwhaley.com/2017/12/10/should-you-say.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2017/12/10/well-this-is.html",
-	      	
-			"content_html": "<p>Well, <a href=\"https://www.blackhat.com/docs/eu-17/materials/eu-17-Arnaboldi-Exposing-Hidden-Exploitable-Behaviors-In-Programming-Languages-Using-Differential-Fuzzing-wp.pdf\">this is certainly disconcerting</a>. </p>\n",
-			"date_published": "2017-12-10T11:55:00-08:00",
-			"url": "http://www.jarrodwhaley.com/2017/12/10/well-this-is.html"
 		}
 		
 	]
