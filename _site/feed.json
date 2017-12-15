@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2017/12/15/this-old-comic.html",
+	      	
+			"content_html": "<p><a href=\"http://remybrickhead.com/post/105976547085/256-santa\">This old comic I drew</a> kind of says it all.</p>\n",
+			"date_published": "2017-12-14T23:24:00-08:00",
+			"url": "http://www.jarrodwhaley.com/2017/12/14/this-old-comic.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2017/12/14/whoever-coined-the.html",
 	      	
 			"content_html": "<p>Whoever coined the phrase “mind over matter” probably never had his mind on anything that mattered.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>A stolen moment of peace beside the Pacific.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/b079dcf128.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-12-11T17:58:00-08:00",
 			"url": "http://www.jarrodwhaley.com/2017/12/11/a-stolen-moment.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2017/12/11/the-toxic-nature.html",
-	      	
-			"content_html": "<p>The toxic nature of social media <a href=\"https://www.theverge.com/2017/12/11/16761016/former-facebook-exec-ripping-apart-society\">becomes more apparent by the day</a>. We are slowly poisoning our own minds and cultures.</p>\n",
-			"date_published": "2017-12-11T09:34:00-08:00",
-			"url": "http://www.jarrodwhaley.com/2017/12/11/the-toxic-nature.html"
 		}
 		
 	]
