@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2017/12/16/mobilecoin.html",
+	      	
+			"title": "MobileCoin",
+			
+			"content_html": "<p>Moxie Marlinspike’s and Joshua Goldbard’s proposed <a href=\"https://www.wired.com/story/mobilecoin-cryptocurrency/\">MobileCoin cryptocurrency</a> has a lot of potential; in effect, it stores the blockchain in an SGX enclave on a user’s processor. This arrangement is more secure, more anonymous, and more user-friendly than public-blockchain cryptocurrencies like Bitcoin. I’m intrigued.</p>\n",
+			"date_published": "2017-12-15T22:19:00-08:00",
+			"url": "http://www.jarrodwhaley.com/2017/12/15/mobilecoin.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2017/12/15/sometimes-you-just.html",
 	      	
 			"content_html": "<p>Sometimes, you just have to ship 400 packages in four hours. Such is life.</p>\n",
@@ -75,14 +85,6 @@
 			"content_html": "<p>If you oppose stupidity, take heart. Your opponent is stupid, after all.</p>\n",
 			"date_published": "2017-12-12T00:56:00-08:00",
 			"url": "http://www.jarrodwhaley.com/2017/12/12/if-you-oppose.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2017/12/12/life-is-rough.html",
-	      	
-			"content_html": "<p>Life is rough for her.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/3624c62783.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-12-12T00:41:00-08:00",
-			"url": "http://www.jarrodwhaley.com/2017/12/12/life-is-rough.html"
 		}
 		
 	]
