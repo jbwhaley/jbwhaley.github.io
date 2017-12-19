@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2017/12/19/only-america-could.html",
+	      	
+			"content_html": "<p>Only America could take a holiday that’s meant to be a celebration of peace and goodwill and turn it into a giant festival of hectic, stressful consumerism.</p>\n",
+			"date_published": "2017-12-18T19:33:00-08:00",
+			"url": "http://www.jarrodwhaley.com/2017/12/18/only-america-could.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2017/12/17/mozilla-apparently-installed.html",
 	      	
 			"content_html": "<p><a href=\"http://fortune.com/2017/12/17/firefox-mr-robot-looking-glass/\">Mozilla apparently installed a marketing-driven add-on to instances of Firefox without user consent</a>, which would be gross even if <em>Google</em> had done it. Mozilla is supposed to be better than this.</p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>I strongly believe that <a href=\"https://arstechnica.com/information-technology/2017/12/suspicious-event-routes-traffic-for-big-name-sites-through-russia/\">we are at war</a>, and our government either doesn’t notice, doesn’t care, or is complicit.</p>\n",
 			"date_published": "2017-12-14T00:29:00-08:00",
 			"url": "http://www.jarrodwhaley.com/2017/12/14/i-strongly-believe.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2017/12/13/i-know-the.html",
-	      	
-			"content_html": "<p>I know the complete lack of rain in California right now is a dire sign of bad things, but I’ll be damned if I’m not enjoying this weather anyway.</p>\n",
-			"date_published": "2017-12-13T10:49:00-08:00",
-			"url": "http://www.jarrodwhaley.com/2017/12/13/i-know-the.html"
 		}
 		
 	]
