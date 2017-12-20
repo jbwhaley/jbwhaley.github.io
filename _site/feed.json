@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2017/12/20/i-am-saddened.html",
+	      	
+			"content_html": "<p>I am saddened by the symbolic failure on display in the waste of aspirational fruit.</p>\n",
+			"date_published": "2017-12-19T23:51:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2017/12/19/i-am-saddened.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2017/12/20/ars-reports-that.html",
 	      	
 			"content_html": "<p><em>Ars</em> <a href=\"https://arstechnica.com/tech-policy/2017/12/new-york-city-moves-to-create-accountability-for-algorithms/\">reports that New York City is pushing to study the ways in which the city’s digital algorithms might be discriminatory toward the city’s people</a>. I hope more jurisdictions will begin looking into this issue, which has subtle but powerful effects on all of our lives.</p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>Sometimes, you just have to ship 400 packages in four hours. Such is life.</p>\n",
 			"date_published": "2017-12-15T13:04:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2017/12/15/sometimes-you-just.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2017/12/15/this-old-comic.html",
-	      	
-			"content_html": "<p><a href=\"http://remybrickhead.com/post/105976547085/256-santa\">This old comic I drew</a> kind of says it all.</p>\n",
-			"date_published": "2017-12-14T23:24:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2017/12/14/this-old-comic.html"
 		}
 		
 	]
