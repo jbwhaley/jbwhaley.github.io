@@ -3,16 +3,25 @@
   <channel>
     <title>Jarrod Whaley</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jbwhaley&quot;&gt;@jbwhaley on Micro.blog&lt;/a&gt;.</description>
-    <link>http://www.jarrodwhaley.com/</link>
-    <pubDate>Mon, 18 Dec 2017 19:33:20 -0800</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2017 19:33:20 -0800</lastBuildDate>
+    <link>https://www.jarrodwhaley.com/</link>
+    <pubDate>Tue, 19 Dec 2017 19:24:59 -0800</pubDate>
+    <lastBuildDate>Tue, 19 Dec 2017 19:24:59 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;The things you are stressed out about right now probably don’t actually amount to anything. As a very dear friend of mine used to say: be extra careless.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 19 Dec 2017 19:24:00 -0800</pubDate>
+        <link>https://www.jarrodwhaley.com/2017/12/19/the-things-you.html</link>
+        <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/20/the-things-you.html</guid>
+      </item>
     
       <item>
       	
         <description>&lt;p&gt;Only America could take a holiday that’s meant to be a celebration of peace and goodwill and turn it into a giant festival of hectic, stressful consumerism.&lt;/p&gt;
 </description>
         <pubDate>Mon, 18 Dec 2017 19:33:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/18/only-america-could.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/18/only-america-could.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/19/only-america-could.html</guid>
       </item>
     
@@ -21,7 +30,7 @@
         <description>&lt;p&gt;&lt;a href=&quot;http://fortune.com/2017/12/17/firefox-mr-robot-looking-glass/&quot;&gt;Mozilla apparently installed a marketing-driven add-on to instances of Firefox without user consent&lt;/a&gt;, which would be gross even if &lt;em&gt;Google&lt;/em&gt; had done it. Mozilla is supposed to be better than this.&lt;/p&gt;
 </description>
         <pubDate>Sun, 17 Dec 2017 13:41:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/17/mozilla-apparently-installed.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/17/mozilla-apparently-installed.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/17/mozilla-apparently-installed.html</guid>
       </item>
     
@@ -32,7 +41,7 @@
 &lt;p&gt;&lt;img src=&quot;http://www.jarrodwhaley.com/uploads/2017/06f1fe49d7.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 17 Dec 2017 09:10:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/17/sunday-sunrise.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/17/sunday-sunrise.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/17/sunday-sunrise.html</guid>
       </item>
     
@@ -43,7 +52,7 @@
 &lt;p&gt;&lt;img src=&quot;http://www.jarrodwhaley.com/uploads/2017/bf35b8e215.jpg&quot; width=&quot;600&quot; height=&quot;599&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 16 Dec 2017 17:32:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/16/looking-out-my.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/16/looking-out-my.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/17/looking-out-my.html</guid>
       </item>
     
@@ -54,7 +63,7 @@
 &lt;p&gt;&lt;img src=&quot;http://www.jarrodwhaley.com/uploads/2017/d38fa433f1.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 15 Dec 2017 22:28:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/15/our-tiny-bay.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/15/our-tiny-bay.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/16/our-tiny-bay.html</guid>
       </item>
     
@@ -65,7 +74,7 @@
         <description>&lt;p&gt;Moxie Marlinspike’s and Joshua Goldbard’s proposed &lt;a href=&quot;https://www.wired.com/story/mobilecoin-cryptocurrency/&quot;&gt;MobileCoin cryptocurrency&lt;/a&gt; has a lot of potential; in effect, it stores the blockchain in an SGX enclave on a user’s processor. This arrangement is more secure, more anonymous, and more user-friendly than public-blockchain cryptocurrencies like Bitcoin. I’m intrigued.&lt;/p&gt;
 </description>
         <pubDate>Fri, 15 Dec 2017 22:19:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/15/mobilecoin.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/15/mobilecoin.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/16/mobilecoin.html</guid>
       </item>
     
@@ -74,7 +83,7 @@
         <description>&lt;p&gt;Sometimes, you just have to ship 400 packages in four hours. Such is life.&lt;/p&gt;
 </description>
         <pubDate>Fri, 15 Dec 2017 13:04:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/15/sometimes-you-just.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/15/sometimes-you-just.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/15/sometimes-you-just.html</guid>
       </item>
     
@@ -83,7 +92,7 @@
         <description>&lt;p&gt;&lt;a href=&quot;http://remybrickhead.com/post/105976547085/256-santa&quot;&gt;This old comic I drew&lt;/a&gt; kind of says it all.&lt;/p&gt;
 </description>
         <pubDate>Thu, 14 Dec 2017 23:24:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/14/this-old-comic.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/14/this-old-comic.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/15/this-old-comic.html</guid>
       </item>
     
@@ -92,7 +101,7 @@
         <description>&lt;p&gt;Whoever coined the phrase “mind over matter” probably never had his mind on anything that mattered.&lt;/p&gt;
 </description>
         <pubDate>Thu, 14 Dec 2017 10:15:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/14/whoever-coined-the.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/14/whoever-coined-the.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/14/whoever-coined-the.html</guid>
       </item>
     
@@ -101,7 +110,7 @@
         <description>&lt;p&gt;I strongly believe that &lt;a href=&quot;https://arstechnica.com/information-technology/2017/12/suspicious-event-routes-traffic-for-big-name-sites-through-russia/&quot;&gt;we are at war&lt;/a&gt;, and our government either doesn’t notice, doesn’t care, or is complicit.&lt;/p&gt;
 </description>
         <pubDate>Thu, 14 Dec 2017 00:29:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/14/i-strongly-believe.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/14/i-strongly-believe.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/14/i-strongly-believe.html</guid>
       </item>
     
@@ -110,7 +119,7 @@
         <description>&lt;p&gt;I know the complete lack of rain in California right now is a dire sign of bad things, but I’ll be damned if I’m not enjoying this weather anyway.&lt;/p&gt;
 </description>
         <pubDate>Wed, 13 Dec 2017 10:49:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/13/i-know-the.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/13/i-know-the.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/13/i-know-the.html</guid>
       </item>
     
@@ -119,7 +128,7 @@
         <description>&lt;p&gt;&lt;em&gt;Wired&lt;/em&gt; published a &lt;a href=&quot;https://www.wired.com/story/how-email-open-tracking-quietly-took-over-the-web/&quot;&gt;great history of the practice of tracking when emails are opened&lt;/a&gt;. As you might expect, many slimy tales are told.&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Dec 2017 16:37:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/12/wired-published-a.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/12/wired-published-a.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/13/wired-published-a.html</guid>
       </item>
     
@@ -128,7 +137,7 @@
         <description>&lt;p&gt;If you oppose stupidity, take heart. Your opponent is stupid, after all.&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Dec 2017 00:56:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/12/if-you-oppose.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/12/if-you-oppose.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/12/if-you-oppose.html</guid>
       </item>
     
@@ -139,7 +148,7 @@
 &lt;p&gt;&lt;img src=&quot;http://www.jarrodwhaley.com/uploads/2017/3624c62783.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Dec 2017 00:41:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/12/life-is-rough.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/12/life-is-rough.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/12/life-is-rough.html</guid>
       </item>
     
@@ -150,7 +159,7 @@
 &lt;p&gt;&lt;img src=&quot;http://www.jarrodwhaley.com/uploads/2017/b079dcf128.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 11 Dec 2017 17:58:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/11/a-stolen-moment.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/11/a-stolen-moment.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/12/a-stolen-moment.html</guid>
       </item>
     
@@ -159,7 +168,7 @@
         <description>&lt;p&gt;The toxic nature of social media &lt;a href=&quot;https://www.theverge.com/2017/12/11/16761016/former-facebook-exec-ripping-apart-society&quot;&gt;becomes more apparent by the day&lt;/a&gt;. We are slowly poisoning our own minds and cultures.&lt;/p&gt;
 </description>
         <pubDate>Mon, 11 Dec 2017 09:34:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/11/the-toxic-nature.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/11/the-toxic-nature.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/11/the-toxic-nature.html</guid>
       </item>
     
@@ -168,7 +177,7 @@
         <description>&lt;p&gt;Pai is determined to &lt;a href=&quot;https://arstechnica.com/tech-policy/2017/12/fcc-chair-still-refuses-to-help-investigate-net-neutrality-comment-fraud/&quot;&gt;force the Net Neutrality repeal vote&lt;/a&gt;, come Hell, high water, or an investigation carried out by the New York State Attorney General’s office.&lt;/p&gt;
 </description>
         <pubDate>Mon, 11 Dec 2017 09:21:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/11/pai-is-determined.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/11/pai-is-determined.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/11/pai-is-determined.html</guid>
       </item>
     
@@ -181,7 +190,7 @@
 &lt;p&gt;No, but you probably shouldn’t be saying anything to them &lt;em&gt;at all&lt;/em&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 10 Dec 2017 16:36:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/10/should-you-say.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/10/should-you-say.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/11/should-you-say.html</guid>
       </item>
     
@@ -190,7 +199,7 @@
         <description>&lt;p&gt;Well, &lt;a href=&quot;https://www.blackhat.com/docs/eu-17/materials/eu-17-Arnaboldi-Exposing-Hidden-Exploitable-Behaviors-In-Programming-Languages-Using-Differential-Fuzzing-wp.pdf&quot;&gt;this is certainly disconcerting&lt;/a&gt;. &lt;/p&gt;
 </description>
         <pubDate>Sun, 10 Dec 2017 11:55:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/10/well-this-is.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/10/well-this-is.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/10/well-this-is.html</guid>
       </item>
     
@@ -201,7 +210,7 @@
 &lt;p&gt;&lt;img src=&quot;http://www.jarrodwhaley.com/uploads/2017/c84dfb06c0.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 09 Dec 2017 18:53:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/09/didnt-learn-from.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/09/didnt-learn-from.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/10/didnt-learn-from.html</guid>
       </item>
     
@@ -212,7 +221,7 @@
 &lt;p&gt;&lt;img src=&quot;http://www.jarrodwhaley.com/uploads/2017/c44fd154dc.jpg&quot; width=&quot;599&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 09 Dec 2017 18:31:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/09/have-a-weird.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/09/have-a-weird.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/10/have-a-weird.html</guid>
       </item>
     
@@ -223,7 +232,7 @@
 &lt;p&gt;&lt;img src=&quot;http://www.jarrodwhaley.com/uploads/2017/06a784f0e9.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 09 Dec 2017 18:30:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/09/christmas-at-pillar.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/09/christmas-at-pillar.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/10/christmas-at-pillar.html</guid>
       </item>
     
@@ -232,7 +241,7 @@
         <description>&lt;p&gt;At least 5,000 Wordpress sites are &lt;a href=&quot;http://securityaffairs.co/wordpress/66432/hacking/keylogger.html&quot;&gt;infected with a script that both logs keystrokes &lt;strong&gt;and&lt;/strong&gt; mines cryptocurrency&lt;/a&gt; for the attacker(s). If you are running a site on Wordpress, keep it patched, for Pete’s sake.&lt;/p&gt;
 </description>
         <pubDate>Fri, 08 Dec 2017 21:50:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/08/at-least-wordpress.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/08/at-least-wordpress.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/09/at-least-wordpress.html</guid>
       </item>
     
@@ -243,7 +252,7 @@
 &lt;p&gt;&lt;img src=&quot;http://www.jarrodwhaley.com/uploads/2017/d68fdc93f7.jpg&quot; width=&quot;600&quot; height=&quot;599&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 08 Dec 2017 18:25:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/08/my-favorite-lunch.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/08/my-favorite-lunch.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/09/my-favorite-lunch.html</guid>
       </item>
     
@@ -252,7 +261,7 @@
         <description>&lt;p&gt;&lt;a href=&quot;https://linklocker.co/blog/&quot;&gt;LinkLocker&lt;/a&gt; is now on Micro.blog, with the rather obvious handle of &lt;a href=&quot;https://micro.blog/linklocker&quot;&gt;@linklocker&lt;/a&gt;. I had to fiddle around with my Pelican templates a bit, and I had to do some redirects to get the various feeds working correctly…but not too hard to pull off.&lt;/p&gt;
 </description>
         <pubDate>Fri, 08 Dec 2017 18:11:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/08/linklockerhttpslinklockercoblog-is-now.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/08/linklockerhttpslinklockercoblog-is-now.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/09/linklockerhttpslinklockercoblog-is-now.html</guid>
       </item>
     
@@ -261,7 +270,7 @@
         <description>&lt;p&gt;Just meditate on the phrase “networked doorknob” for a moment. Sounds dumb, right? &lt;a href=&quot;https://512pixels.net/2017/12/zero-day-ios-homekit-vulnerability-discovered-patch-coming-next-week/&quot;&gt;It &lt;em&gt;is&lt;/em&gt; dumb&lt;/a&gt;. &lt;/p&gt;
 </description>
         <pubDate>Thu, 07 Dec 2017 17:04:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/07/just-meditate-on.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/07/just-meditate-on.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/08/just-meditate-on.html</guid>
       </item>
     
@@ -270,7 +279,7 @@
         <description>&lt;p&gt;&lt;a href=&quot;https://krebsonsecurity.com/2017/12/phishers-are-upping-their-game-so-should-you/&quot;&gt;Phishing attempts are getting harder and harder to detect at first glance&lt;/a&gt;. Seeing that little green lock in the URL bar doesn’t necessarily mean the site you’re looking at is what you think it is. &lt;/p&gt;
 </description>
         <pubDate>Thu, 07 Dec 2017 16:54:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/07/phishing-attempts-are.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/07/phishing-attempts-are.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/08/phishing-attempts-are.html</guid>
       </item>
     
@@ -281,7 +290,7 @@
 &lt;p&gt;&lt;img src=&quot;http://www.jarrodwhaley.com/uploads/2017/1c8df774e0.jpg&quot; width=&quot;600&quot; height=&quot;599&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 07 Dec 2017 16:00:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/07/macos-brings-a.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/07/macos-brings-a.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/08/macos-brings-a.html</guid>
       </item>
     
@@ -294,7 +303,7 @@
 &lt;p&gt;No.&lt;/p&gt;
 </description>
         <pubDate>Wed, 06 Dec 2017 17:48:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/06/would-you-go.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/06/would-you-go.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/07/would-you-go.html</guid>
       </item>
     
@@ -303,7 +312,7 @@
         <description>&lt;p&gt;The &lt;a href=&quot;https://arstechnica.com/science/2017/12/victims-of-mystery-attacks-in-cuba-have-anomalies-in-brain-white-matter/&quot;&gt;story of the strange attacks on American diplomats in Cuba&lt;/a&gt; keeps getting more and more bizarre.&lt;/p&gt;
 </description>
         <pubDate>Wed, 06 Dec 2017 14:52:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/06/the-story-of.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/06/the-story-of.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/06/the-story-of.html</guid>
       </item>
     
@@ -312,7 +321,7 @@
         <description>&lt;p&gt;Few things build more confidence in a financial institution than visiting a page on their Web site and being greeted with a JSON string which includes a developer’s to-do list.&lt;/p&gt;
 </description>
         <pubDate>Wed, 06 Dec 2017 12:22:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/06/few-things-build.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/06/few-things-build.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/06/few-things-build.html</guid>
       </item>
     
@@ -321,7 +330,7 @@
         <description>&lt;p&gt;The vibe at our local post office is so ridiculously chill. I think it’s where postal employees from elsewhere in the country spend their vacations. It must be the best week of their lives.&lt;/p&gt;
 </description>
         <pubDate>Wed, 06 Dec 2017 11:27:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/06/the-vibe-at.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/06/the-vibe-at.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/06/the-vibe-at.html</guid>
       </item>
     
@@ -330,7 +339,7 @@
         <description>&lt;p&gt;I spotted a large jackrabbit running away from my headlights on my drive home tonight. Sometimes I just want to hide in the dark too.&lt;/p&gt;
 </description>
         <pubDate>Wed, 06 Dec 2017 01:29:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/06/i-spotted-a.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/06/i-spotted-a.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/06/i-spotted-a.html</guid>
       </item>
     
@@ -343,7 +352,7 @@
 &lt;p&gt;Maybe I’m just old. I mean, I am &lt;em&gt;definitely&lt;/em&gt; old, but maybe the oldness explains my mystification with the phenomenon of YouTube as an only source of moving images. &lt;/p&gt;
 </description>
         <pubDate>Tue, 05 Dec 2017 13:36:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/05/i-dont-get.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/05/i-dont-get.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/05/i-dont-get.html</guid>
       </item>
     
@@ -352,7 +361,7 @@
         <description>&lt;p&gt;I left the house without my wallet this morning, so I guess I’ll be running an unplanned experiment with using Apple Pay for everything I buy today. Should be interesting.&lt;/p&gt;
 </description>
         <pubDate>Tue, 05 Dec 2017 12:49:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/05/i-left-the.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/05/i-left-the.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/05/i-left-the.html</guid>
       </item>
     
@@ -361,7 +370,7 @@
         <description>&lt;p&gt;Have I mentioned Algo VPN lately? It’s an Ansible script that sets up a personal VPN on a cloud instance you control. Tear your VPN down and rebuild a new one at will. I &lt;a href=&quot;https://linklocker.co/blog/run-your-own-secure-vpn-service-with-algo.html&quot;&gt;wrote about it&lt;/a&gt; a while back.&lt;/p&gt;
 </description>
         <pubDate>Mon, 04 Dec 2017 20:16:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/04/have-i-mentioned.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/04/have-i-mentioned.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/05/have-i-mentioned.html</guid>
       </item>
     
@@ -372,7 +381,7 @@
 &lt;p&gt;&lt;img src=&quot;http://www.jarrodwhaley.com/uploads/2017/fdd3a13f25.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 04 Dec 2017 17:49:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/04/beautiful-sunset-bike.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/04/beautiful-sunset-bike.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/05/beautiful-sunset-bike.html</guid>
       </item>
     
@@ -383,7 +392,7 @@
 &lt;p&gt;&lt;img src=&quot;http://www.jarrodwhaley.com/uploads/2017/27b63c3eff.jpg&quot; width=&quot;600&quot; height=&quot;599&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 04 Dec 2017 16:58:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/04/goodbye-sun.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/04/goodbye-sun.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/05/goodbye-sun.html</guid>
       </item>
     
@@ -396,7 +405,7 @@
 &lt;p&gt;&lt;a href=&quot;https://arstechnica.com/tech-policy/2017/12/fcc-chair-refuses-to-delay-net-neutrality-vote-despite-pending-court-case/&quot;&gt;Obviously.&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 04 Dec 2017 16:05:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/04/chairman-pai-and.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/04/chairman-pai-and.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/05/chairman-pai-and.html</guid>
       </item>
     
@@ -405,7 +414,7 @@
         <description>&lt;p&gt;Our &lt;a href=&quot;http://www.hmbreview.com/&quot;&gt;small-town newspaper here in Half Moon Bay&lt;/a&gt; is full of stories about pumpkin farming, small-scale public works, and the like. Unlike the putative news concerning the many facets of Our Great National Shame, this paper is &lt;em&gt;pleasant&lt;/em&gt; to consume.&lt;/p&gt;
 </description>
         <pubDate>Sun, 03 Dec 2017 19:29:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/03/our-smalltown-newspaper.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/03/our-smalltown-newspaper.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/04/our-smalltown-newspaper.html</guid>
       </item>
     
@@ -416,7 +425,7 @@
 &lt;p&gt;&lt;img src=&quot;http://www.jarrodwhaley.com/uploads/2017/c9b31ffc31.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 03 Dec 2017 17:00:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/03/getting-ready-for.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/03/getting-ready-for.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/04/getting-ready-for.html</guid>
       </item>
     
@@ -425,7 +434,7 @@
         <description>&lt;p&gt;Streaming TV services still do a pretty terrible job at keeping track of what you’ve watched. I keep watching three minutes of an episode and then realizing I’ve seen it.&lt;/p&gt;
 </description>
         <pubDate>Sat, 02 Dec 2017 23:23:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/02/streaming-tv-services.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/02/streaming-tv-services.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/03/streaming-tv-services.html</guid>
       </item>
     
@@ -434,7 +443,7 @@
         <description>&lt;p&gt;The fact that &lt;a href=&quot;https://www.theregister.co.uk/2017/12/01/apple_ios_11_security_downgrade_decried_as_horror_show/&quot;&gt;encrypted iTunes backup keys can now be reset with just the device’s passcode&lt;/a&gt; is indeed a worrying change. At this point, it’s hard to recommend anything to international travelers other than leaving iPhones at home.&lt;/p&gt;
 </description>
         <pubDate>Sat, 02 Dec 2017 08:49:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/02/the-fact-that.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/02/the-fact-that.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/02/the-fact-that.html</guid>
       </item>
     
@@ -443,7 +452,7 @@
         <description>&lt;p&gt;It’s strange how hard we have to fight for a little peace.&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Dec 2017 23:04:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/01/its-strange-how.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/01/its-strange-how.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/02/its-strange-how.html</guid>
       </item>
     
@@ -452,7 +461,7 @@
         <description>&lt;p&gt;Reddit really is a flaming dumpster full of flaming diapers. It makes Twitter look like an enlightened paradise.&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Dec 2017 14:06:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/01/reddit-really-is.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/01/reddit-really-is.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/01/reddit-really-is.html</guid>
       </item>
     
@@ -461,7 +470,7 @@
         <description>&lt;p&gt;&lt;a href=&quot;https://github.com/thingles/1Blocker-Packages&quot;&gt;These 1Blocker packages&lt;/a&gt; by &lt;a href=&quot;https://micro.blog/jthingelstad&quot;&gt;@jthingelstad&lt;/a&gt; have made the Internet so much nicer to use for me. They block &lt;strong&gt;all&lt;/strong&gt; requests aimed at domains controlled by Twitter, Facebook, Instagram, Reddit, and more. Fantastic.&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Dec 2017 10:17:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/12/01/181750.html</link>
+        <link>https://www.jarrodwhaley.com/2017/12/01/181750.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/01/181750.html</guid>
       </item>
     
@@ -472,7 +481,7 @@
 &lt;p&gt;&lt;img src=&quot;http://www.jarrodwhaley.com/uploads/2017/1c4fe302df.jpg&quot; width=&quot;600&quot; height=&quot;599&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 30 Nov 2017 22:52:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/11/30/there-are-few.html</link>
+        <link>https://www.jarrodwhaley.com/2017/11/30/there-are-few.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/01/there-are-few.html</guid>
       </item>
     
@@ -481,7 +490,7 @@
         <description>&lt;p&gt;I put together a workflow for Alfred that makes posting to Micro.blog on a Mac extremely easy. You can grab the workflow file and find setup instructions &lt;a href=&quot;https://github.com/jbwhaley/MicroBlogger&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Thu, 30 Nov 2017 14:41:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/11/30/i-put-together.html</link>
+        <link>https://www.jarrodwhaley.com/2017/11/30/i-put-together.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/11/30/i-put-together.html</guid>
       </item>
     
@@ -490,17 +499,8 @@
         <description>&lt;p&gt;For some reason I actually just found myself saying “howdy do” to a person, with no irony intended. Clearly something has gone wacko with my brain.&lt;/p&gt;
 </description>
         <pubDate>Thu, 30 Nov 2017 13:45:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/11/30/for-some-reason.html</link>
+        <link>https://www.jarrodwhaley.com/2017/11/30/for-some-reason.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/11/30/for-some-reason.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;In a couple of weeks, &lt;a href=&quot;https://linklocker.co&quot;&gt;LinkLocker.co&lt;/a&gt; will have been publicly available for one year. Here is to many, many more years.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 30 Nov 2017 12:01:00 -0800</pubDate>
-        <link>http://www.jarrodwhaley.com/2017/11/30/in-a-couple.html</link>
-        <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/11/30/in-a-couple.html</guid>
       </item>
     
   </channel>
