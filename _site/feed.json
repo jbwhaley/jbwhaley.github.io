@@ -1,16 +1,24 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Jarrod Whaley",
-	"home_page_url": "http://www.jarrodwhaley.com/",
-	"feed_url": "http://www.jarrodwhaley.com/feed.json",
+	"home_page_url": "https://www.jarrodwhaley.com/",
+	"feed_url": "https://www.jarrodwhaley.com/feed.json",
 	"items": [
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2017/12/20/the-things-you.html",
+	      	
+			"content_html": "<p>The things you are stressed out about right now probably don’t actually amount to anything. As a very dear friend of mine used to say: be extra careless.</p>\n",
+			"date_published": "2017-12-19T19:24:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2017/12/19/the-things-you.html"
+		},
 		
 		{
 			"id": "http://jbwhaley.micro.blog/2017/12/19/only-america-could.html",
 	      	
 			"content_html": "<p>Only America could take a holiday that’s meant to be a celebration of peace and goodwill and turn it into a giant festival of hectic, stressful consumerism.</p>\n",
 			"date_published": "2017-12-18T19:33:00-08:00",
-			"url": "http://www.jarrodwhaley.com/2017/12/18/only-america-could.html"
+			"url": "https://www.jarrodwhaley.com/2017/12/18/only-america-could.html"
 		},
 		
 		{
@@ -18,7 +26,7 @@
 	      	
 			"content_html": "<p><a href=\"http://fortune.com/2017/12/17/firefox-mr-robot-looking-glass/\">Mozilla apparently installed a marketing-driven add-on to instances of Firefox without user consent</a>, which would be gross even if <em>Google</em> had done it. Mozilla is supposed to be better than this.</p>\n",
 			"date_published": "2017-12-17T13:41:00-08:00",
-			"url": "http://www.jarrodwhaley.com/2017/12/17/mozilla-apparently-installed.html"
+			"url": "https://www.jarrodwhaley.com/2017/12/17/mozilla-apparently-installed.html"
 		},
 		
 		{
@@ -26,7 +34,7 @@
 	      	
 			"content_html": "<p>Sunday sunrise.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/06f1fe49d7.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-12-17T09:10:00-08:00",
-			"url": "http://www.jarrodwhaley.com/2017/12/17/sunday-sunrise.html"
+			"url": "https://www.jarrodwhaley.com/2017/12/17/sunday-sunrise.html"
 		},
 		
 		{
@@ -34,7 +42,7 @@
 	      	
 			"content_html": "<p>Looking out my back door.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/bf35b8e215.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2017-12-16T17:32:00-08:00",
-			"url": "http://www.jarrodwhaley.com/2017/12/16/looking-out-my.html"
+			"url": "https://www.jarrodwhaley.com/2017/12/16/looking-out-my.html"
 		},
 		
 		{
@@ -42,7 +50,7 @@
 	      	
 			"content_html": "<p>Our tiny Bay Area apartment can’t contain much Xmas cheer, so we cheer up our patio with a little tree each year.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/d38fa433f1.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-12-15T22:28:00-08:00",
-			"url": "http://www.jarrodwhaley.com/2017/12/15/our-tiny-bay.html"
+			"url": "https://www.jarrodwhaley.com/2017/12/15/our-tiny-bay.html"
 		},
 		
 		{
@@ -52,7 +60,7 @@
 			
 			"content_html": "<p>Moxie Marlinspike’s and Joshua Goldbard’s proposed <a href=\"https://www.wired.com/story/mobilecoin-cryptocurrency/\">MobileCoin cryptocurrency</a> has a lot of potential; in effect, it stores the blockchain in an SGX enclave on a user’s processor. This arrangement is more secure, more anonymous, and more user-friendly than public-blockchain cryptocurrencies like Bitcoin. I’m intrigued.</p>\n",
 			"date_published": "2017-12-15T22:19:00-08:00",
-			"url": "http://www.jarrodwhaley.com/2017/12/15/mobilecoin.html"
+			"url": "https://www.jarrodwhaley.com/2017/12/15/mobilecoin.html"
 		},
 		
 		{
@@ -60,7 +68,7 @@
 	      	
 			"content_html": "<p>Sometimes, you just have to ship 400 packages in four hours. Such is life.</p>\n",
 			"date_published": "2017-12-15T13:04:00-08:00",
-			"url": "http://www.jarrodwhaley.com/2017/12/15/sometimes-you-just.html"
+			"url": "https://www.jarrodwhaley.com/2017/12/15/sometimes-you-just.html"
 		},
 		
 		{
@@ -68,7 +76,7 @@
 	      	
 			"content_html": "<p><a href=\"http://remybrickhead.com/post/105976547085/256-santa\">This old comic I drew</a> kind of says it all.</p>\n",
 			"date_published": "2017-12-14T23:24:00-08:00",
-			"url": "http://www.jarrodwhaley.com/2017/12/14/this-old-comic.html"
+			"url": "https://www.jarrodwhaley.com/2017/12/14/this-old-comic.html"
 		},
 		
 		{
@@ -76,15 +84,7 @@
 	      	
 			"content_html": "<p>Whoever coined the phrase “mind over matter” probably never had his mind on anything that mattered.</p>\n",
 			"date_published": "2017-12-14T10:15:00-08:00",
-			"url": "http://www.jarrodwhaley.com/2017/12/14/whoever-coined-the.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2017/12/14/i-strongly-believe.html",
-	      	
-			"content_html": "<p>I strongly believe that <a href=\"https://arstechnica.com/information-technology/2017/12/suspicious-event-routes-traffic-for-big-name-sites-through-russia/\">we are at war</a>, and our government either doesn’t notice, doesn’t care, or is complicit.</p>\n",
-			"date_published": "2017-12-14T00:29:00-08:00",
-			"url": "http://www.jarrodwhaley.com/2017/12/14/i-strongly-believe.html"
+			"url": "https://www.jarrodwhaley.com/2017/12/14/whoever-coined-the.html"
 		}
 		
 	]
