@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2017/12/24/yes-of-course.html",
+	      	
+			"content_html": "<p>Yes, of course there’s a motorcycle parked atop the baggage claim conveyor. Naturally.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/86e074a29f.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-24T07:05:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2017/12/24/yes-of-course.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2017/12/24/youll-notice-it.html",
 	      	
 			"content_html": "<p>You’ll notice it has been a long while since my previous post, and yet I’m still traveling. I refer you to the content of that previous post, which still applies.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I am saddened by the symbolic failure on display in the waste of aspirational fruit.</p>\n",
 			"date_published": "2017-12-19T23:51:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2017/12/19/i-am-saddened.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2017/12/20/ars-reports-that.html",
-	      	
-			"content_html": "<p><em>Ars</em> <a href=\"https://arstechnica.com/tech-policy/2017/12/new-york-city-moves-to-create-accountability-for-algorithms/\">reports that New York City is pushing to study the ways in which the city’s digital algorithms might be discriminatory toward the city’s people</a>. I hope more jurisdictions will begin looking into this issue, which has subtle but powerful effects on all of our lives.</p>\n",
-			"date_published": "2017-12-19T21:40:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2017/12/19/ars-reports-that.html"
 		}
 		
 	]
