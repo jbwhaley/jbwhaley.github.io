@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2017/12/24/youll-notice-it.html",
+	      	
+			"content_html": "<p>You’ll notice it has been a long while since my previous post, and yet I’m still traveling. I refer you to the content of that previous post, which still applies.</p>\n",
+			"date_published": "2017-12-24T04:45:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2017/12/24/youll-notice-it.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2017/12/23/ordinarily-i-might.html",
 	      	
 			"content_html": "<p>Ordinarily I might complain right now about the unpredictable but inevitable changes in plans that go along with holiday air travel. But I’m not going to do that. Happy holidays.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p><em>Ars</em> <a href=\"https://arstechnica.com/tech-policy/2017/12/new-york-city-moves-to-create-accountability-for-algorithms/\">reports that New York City is pushing to study the ways in which the city’s digital algorithms might be discriminatory toward the city’s people</a>. I hope more jurisdictions will begin looking into this issue, which has subtle but powerful effects on all of our lives.</p>\n",
 			"date_published": "2017-12-19T21:40:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2017/12/19/ars-reports-that.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2017/12/20/the-things-you.html",
-	      	
-			"content_html": "<p>The things you are stressed out about right now probably don’t actually amount to anything. As a very dear friend of mine used to say: be extra careless.</p>\n",
-			"date_published": "2017-12-19T19:24:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2017/12/19/the-things-you.html"
 		}
 		
 	]
