@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2017/12/28/troll-poll-tabs.html",
+	      	
+			"content_html": "<p>Troll Poll: Tabs or spaces? Vodka with vermouth in it or “vodka martini?” Tastefulness or ketchup on hot dogs? Serial comma or illegible drivel?</p>\n",
+			"date_published": "2017-12-28T13:44:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2017/12/28/troll-poll-tabs.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2017/12/28/we-gained-a.html",
 	      	
 			"content_html": "<p>We gained a lot when our work tools became globally mobile, but we lost a lot more than we realized in the bargain.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>The following text was accidentally typed out on my phone while it was in my pocket earlier, and it pretty much sums up my feelings:</p>\n\n<blockquote>\n  <p>Order crafting roll by yyb this ugh u  the ugh righthug   B*it gfugtsuo<a href=\"\"> was Yes</a></p>\n</blockquote>\n",
 			"date_published": "2017-12-20T16:03:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2017/12/20/the-following-text.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2017/12/20/man-the-future.html",
-	      	
-			"content_html": "<p>Man, <a href=\"https://www.cnet.com/products/magic-leap-one/preview/\">the future is stupid</a>.</p>\n",
-			"date_published": "2017-12-20T11:56:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2017/12/20/man-the-future.html"
 		}
 		
 	]
