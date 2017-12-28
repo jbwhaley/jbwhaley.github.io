@@ -4,8 +4,17 @@
     <title>Jarrod Whaley</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jbwhaley&quot;&gt;@jbwhaley on Micro.blog&lt;/a&gt;.</description>
     <link>https://www.jarrodwhaley.com/</link>
-    <pubDate>Thu, 28 Dec 2017 08:45:57 -0800</pubDate>
-    <lastBuildDate>Thu, 28 Dec 2017 08:45:57 -0800</lastBuildDate>
+    <pubDate>Thu, 28 Dec 2017 13:44:15 -0800</pubDate>
+    <lastBuildDate>Thu, 28 Dec 2017 13:44:15 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Troll Poll: Tabs or spaces? Vodka with vermouth in it or “vodka martini?” Tastefulness or ketchup on hot dogs? Serial comma or illegible drivel?&lt;/p&gt;
+</description>
+        <pubDate>Thu, 28 Dec 2017 13:44:00 -0800</pubDate>
+        <link>https://www.jarrodwhaley.com/2017/12/28/troll-poll-tabs.html</link>
+        <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/28/troll-poll-tabs.html</guid>
+      </item>
     
       <item>
       	
@@ -488,15 +497,6 @@
         <pubDate>Tue, 05 Dec 2017 12:49:00 -0800</pubDate>
         <link>https://www.jarrodwhaley.com/2017/12/05/i-left-the.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/05/i-left-the.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Have I mentioned Algo VPN lately? It’s an Ansible script that sets up a personal VPN on a cloud instance you control. Tear your VPN down and rebuild a new one at will. I &lt;a href=&quot;https://linklocker.co/blog/run-your-own-secure-vpn-service-with-algo.html&quot;&gt;wrote about it&lt;/a&gt; a while back.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 04 Dec 2017 20:16:00 -0800</pubDate>
-        <link>https://www.jarrodwhaley.com/2017/12/04/have-i-mentioned.html</link>
-        <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/05/have-i-mentioned.html</guid>
       </item>
     
   </channel>
