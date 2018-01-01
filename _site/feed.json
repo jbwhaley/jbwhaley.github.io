@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/01/01/its-very-hard.html",
+	      	
+			"content_html": "<p>It’s very hard to find black-eyed peas in California. They are traditional New Year’s Day fare for expatriated southerners. This is a (very) minor tragedy.</p>\n",
+			"date_published": "2018-01-01T11:18:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/01/01/its-very-hard.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2017/12/31/just-clap-your.html",
 	      	
 			"content_html": "<p>Just clap your hands.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/5bffd71001.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Ordinarily I might complain right now about the unpredictable but inevitable changes in plans that go along with holiday air travel. But I’m not going to do that. Happy holidays.</p>\n",
 			"date_published": "2017-12-23T12:58:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2017/12/23/ordinarily-i-might.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2017/12/22/i-have-serious.html",
-	      	
-			"content_html": "<p>I have serious doubts about any guy who walks out of a public restroom stall with a huge grin on his face.</p>\n",
-			"date_published": "2017-12-22T15:37:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2017/12/22/i-have-serious.html"
 		}
 		
 	]
