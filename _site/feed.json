@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/01/02/android-is-grosshttpsapplenewsaolsaejatlgypgijarq.html",
+	      	
+			"content_html": "<p><a href=\"https://apple.news/AolsAejA9TLGy-Pg-i8JArQ\">Android is gross</a>.</p>\n",
+			"date_published": "2018-01-02T14:42:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/01/02/android-is-grosshttpsapplenewsaolsaejatlgypgijarq.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/01/02/fundamentally-youre-on.html",
 	      	
 			"content_html": "<p>Fundamentally, you’re on your own out there.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/0a1dada0ea.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>We gained a lot when our work tools became globally mobile, but we lost a lot more than we realized in the bargain.</p>\n",
 			"date_published": "2017-12-28T08:45:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2017/12/28/we-gained-a.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2017/12/26/i-am-going.html",
-	      	
-			"content_html": "<p>I am going to have a <em>lot</em> of resolutions this year. Lots of things need to change.</p>\n",
-			"date_published": "2017-12-26T11:11:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2017/12/26/i-am-going.html"
 		}
 		
 	]
