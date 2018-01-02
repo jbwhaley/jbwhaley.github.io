@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/01/02/while-it-appears.html",
+	      	
+			"content_html": "<p>While it appears that this sort of “meddling” is among the least of our worries, I’m glad to see a token effort being mounted to <a href=\"https://arstechnica.com/tech-policy/2018/01/new-bill-could-finally-get-rid-of-paperless-voting-machines/\">get rid of paperless voting machines</a>.</p>\n",
+			"date_published": "2018-01-02T10:04:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/01/02/while-it-appears.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2018/01/02/its-ok-to.html",
+	      	
+			"content_html": "<p>It’s OK to love someone or something unequivocally. It’s not healthy to start from the position of expecting to find faults. Let faults, if there are any, express themselves. </p>\n",
+			"date_published": "2018-01-02T10:00:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/01/02/its-ok-to.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/01/01/its-very-hard.html",
 	      	
 			"content_html": "<p>It’s very hard to find black-eyed peas in California. They are traditional New Year’s Day fare for expatriated southerners. This is a (very) minor tragedy.</p>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p>Yes, of course there’s a motorcycle parked atop the baggage claim conveyor. Naturally.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/86e074a29f.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-12-24T07:05:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2017/12/24/yes-of-course.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2017/12/24/youll-notice-it.html",
-	      	
-			"content_html": "<p>You’ll notice it has been a long while since my previous post, and yet I’m still traveling. I refer you to the content of that previous post, which still applies.</p>\n",
-			"date_published": "2017-12-24T04:45:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2017/12/24/youll-notice-it.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2017/12/23/ordinarily-i-might.html",
-	      	
-			"content_html": "<p>Ordinarily I might complain right now about the unpredictable but inevitable changes in plans that go along with holiday air travel. But I’m not going to do that. Happy holidays.</p>\n",
-			"date_published": "2017-12-23T12:58:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2017/12/23/ordinarily-i-might.html"
 		}
 		
 	]
