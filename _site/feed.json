@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/01/05/i-would-really.html",
+	      	
+			"content_html": "<p>I would really love to see a fad that has <a href=\"https://www.popsci.com/keto-fat-weight-loss-healthy\">everyone eating nothing but butter all the time at trendy Butter Bars</a>.</p>\n",
+			"date_published": "2018-01-04T22:15:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/01/04/i-would-really.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/01/05/heaven-help-me.html",
 	      	
 			"content_html": "<p>Heaven help me, I’m considering the idea of running a crowdfunding campaign.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>May your new year be filled with adorable nightmares.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/dc134e4757.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-12-31T13:20:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2017/12/31/may-your-new.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2017/12/29/sometimes-our-cultures.html",
-	      	
-			"content_html": "<p>Sometimes our culture’s reverence of stupidity can <a href=\"https://apple.news/AAwhW3cOvQE6UG75D0faMKA\">have serious consequences</a>, particularly when combined with a lack of empathy.</p>\n",
-			"date_published": "2017-12-29T11:52:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2017/12/29/sometimes-our-cultures.html"
 		}
 		
 	]
