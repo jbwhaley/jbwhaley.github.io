@@ -4,8 +4,19 @@
     <title>Jarrod Whaley</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jbwhaley&quot;&gt;@jbwhaley on Micro.blog&lt;/a&gt;.</description>
     <link>https://www.jarrodwhaley.com/</link>
-    <pubDate>Thu, 04 Jan 2018 23:32:04 -0800</pubDate>
-    <lastBuildDate>Thu, 04 Jan 2018 23:32:04 -0800</lastBuildDate>
+    <pubDate>Sat, 06 Jan 2018 15:53:39 -0800</pubDate>
+    <lastBuildDate>Sat, 06 Jan 2018 15:53:39 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Spot what’s wrong with this picture of an Apple II. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.jarrodwhaley.com/uploads/2018/6a4b2e0386.jpg&quot; width=&quot;450&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 06 Jan 2018 15:53:00 -0800</pubDate>
+        <link>https://www.jarrodwhaley.com/2018/01/06/spot-whats-wrong.html</link>
+        <guid isPermaLink="true">http://jbwhaley.micro.blog/2018/01/06/spot-whats-wrong.html</guid>
+      </item>
     
       <item>
       	
@@ -484,15 +495,6 @@
         <pubDate>Sat, 09 Dec 2017 18:30:00 -0800</pubDate>
         <link>https://www.jarrodwhaley.com/2017/12/09/christmas-at-pillar.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/10/christmas-at-pillar.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;At least 5,000 Wordpress sites are &lt;a href=&quot;http://securityaffairs.co/wordpress/66432/hacking/keylogger.html&quot;&gt;infected with a script that both logs keystrokes &lt;strong&gt;and&lt;/strong&gt; mines cryptocurrency&lt;/a&gt; for the attacker(s). If you are running a site on Wordpress, keep it patched, for Pete’s sake.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 08 Dec 2017 21:50:00 -0800</pubDate>
-        <link>https://www.jarrodwhaley.com/2017/12/08/at-least-wordpress.html</link>
-        <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/09/at-least-wordpress.html</guid>
       </item>
     
   </channel>
