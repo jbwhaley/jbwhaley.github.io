@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/01/08/something-will-come.html",
+	      	
+			"content_html": "<p>Something will come along someday that is easier to work with / debug than CSS. Right? Please say it’s so.</p>\n",
+			"date_published": "2018-01-08T14:52:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/01/08/something-will-come.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/01/06/spot-whats-wrong.html",
 	      	
 			"content_html": "<p>Spot what’s wrong with this picture of an Apple II. </p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/6a4b2e0386.jpg\" width=\"450\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>It’s OK to love someone or something unequivocally. It’s not healthy to start from the position of expecting to find faults. Let faults, if there are any, express themselves. </p>\n",
 			"date_published": "2018-01-02T10:00:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/01/02/its-ok-to.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/01/01/its-very-hard.html",
-	      	
-			"content_html": "<p>It’s very hard to find black-eyed peas in California. They are traditional New Year’s Day fare for expatriated southerners. This is a (very) minor tragedy.</p>\n",
-			"date_published": "2018-01-01T11:18:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/01/01/its-very-hard.html"
 		}
 		
 	]
