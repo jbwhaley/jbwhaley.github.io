@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/01/09/if-you-are.html",
+	      	
+			"content_html": "<p>If you are interested in preserving a diverse, open, and ad-free Web experience, buy something from an independent developer today. <a href=\"https://micro.blog/manton\">@manton</a>’s <a href=\"https://micro.blog\">Micro.blog</a> is a great place to start.</p>\n",
+			"date_published": "2018-01-09T10:11:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/01/09/if-you-are.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/01/09/javascript-is-itself.html",
 	      	
 			"title": "JavaScript Is Itself a Malicious Payload",
@@ -77,14 +85,6 @@
 			"content_html": "<p><a href=\"https://apple.news/AolsAejA9TLGy-Pg-i8JArQ\">Android is gross</a>.</p>\n",
 			"date_published": "2018-01-02T14:42:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/01/02/android-is-grosshttpsapplenewsaolsaejatlgypgijarq.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/01/02/fundamentally-youre-on.html",
-	      	
-			"content_html": "<p>Fundamentally, you’re on your own out there.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/0a1dada0ea.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-02T11:53:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/01/02/fundamentally-youre-on.html"
 		}
 		
 	]
