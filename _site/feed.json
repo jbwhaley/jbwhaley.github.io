@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/01/09/javascript-is-itself.html",
+	      	
+			"title": "JavaScript Is Itself a Malicious Payload",
+			
+			"content_html": "<p>Filip Pizlo <a href=\"https://webkit.org/blog/8048/what-spectre-and-meltdown-mean-for-webkit/\">explains how WebKit is affected by Spectre and Meltdown</a>, and describes to some degree how Apple is trying to mitigate the resulting issues. It seems more nuts to me than ever that browsers will just execute arbitrary JavaScript code.</p>\n",
+			"date_published": "2018-01-09T01:35:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/01/09/javascript-is-itself.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/01/09/i-dont-recommend.html",
 	      	
 			"content_html": "<p>I don’t recommend doing too many things. Since most things are not fun to do, people who do more things usually find that they are simply doing lots more things that aren’t fun.</p>\n",
@@ -75,14 +85,6 @@
 			"content_html": "<p>Fundamentally, you’re on your own out there.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/0a1dada0ea.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-02T11:53:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/01/02/fundamentally-youre-on.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/01/02/while-it-appears.html",
-	      	
-			"content_html": "<p>While it appears that this sort of “meddling” is among the least of our worries, I’m glad to see a token effort being mounted to <a href=\"https://arstechnica.com/tech-policy/2018/01/new-bill-could-finally-get-rid-of-paperless-voting-machines/\">get rid of paperless voting machines</a>.</p>\n",
-			"date_published": "2018-01-02T10:04:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/01/02/while-it-appears.html"
 		}
 		
 	]
