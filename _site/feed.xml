@@ -4,8 +4,19 @@
     <title>Jarrod Whaley</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jbwhaley&quot;&gt;@jbwhaley on Micro.blog&lt;/a&gt;.</description>
     <link>https://www.jarrodwhaley.com/</link>
-    <pubDate>Mon, 08 Jan 2018 18:49:14 -0800</pubDate>
-    <lastBuildDate>Mon, 08 Jan 2018 18:49:14 -0800</lastBuildDate>
+    <pubDate>Tue, 09 Jan 2018 01:35:25 -0800</pubDate>
+    <lastBuildDate>Tue, 09 Jan 2018 01:35:25 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <title>JavaScript Is Itself a Malicious Payload</title>
+        
+        <description>&lt;p&gt;Filip Pizlo &lt;a href=&quot;https://webkit.org/blog/8048/what-spectre-and-meltdown-mean-for-webkit/&quot;&gt;explains how WebKit is affected by Spectre and Meltdown&lt;/a&gt;, and describes to some degree how Apple is trying to mitigate the resulting issues. It seems more nuts to me than ever that browsers will just execute arbitrary JavaScript code.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 09 Jan 2018 01:35:00 -0800</pubDate>
+        <link>https://www.jarrodwhaley.com/2018/01/09/javascript-is-itself.html</link>
+        <guid isPermaLink="true">http://jbwhaley.micro.blog/2018/01/09/javascript-is-itself.html</guid>
+      </item>
     
       <item>
       	
@@ -480,17 +491,6 @@
         <pubDate>Sun, 10 Dec 2017 11:55:00 -0800</pubDate>
         <link>https://www.jarrodwhaley.com/2017/12/10/well-this-is.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/10/well-this-is.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Didn’t learn from the mistakes of Deceiver I, eh?&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://www.jarrodwhaley.com/uploads/2017/c84dfb06c0.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 09 Dec 2017 18:53:00 -0800</pubDate>
-        <link>https://www.jarrodwhaley.com/2017/12/09/didnt-learn-from.html</link>
-        <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/10/didnt-learn-from.html</guid>
       </item>
     
   </channel>
