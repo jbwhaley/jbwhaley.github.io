@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/01/13/breaking-very-stable.html",
+	      	
+			"content_html": "<p><a href=\"https://apple.news/AncvVMiJbT4KtHa3bBBQXkw\">BREAKING: Very Stable Genius Is in Excellent Health</a></p>\n",
+			"date_published": "2018-01-12T19:40:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/01/12/breaking-very-stable.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/01/12/the-world-is.html",
 	      	
 			"content_html": "<p>The world is completely full of people pontificating about matters they scarecely understand, while presenting themselves as experts on the matter. It makes me so incredibly sad.</p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>“Please tell me about your day while I enjoy this lovely glass of blood.”</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/c369830782.jpg\" width=\"448\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-04T23:32:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/01/04/please-tell-me.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/01/05/i-would-really.html",
-	      	
-			"content_html": "<p>I would really love to see a fad that has <a href=\"https://www.popsci.com/keto-fat-weight-loss-healthy\">everyone eating nothing but butter all the time at trendy Butter Bars</a>.</p>\n",
-			"date_published": "2018-01-04T22:15:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/01/04/i-would-really.html"
 		}
 		
 	]
