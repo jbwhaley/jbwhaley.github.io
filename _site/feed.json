@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/01/17/claire-mccaskill-the.html",
+	      	
+			"content_html": "<p>Claire McCaskill, the Democratic senior senator from Missouri, voted for cloture. “The Show-Me State” indeed.</p>\n",
+			"date_published": "2018-01-16T20:15:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/01/16/claire-mccaskill-the.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/01/17/for-a-half.html",
 	      	
 			"content_html": "<p>For a half second there, it looked like the Senate might act in favor of the people it putatively represents in voting against renewal of Section 702 of the FISA law. In the end, they pulled together and <a href=\"https://apple.news/AKaEjJ0N_SUaeYntIBuPPyA\">screwed us all</a>, just as you knew they would.</p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>Filip Pizlo <a href=\"https://webkit.org/blog/8048/what-spectre-and-meltdown-mean-for-webkit/\">explains how WebKit is affected by Spectre and Meltdown</a>, and describes to some degree how Apple is trying to mitigate the resulting issues. It seems more nuts to me than ever that browsers will just execute arbitrary JavaScript code.</p>\n",
 			"date_published": "2018-01-09T01:35:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/01/09/javascript-is-itself.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/01/09/i-dont-recommend.html",
-	      	
-			"content_html": "<p>I don’t recommend doing too many things. Since most things are not fun to do, people who do more things usually find that they are simply doing lots more things that aren’t fun.</p>\n",
-			"date_published": "2018-01-08T18:49:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/01/08/i-dont-recommend.html"
 		}
 		
 	]
