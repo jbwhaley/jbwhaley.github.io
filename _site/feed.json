@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/01/18/i-officially-reject.html",
+	      	
+			"content_html": "<p>I officially reject any information which is attributed simply to “Officials.”</p>\n",
+			"date_published": "2018-01-18T11:15:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/01/18/i-officially-reject.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/01/17/claire-mccaskill-the.html",
 	      	
 			"content_html": "<p>Claire McCaskill, the Democratic senior senator from Missouri, voted for cloture. “The Show-Me State” indeed.</p>\n",
@@ -75,16 +83,6 @@
 			"content_html": "<p>If you are interested in preserving a diverse, open, and ad-free Web experience, buy something from an independent developer today. <a href=\"https://micro.blog/manton\">@manton</a>’s <a href=\"https://micro.blog\">Micro.blog</a> is a great place to start.</p>\n",
 			"date_published": "2018-01-09T10:11:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/01/09/if-you-are.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/01/09/javascript-is-itself.html",
-	      	
-			"title": "JavaScript Is Itself a Malicious Payload",
-			
-			"content_html": "<p>Filip Pizlo <a href=\"https://webkit.org/blog/8048/what-spectre-and-meltdown-mean-for-webkit/\">explains how WebKit is affected by Spectre and Meltdown</a>, and describes to some degree how Apple is trying to mitigate the resulting issues. It seems more nuts to me than ever that browsers will just execute arbitrary JavaScript code.</p>\n",
-			"date_published": "2018-01-09T01:35:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/01/09/javascript-is-itself.html"
 		}
 		
 	]
