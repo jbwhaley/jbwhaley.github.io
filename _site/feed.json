@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/01/19/dont-make-the.html",
+	      	
+			"content_html": "<p>Don’t make the mistake of assuming your time is more valuable than others’ time. We are all the same, and time is priceless for everyone.</p>\n",
+			"date_published": "2018-01-19T13:37:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/01/19/dont-make-the.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/01/19/sadness-is-an.html",
 	      	
 			"content_html": "<p>Sadness is an illusion. So is happiness. If the choice is yours, the choice is obvious.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p><a href=\"https://m.youtube.com/watch?v=SSST23SGp04\">No guts, no glory</a>.</p>\n",
 			"date_published": "2018-01-11T01:48:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/01/11/no-guts-no.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/01/11/nah-its-pretty.html",
-	      	
-			"content_html": "<p><a href=\"https://apple.news/AJQlbnG8hSruZbNVjN4ZkUw\">Nah, it’s pretty much his brain</a>.</p>\n",
-			"date_published": "2018-01-10T16:55:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/01/10/nah-its-pretty.html"
 		}
 		
 	]
