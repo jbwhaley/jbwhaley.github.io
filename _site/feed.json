@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/01/21/theres-nothing-worse.html",
+	      	
+			"content_html": "<p>There’s nothing worse for a weekend than persistent dread about the week ahead. Except maybe a plumbing explosion.</p>\n",
+			"date_published": "2018-01-20T20:36:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/01/20/theres-nothing-worse.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/01/19/dont-make-the.html",
 	      	
 			"content_html": "<p>Don’t make the mistake of assuming your time is more valuable than others’ time. We are all the same, and time is priceless for everyone.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>The world is completely full of people pontificating about matters they scarecely understand, while presenting themselves as experts on the matter. It makes me so incredibly sad.</p>\n",
 			"date_published": "2018-01-12T13:01:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/01/12/the-world-is.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/01/11/no-guts-no.html",
-	      	
-			"content_html": "<p><a href=\"https://m.youtube.com/watch?v=SSST23SGp04\">No guts, no glory</a>.</p>\n",
-			"date_published": "2018-01-11T01:48:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/01/11/no-guts-no.html"
 		}
 		
 	]
