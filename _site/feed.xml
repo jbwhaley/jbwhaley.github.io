@@ -4,8 +4,17 @@
     <title>Jarrod Whaley</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jbwhaley&quot;&gt;@jbwhaley on Micro.blog&lt;/a&gt;.</description>
     <link>https://www.jarrodwhaley.com/</link>
-    <pubDate>Sat, 20 Jan 2018 20:36:02 -0800</pubDate>
-    <lastBuildDate>Sat, 20 Jan 2018 20:36:02 -0800</lastBuildDate>
+    <pubDate>Mon, 22 Jan 2018 14:56:34 -0800</pubDate>
+    <lastBuildDate>Mon, 22 Jan 2018 14:56:34 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;There’s no such thing as a “side-hustle.” It’s all just work.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 22 Jan 2018 14:56:00 -0800</pubDate>
+        <link>https://www.jarrodwhaley.com/2018/01/22/theres-no-such.html</link>
+        <guid isPermaLink="true">http://jbwhaley.micro.blog/2018/01/22/theres-no-such.html</guid>
+      </item>
     
       <item>
       	
@@ -476,17 +485,6 @@
         <pubDate>Fri, 15 Dec 2017 22:28:00 -0800</pubDate>
         <link>https://www.jarrodwhaley.com/2017/12/15/our-tiny-bay.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/16/our-tiny-bay.html</guid>
-      </item>
-    
-      <item>
-      	
-        <title>MobileCoin</title>
-        
-        <description>&lt;p&gt;Moxie Marlinspike’s and Joshua Goldbard’s proposed &lt;a href=&quot;https://www.wired.com/story/mobilecoin-cryptocurrency/&quot;&gt;MobileCoin cryptocurrency&lt;/a&gt; has a lot of potential; in effect, it stores the blockchain in an SGX enclave on a user’s processor. This arrangement is more secure, more anonymous, and more user-friendly than public-blockchain cryptocurrencies like Bitcoin. I’m intrigued.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 15 Dec 2017 22:19:00 -0800</pubDate>
-        <link>https://www.jarrodwhaley.com/2017/12/15/mobilecoin.html</link>
-        <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/16/mobilecoin.html</guid>
       </item>
     
   </channel>
