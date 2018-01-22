@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/01/22/theres-no-such.html",
+	      	
+			"content_html": "<p>There’s no such thing as a “side-hustle.” It’s all just work.</p>\n",
+			"date_published": "2018-01-22T14:56:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/01/22/theres-no-such.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/01/21/theres-nothing-worse.html",
 	      	
 			"content_html": "<p>There’s nothing worse for a weekend than persistent dread about the week ahead. Except maybe a plumbing explosion.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p><a href=\"https://apple.news/AncvVMiJbT4KtHa3bBBQXkw\">BREAKING: Very Stable Genius Is in Excellent Health</a></p>\n",
 			"date_published": "2018-01-12T19:40:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/01/12/breaking-very-stable.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/01/12/the-world-is.html",
-	      	
-			"content_html": "<p>The world is completely full of people pontificating about matters they scarecely understand, while presenting themselves as experts on the matter. It makes me so incredibly sad.</p>\n",
-			"date_published": "2018-01-12T13:01:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/01/12/the-world-is.html"
 		}
 		
 	]
