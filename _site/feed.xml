@@ -4,8 +4,17 @@
     <title>Jarrod Whaley</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jbwhaley&quot;&gt;@jbwhaley on Micro.blog&lt;/a&gt;.</description>
     <link>https://www.jarrodwhaley.com/</link>
-    <pubDate>Mon, 22 Jan 2018 17:49:06 -0800</pubDate>
-    <lastBuildDate>Mon, 22 Jan 2018 17:49:06 -0800</lastBuildDate>
+    <pubDate>Tue, 23 Jan 2018 14:44:49 -0800</pubDate>
+    <lastBuildDate>Tue, 23 Jan 2018 14:44:49 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Leave it Linus Torvalds to write &lt;a href=&quot;https://lkml.org/lkml/2018/1/21/192&quot;&gt;a measured and mature reaction to Intel’s Spectre patches&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 23 Jan 2018 14:44:00 -0800</pubDate>
+        <link>https://www.jarrodwhaley.com/2018/01/23/leave-it-linus.html</link>
+        <guid isPermaLink="true">http://jbwhaley.micro.blog/2018/01/23/leave-it-linus.html</guid>
+      </item>
     
       <item>
       	
@@ -472,17 +481,6 @@
         <pubDate>Sun, 17 Dec 2017 09:10:00 -0800</pubDate>
         <link>https://www.jarrodwhaley.com/2017/12/17/sunday-sunrise.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/17/sunday-sunrise.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Looking out my back door.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://www.jarrodwhaley.com/uploads/2017/bf35b8e215.jpg&quot; width=&quot;600&quot; height=&quot;599&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 16 Dec 2017 17:32:00 -0800</pubDate>
-        <link>https://www.jarrodwhaley.com/2017/12/16/looking-out-my.html</link>
-        <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/17/looking-out-my.html</guid>
       </item>
     
   </channel>
