@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/01/24/imagine-what-the.html",
+	      	
+			"content_html": "<p>Imagine what the world would be like if software <em>occasionally worked</em>.</p>\n",
+			"date_published": "2018-01-24T14:43:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/01/24/imagine-what-the.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/01/24/its-good-to.html",
 	      	
 			"content_html": "<p>It’s good to see there’s still something approaching <a href=\"https://arstechnica.com/tech-policy/2018/01/net-neutrality-comment-fraud-will-be-investigated-by-government/\">accountability within the U.S. government</a>.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Claire McCaskill, the Democratic senior senator from Missouri, voted for cloture. “The Show-Me State” indeed.</p>\n",
 			"date_published": "2018-01-16T20:15:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/01/16/claire-mccaskill-the.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/01/17/for-a-half.html",
-	      	
-			"content_html": "<p>For a half second there, it looked like the Senate might act in favor of the people it putatively represents in voting against renewal of Section 702 of the FISA law. In the end, they pulled together and <a href=\"https://apple.news/AKaEjJ0N_SUaeYntIBuPPyA\">screwed us all</a>, just as you knew they would.</p>\n",
-			"date_published": "2018-01-16T20:05:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/01/16/for-a-half.html"
 		}
 		
 	]
