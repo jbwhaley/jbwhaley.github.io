@@ -4,8 +4,17 @@
     <title>Jarrod Whaley</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jbwhaley&quot;&gt;@jbwhaley on Micro.blog&lt;/a&gt;.</description>
     <link>https://www.jarrodwhaley.com/</link>
-    <pubDate>Wed, 24 Jan 2018 17:10:27 -0800</pubDate>
-    <lastBuildDate>Wed, 24 Jan 2018 17:10:27 -0800</lastBuildDate>
+    <pubDate>Thu, 25 Jan 2018 11:53:06 -0800</pubDate>
+    <lastBuildDate>Thu, 25 Jan 2018 11:53:06 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;If you run a Web server, don’t forget to set up DNS to handle your domain(s) &lt;em&gt;with &lt;strong&gt;and&lt;/strong&gt; without&lt;/em&gt; a &lt;code&gt;www&lt;/code&gt; prefix. The first twenty years of the Web really hammered the whole &lt;code&gt;www&lt;/code&gt; thing into people’s heads, perhaps permanently.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 25 Jan 2018 11:51:00 -0800</pubDate>
+        <link>https://www.jarrodwhaley.com/2018/01/25/if-you-run.html</link>
+        <guid isPermaLink="true">http://jbwhaley.micro.blog/2018/01/25/if-you-run.html</guid>
+      </item>
     
       <item>
       	
@@ -470,15 +479,6 @@
         <pubDate>Tue, 19 Dec 2017 19:24:00 -0800</pubDate>
         <link>https://www.jarrodwhaley.com/2017/12/19/the-things-you.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/20/the-things-you.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Only America could take a holiday that’s meant to be a celebration of peace and goodwill and turn it into a giant festival of hectic, stressful consumerism.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 18 Dec 2017 19:33:00 -0800</pubDate>
-        <link>https://www.jarrodwhaley.com/2017/12/18/only-america-could.html</link>
-        <guid isPermaLink="true">http://jbwhaley.micro.blog/2017/12/19/only-america-could.html</guid>
       </item>
     
   </channel>
