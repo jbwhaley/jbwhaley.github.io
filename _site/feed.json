@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/01/26/youtube-serves-cryptomining.html",
+	      	
+			"title": "YouTube Serves Crypto-Mining Ads",
+			
+			"content_html": "<p>Ads can be much more than an annoyance. Sometimes they provide a handy window for attackers to get into your computer, <a href=\"https://arstechnica.com/information-technology/2018/01/now-even-youtube-serves-ads-with-cpu-draining-cryptocurrency-miners/\">even on sites you think you can trust</a>. Stop contributing to the online advertising economy: find indie sites that provide a useful service, and pay them for that service.</p>\n",
+			"date_published": "2018-01-26T12:02:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/01/26/youtube-serves-cryptomining.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/01/26/if-you-believe.html",
 	      	
 			"content_html": "<p>If you believe the FBI’s B.S. about being completely hamstrung by their inability to backdoor encryption on smartphones, ask yourself what they did before cellular phones existed. </p>\n",
@@ -75,14 +85,6 @@
 			"content_html": "<p>Don’t make the mistake of assuming your time is more valuable than others’ time. We are all the same, and time is priceless for everyone.</p>\n",
 			"date_published": "2018-01-19T13:37:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/01/19/dont-make-the.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/01/19/sadness-is-an.html",
-	      	
-			"content_html": "<p>Sadness is an illusion. So is happiness. If the choice is yours, the choice is obvious.</p>\n",
-			"date_published": "2018-01-18T20:57:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/01/18/sadness-is-an.html"
 		}
 		
 	]
