@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/01/27/good-night-little.html",
+	      	
+			"content_html": "<p>Good night, little druid.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/4ed1e635ee.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-26T23:27:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/01/26/good-night-little.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/01/27/call-me-an.html",
 	      	
 			"content_html": "<p>Call me an old crank if you will, but I just am not attracted to the idea of talking to a computer.</p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>There’s no such thing as a “side-hustle.” It’s all just work.</p>\n",
 			"date_published": "2018-01-22T14:56:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/01/22/theres-no-such.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/01/21/theres-nothing-worse.html",
-	      	
-			"content_html": "<p>There’s nothing worse for a weekend than persistent dread about the week ahead. Except maybe a plumbing explosion.</p>\n",
-			"date_published": "2018-01-20T20:36:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/01/20/theres-nothing-worse.html"
 		}
 		
 	]
