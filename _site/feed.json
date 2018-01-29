@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/01/29/if-youre-not.html",
+	      	
+			"content_html": "<p>If you’re not failing, you’re not trying. The goal is not to eliminate failure entirely—it’s to minimize the impact (and perhaps frequency, to whatever extent is possible) of failure. Learn and proceed.</p>\n",
+			"date_published": "2018-01-28T16:07:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/01/28/if-youre-not.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/01/27/good-night-little.html",
 	      	
 			"content_html": "<p>Good night, little druid.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/4ed1e635ee.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>I had a cold on New Year’s, and I think I’m already getting another one. It’s the least wonderful time of the year.</p>\n",
 			"date_published": "2018-01-22T17:49:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/01/22/i-had-a.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/01/22/theres-no-such.html",
-	      	
-			"content_html": "<p>There’s no such thing as a “side-hustle.” It’s all just work.</p>\n",
-			"date_published": "2018-01-22T14:56:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/01/22/theres-no-such.html"
 		}
 		
 	]
