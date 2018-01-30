@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/01/30/even-more-than.html",
+	      	
+			"content_html": "<p>Even more than usual, today I am <a href=\"https://arstechnica.com/tech-policy/2018/01/california-senate-approves-net-neutrality-law-in-defiance-of-fcc/\">proud to be a Californian</a>.</p>\n",
+			"date_published": "2018-01-30T12:50:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/01/30/even-more-than.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/01/30/i-havent-been.html",
 	      	
 			"content_html": "<p>I haven’t been able to ride my bike down the coast all month; first I had a cold, then I traveled, and then I got the flu. It hasn’t been the best January.</p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>Imagine what the world would be like if software <em>occasionally worked</em>.</p>\n",
 			"date_published": "2018-01-24T14:43:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/01/24/imagine-what-the.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/01/24/its-good-to.html",
-	      	
-			"content_html": "<p>It’s good to see there’s still something approaching <a href=\"https://arstechnica.com/tech-policy/2018/01/net-neutrality-comment-fraud-will-be-investigated-by-government/\">accountability within the U.S. government</a>.</p>\n",
-			"date_published": "2018-01-24T10:00:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/01/24/its-good-to.html"
 		}
 		
 	]
