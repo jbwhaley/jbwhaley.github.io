@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/01/30/072453.html",
+	      	
+			"content_html": "<p>It’s <a href=\"https://www.techrepublic.com/article/consumers-now-value-security-over-convenience-on-apps-and-devices-report-says/\">about time</a>.</p>\n",
+			"date_published": "2018-01-29T23:24:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/01/29/072453.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/01/29/if-youre-not.html",
 	      	
 			"content_html": "<p>If you’re not failing, you’re not trying. The goal is not to eliminate failure entirely—it’s to minimize the impact (and perhaps frequency, to whatever extent is possible) of failure. Learn and proceed.</p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>Leave it Linus Torvalds to write <a href=\"https://lkml.org/lkml/2018/1/21/192\">a measured and mature reaction to Intel’s Spectre patches</a>.</p>\n",
 			"date_published": "2018-01-23T14:44:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/01/23/leave-it-linus.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/01/23/i-had-a.html",
-	      	
-			"content_html": "<p>I had a cold on New Year’s, and I think I’m already getting another one. It’s the least wonderful time of the year.</p>\n",
-			"date_published": "2018-01-22T17:49:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/01/22/i-had-a.html"
 		}
 		
 	]
