@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/01/30/i-just-cant.html",
+	      	
+			"content_html": "<p>I just can’t seem to go more than 4 minutes without buggy software bringing my work to a crashing halt.</p>\n",
+			"date_published": "2018-01-30T13:57:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/01/30/i-just-cant.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/01/30/even-more-than.html",
 	      	
 			"content_html": "<p>Even more than usual, today I am <a href=\"https://arstechnica.com/tech-policy/2018/01/california-senate-approves-net-neutrality-law-in-defiance-of-fcc/\">proud to be a Californian</a>.</p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>If you run a Web server, don’t forget to set up DNS to handle your domain(s) <em>with <strong>and</strong> without</em> a <code>www</code> prefix. The first twenty years of the Web really hammered the whole <code>www</code> thing into people’s heads, perhaps permanently.</p>\n",
 			"date_published": "2018-01-25T11:51:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/01/25/if-you-run.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/01/24/imagine-what-the.html",
-	      	
-			"content_html": "<p>Imagine what the world would be like if software <em>occasionally worked</em>.</p>\n",
-			"date_published": "2018-01-24T14:43:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/01/24/imagine-what-the.html"
 		}
 		
 	]
