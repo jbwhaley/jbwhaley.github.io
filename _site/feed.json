@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/02/01/i-should-get.html",
+	      	
+			"content_html": "<p>I should get out and work in coffee shops more often.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/6fe1123307.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-31T16:24:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/01/31/i-should-get.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/01/31/president-has-speech.html",
 	      	
 			"content_html": "<p>President has speech written for him in which he plays up economic gains (which are the results of the previous administration’s policies). Dow drops 363 points the days before the speech.</p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>Ads can be much more than an annoyance. Sometimes they provide a handy window for attackers to get into your computer, <a href=\"https://arstechnica.com/information-technology/2018/01/now-even-youtube-serves-ads-with-cpu-draining-cryptocurrency-miners/\">even on sites you think you can trust</a>. Stop contributing to the online advertising economy: find indie sites that provide a useful service, and pay them for that service.</p>\n",
 			"date_published": "2018-01-26T12:02:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/01/26/youtube-serves-cryptomining.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/01/26/if-you-believe.html",
-	      	
-			"content_html": "<p>If you believe the FBI’s B.S. about being completely hamstrung by their inability to backdoor encryption on smartphones, ask yourself what they did before cellular phones existed. </p>\n",
-			"date_published": "2018-01-25T17:33:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/01/25/if-you-believe.html"
 		}
 		
 	]
