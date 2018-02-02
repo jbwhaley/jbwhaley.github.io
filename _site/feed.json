@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/02/02/im-tired-of.html",
+	      	
+			"content_html": "<p>I’m tired of visualizing. The time has come to actualize.</p>\n",
+			"date_published": "2018-02-01T16:58:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/01/im-tired-of.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/02/01/might-lifetime-subscriptions.html",
 	      	
 			"title": "Might Lifetime Subscriptions Be the Answer to Subscription Fatigue?",
@@ -77,14 +85,6 @@
 			"content_html": "<p>Good night, little druid.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/4ed1e635ee.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-26T23:27:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/01/26/good-night-little.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/01/27/call-me-an.html",
-	      	
-			"content_html": "<p>Call me an old crank if you will, but I just am not attracted to the idea of talking to a computer.</p>\n",
-			"date_published": "2018-01-26T17:52:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/01/26/call-me-an.html"
 		}
 		
 	]
