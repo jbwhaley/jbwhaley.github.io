@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/02/02/headline-intel-reportedly.html",
+	      	
+			"content_html": "<p>Headline: <a href=\"https://www.theverge.com/2018/2/1/16961584/intel-smart-glasses-vaunt-superlite-division-sale-rumor\">Intel reportedly considering launching smart glasses this year</a>. Presumably before they announce these plans, they are trying to make sure they can cram in a white-hot Spectre-and-Meltdown-sporting x86 processor and a huge cooling fan.</p>\n",
+			"date_published": "2018-02-01T21:44:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/01/headline-intel-reportedly.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/02/02/im-tired-of.html",
 	      	
 			"content_html": "<p>I’m tired of visualizing. The time has come to actualize.</p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>If you’re not failing, you’re not trying. The goal is not to eliminate failure entirely—it’s to minimize the impact (and perhaps frequency, to whatever extent is possible) of failure. Learn and proceed.</p>\n",
 			"date_published": "2018-01-28T16:07:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/01/28/if-youre-not.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/01/27/good-night-little.html",
-	      	
-			"content_html": "<p>Good night, little druid.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/4ed1e635ee.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-26T23:27:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/01/26/good-night-little.html"
 		}
 		
 	]
