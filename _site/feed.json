@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/02/04/news-explorer-is.html",
+	      	
+			"title": "News Explorer Is a Pretty Great Feed Reader",
+			
+			"content_html": "<p>I am currently using <a href=\"https://itunes.apple.com/us/app/news-explorer/id1032668306?mt=8\">News Explorer</a> for reading feeds. There are clients for both iOS and Mac, and they are improving all the time. What I like most about it is that it syncs over iCloud rather than via some third party service. It works really well, and I don’t have to depend on some service to continue existing forever. I keep the data in my own little iCloud silo.</p>\n",
+			"date_published": "2018-02-04T12:58:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/04/news-explorer-is.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/02/04/my-neighborhood-doesnt.html",
 	      	
 			"content_html": "<p>My neighborhood doesn’t suck.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/453873b693.jpg\" width=\"600\" height=\"450\" /></p>\n",
@@ -77,14 +87,6 @@
 			"content_html": "<p>I should get out and work in coffee shops more often.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/6fe1123307.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-31T16:24:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/01/31/i-should-get.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/01/31/president-has-speech.html",
-	      	
-			"content_html": "<p>President has speech written for him in which he plays up economic gains (which are the results of the previous administration’s policies). Dow drops 363 points the days before the speech.</p>\n",
-			"date_published": "2018-01-31T00:39:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/01/31/president-has-speech.html"
 		}
 		
 	]
