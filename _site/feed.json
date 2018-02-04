@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/02/04/my-neighborhood-doesnt.html",
+	      	
+			"content_html": "<p>My neighborhood doesn’t suck.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/453873b693.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-02-04T12:12:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/04/my-neighborhood-doesnt.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2018/02/04/finally-getting-in.html",
+	      	
+			"content_html": "<p>Finally getting in some solid bike time. Beautiful day for it.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/55fd177064.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-02-04T12:08:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/04/finally-getting-in.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/02/04/its-degrees-out.html",
 	      	
 			"content_html": "<p>It’s 70 degrees out and everyone has the heat cranked up to 80. The world’s gone mad.</p>\n",
@@ -69,22 +85,6 @@
 			"content_html": "<p>President has speech written for him in which he plays up economic gains (which are the results of the previous administration’s policies). Dow drops 363 points the days before the speech.</p>\n",
 			"date_published": "2018-01-31T00:39:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/01/31/president-has-speech.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/01/30/i-just-cant.html",
-	      	
-			"content_html": "<p>I just can’t seem to go more than 4 minutes without buggy software bringing my work to a crashing halt.</p>\n",
-			"date_published": "2018-01-30T13:57:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/01/30/i-just-cant.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/01/30/even-more-than.html",
-	      	
-			"content_html": "<p>Even more than usual, today I am <a href=\"https://arstechnica.com/tech-policy/2018/01/california-senate-approves-net-neutrality-law-in-defiance-of-fcc/\">proud to be a Californian</a>.</p>\n",
-			"date_published": "2018-01-30T12:50:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/01/30/even-more-than.html"
 		}
 		
 	]
