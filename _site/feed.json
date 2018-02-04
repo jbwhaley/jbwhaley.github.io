@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/02/04/its-degrees-out.html",
+	      	
+			"content_html": "<p>It’s 70 degrees out and everyone has the heat cranked up to 80. The world’s gone mad.</p>\n",
+			"date_published": "2018-02-03T19:46:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/03/its-degrees-out.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/02/03/definitely-not-the.html",
 	      	
 			"content_html": "<p>Definitely not the droids I’m looking for.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/098e0084cd.jpg\" width=\"600\" height=\"599\" /></p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>Even more than usual, today I am <a href=\"https://arstechnica.com/tech-policy/2018/01/california-senate-approves-net-neutrality-law-in-defiance-of-fcc/\">proud to be a Californian</a>.</p>\n",
 			"date_published": "2018-01-30T12:50:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/01/30/even-more-than.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/01/30/i-havent-been.html",
-	      	
-			"content_html": "<p>I haven’t been able to ride my bike down the coast all month; first I had a cold, then I traveled, and then I got the flu. It hasn’t been the best January.</p>\n",
-			"date_published": "2018-01-30T11:08:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/01/30/i-havent-been.html"
 		}
 		
 	]
