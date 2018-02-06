@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/02/06/goodbye-monday.html",
+	      	
+			"content_html": "<p>Goodbye, Monday.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/f89a15b4f3.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-05T17:02:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/05/goodbye-monday.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/02/04/news-explorer-is.html",
 	      	
 			"title": "News Explorer Is a Pretty Great Feed Reader",
@@ -79,14 +87,6 @@
 			"content_html": "<p>I’m considering the idea of adding a lifetime subscription option to <a href=\"https://linklocker.co\">LinkLocker</a>. I think “subscription fatigue” is a very real phenomenon, and I personally understand where that feeling is coming from. I think I can set a price for lifetime access that will work from a business perspective, and I’m seriously considering this. I’m curious about what users of online services might think about such a model. </p>\n",
 			"date_published": "2018-01-31T17:20:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/01/31/might-lifetime-subscriptions.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/02/01/i-should-get.html",
-	      	
-			"content_html": "<p>I should get out and work in coffee shops more often.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/6fe1123307.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-31T16:24:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/01/31/i-should-get.html"
 		}
 		
 	]
