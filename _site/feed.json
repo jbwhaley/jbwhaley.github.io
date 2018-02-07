@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/02/07/youve-got-to.html",
+	      	
+			"content_html": "<p><a href=\"https://www.washingtonpost.com/politics/trumps-marching-orders-to-the-pentagon-plan-a-grand-military-parade/2018/02/06/9e19ca88-0b55-11e8-8b0d-891602206fb7_story.html?utm_term=.95a87708ce55\">You’ve got to be kidding me</a>.</p>\n",
+			"date_published": "2018-02-06T19:10:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/06/youve-got-to.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/02/07/while-were-working.html",
 	      	
 			"content_html": "<p>While we’re working on driverless cars, can we also work toward workerless offices and humanless grocery stores?</p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>I’ve been sitting in traffic at a dead stop for two hours because a big-rig truck overturned (predictably?) on a curvy mountain road. I am using the time to rethink my life.</p>\n",
 			"date_published": "2018-02-02T11:52:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/02/02/ive-been-sitting.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/02/02/headline-intel-reportedly.html",
-	      	
-			"content_html": "<p>Headline: <a href=\"https://www.theverge.com/2018/2/1/16961584/intel-smart-glasses-vaunt-superlite-division-sale-rumor\">Intel reportedly considering launching smart glasses this year</a>. Presumably before they announce these plans, they are trying to make sure they can cram in a white-hot Spectre-and-Meltdown-sporting x86 processor and a huge cooling fan.</p>\n",
-			"date_published": "2018-02-01T21:44:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/02/01/headline-intel-reportedly.html"
 		}
 		
 	]
