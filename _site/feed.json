@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/02/09/the-entirety-of.html",
+	      	
+			"content_html": "<p>The entirety of Internet history boils down to this oft-repeated process: somebody builds something that’s genuinely great, and then anonymous jerks ruin that thing utterly and completely.</p>\n",
+			"date_published": "2018-02-08T18:25:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/08/the-entirety-of.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/02/08/why-have-i.html",
 	      	
 			"content_html": "<p>Why have I never set up a chair and a sun umbrella and worked on the beach before? What have I been doing with my life? This has to happen within the next week, or I’m officially living wrong.</p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>It’s 70 degrees out and everyone has the heat cranked up to 80. The world’s gone mad.</p>\n",
 			"date_published": "2018-02-03T19:46:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/02/03/its-degrees-out.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/02/03/definitely-not-the.html",
-	      	
-			"content_html": "<p>Definitely not the droids I’m looking for.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/098e0084cd.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-02-02T17:02:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/02/02/definitely-not-the.html"
 		}
 		
 	]
