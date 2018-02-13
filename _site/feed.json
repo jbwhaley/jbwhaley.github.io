@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/02/13/some-days-i.html",
+	      	
+			"content_html": "<p>Some days I think programming is the most annoying activity in the world. Other days, it feels like the most rewarding and engrossing work I’ve ever done. For a while I thought this discrepancy was due to mood, and maybe that’s partially true—but now I think it mostly comes down to whether the circumstances of my day are <em>allowing me to focus</em> or not.</p>\n",
+			"date_published": "2018-02-12T20:01:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/12/some-days-i.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/02/12/why-is-it.html",
 	      	
 			"content_html": "<p>Why is it that no service can properly keep track of which TV episodes I have seen? How is <strong>this</strong> a major problem in computer science?</p>\n",
@@ -75,16 +83,6 @@
 			"content_html": "<p>Goodbye, Monday.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/f89a15b4f3.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-02-05T17:02:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/02/05/goodbye-monday.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/02/04/news-explorer-is.html",
-	      	
-			"title": "News Explorer Is a Pretty Great Feed Reader",
-			
-			"content_html": "<p>I am currently using <a href=\"https://itunes.apple.com/us/app/news-explorer/id1032668306?mt=8\">News Explorer</a> for reading feeds. There are clients for both iOS and Mac, and they are improving all the time. What I like most about it is that it syncs over iCloud rather than via some third party service. It works really well, and I don’t have to depend on some service to continue existing forever. I keep the data in my own little iCloud silo.</p>\n",
-			"date_published": "2018-02-04T12:58:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/02/04/news-explorer-is.html"
 		}
 		
 	]
