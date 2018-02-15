@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/02/15/truth-is-well.html",
+	      	
+			"content_html": "<p><a href=\"https://www.buzzfeed.com/charliewarzel/the-terrifying-future-of-fake-news?utm_term=.qga0JaVMd#.miVYk3KjN\">Truth is well and truly dead</a>.</p>\n",
+			"date_published": "2018-02-14T16:38:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/14/truth-is-well.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/02/13/it-would-be.html",
 	      	
 			"content_html": "<p>It would be easier to laugh at the absurdity of life if any of it were actually funny.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>While we’re working on driverless cars, can we also work toward workerless offices and humanless grocery stores?</p>\n",
 			"date_published": "2018-02-06T17:46:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/02/06/while-were-working.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/02/06/he-celebrated-his.html",
-	      	
-			"content_html": "<blockquote>\n  <p>… <a href=\"https://mobile.nytimes.com/2018/02/05/us/politics/trump-accuses-democrats-treason-market-rout.html?referer=\">he celebrated his revival of the American economy as the stock market plummeted by more than 1,000 points</a>.</p>\n</blockquote>\n",
-			"date_published": "2018-02-05T22:38:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/02/05/he-celebrated-his.html"
 		}
 		
 	]
