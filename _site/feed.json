@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/02/15/i-write-complete.html",
+	      	
+			"content_html": "<p>I write complete sentences with complete words, end those sentences with punctuation, and I use a hyphen in my :-) smilies. If these things make me old, I don’t want to be young.</p>\n",
+			"date_published": "2018-02-15T10:55:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/15/i-write-complete.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/02/15/truth-is-well.html",
 	      	
 			"content_html": "<p><a href=\"https://www.buzzfeed.com/charliewarzel/the-terrifying-future-of-fake-news?utm_term=.qga0JaVMd#.miVYk3KjN\">Truth is well and truly dead</a>.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p><a href=\"https://www.washingtonpost.com/politics/trumps-marching-orders-to-the-pentagon-plan-a-grand-military-parade/2018/02/06/9e19ca88-0b55-11e8-8b0d-891602206fb7_story.html?utm_term=.95a87708ce55\">You’ve got to be kidding me</a>.</p>\n",
 			"date_published": "2018-02-06T19:10:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/02/06/youve-got-to.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/02/07/while-were-working.html",
-	      	
-			"content_html": "<p>While we’re working on driverless cars, can we also work toward workerless offices and humanless grocery stores?</p>\n",
-			"date_published": "2018-02-06T17:46:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/02/06/while-were-working.html"
 		}
 		
 	]
