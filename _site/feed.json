@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/02/17/wait-twitter-is.html",
+	      	
+			"content_html": "<p>Wait, Twitter is still a thing? Slightly related: Macs are still a thing?</p>\n",
+			"date_published": "2018-02-16T16:48:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/16/wait-twitter-is.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/02/16/castle-boat.html",
 	      	
 			"content_html": "<p>Castle? Boat?</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/a9fb1cbace.jpg\" width=\"497\" height=\"497\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Yeah, still can’t get past the grossness of an always-on microphone in my home. Have fun with that.</p>\n",
 			"date_published": "2018-02-09T16:45:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/02/09/yeah-still-cant.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/02/09/the-entirety-of.html",
-	      	
-			"content_html": "<p>The entirety of Internet history boils down to this oft-repeated process: somebody builds something that’s genuinely great, and then anonymous jerks ruin that thing utterly and completely.</p>\n",
-			"date_published": "2018-02-08T18:25:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/02/08/the-entirety-of.html"
 		}
 		
 	]
