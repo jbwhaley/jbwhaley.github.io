@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/02/19/facebooks-plan-to.html",
+	      	
+			"content_html": "<p><a href=\"https://arstechnica.com/tech-policy/2018/02/facebooks-secret-weapon-in-the-fight-against-foreign-meddling-postcards/\">Facebook’s plan to reduce Russian-style political propaganda using the United States Postal Service</a> sounds clever at first glance, but it’s entirely toothless in practice. A Russian troll can receive mail just as easily as anyone else.</p>\n",
+			"date_published": "2018-02-19T13:24:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/19/facebooks-plan-to.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/02/18/hacking-was-around.html",
 	      	
 			"content_html": "<p><a href=\"https://thenextweb.com/contributors/2018/01/29/hackers-con-artists-perils-social-engineering/\">Hacking was around a long time before  computers were</a>.</p>\n",
@@ -83,6 +91,120 @@
 			"content_html": "<p>This Hemingway quote on a bottle of red in Calistoga was decribed to us as an Eff You to the wildfires.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/f3b3636349.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2018-02-10T16:09:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/02/10/this-hemingway-quote.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2018/02/10/yeah-still-cant.html",
+	      	
+			"content_html": "<p>Yeah, still can’t get past the grossness of an always-on microphone in my home. Have fun with that.</p>\n",
+			"date_published": "2018-02-09T16:45:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/09/yeah-still-cant.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2018/02/09/the-entirety-of.html",
+	      	
+			"content_html": "<p>The entirety of Internet history boils down to this oft-repeated process: somebody builds something that’s genuinely great, and then anonymous jerks ruin that thing utterly and completely.</p>\n",
+			"date_published": "2018-02-08T18:25:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/08/the-entirety-of.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2018/02/08/why-have-i.html",
+	      	
+			"content_html": "<p>Why have I never set up a chair and a sun umbrella and worked on the beach before? What have I been doing with my life? This has to happen within the next week, or I’m officially living wrong.</p>\n",
+			"date_published": "2018-02-07T19:10:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/07/why-have-i.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2018/02/07/youve-got-to.html",
+	      	
+			"content_html": "<p><a href=\"https://www.washingtonpost.com/politics/trumps-marching-orders-to-the-pentagon-plan-a-grand-military-parade/2018/02/06/9e19ca88-0b55-11e8-8b0d-891602206fb7_story.html?utm_term=.95a87708ce55\">You’ve got to be kidding me</a>.</p>\n",
+			"date_published": "2018-02-06T19:10:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/06/youve-got-to.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2018/02/07/while-were-working.html",
+	      	
+			"content_html": "<p>While we’re working on driverless cars, can we also work toward workerless offices and humanless grocery stores?</p>\n",
+			"date_published": "2018-02-06T17:46:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/06/while-were-working.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2018/02/06/he-celebrated-his.html",
+	      	
+			"content_html": "<blockquote>\n  <p>… <a href=\"https://mobile.nytimes.com/2018/02/05/us/politics/trump-accuses-democrats-treason-market-rout.html?referer=\">he celebrated his revival of the American economy as the stock market plummeted by more than 1,000 points</a>.</p>\n</blockquote>\n",
+			"date_published": "2018-02-05T22:38:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/05/he-celebrated-his.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2018/02/06/goodbye-monday.html",
+	      	
+			"content_html": "<p>Goodbye, Monday.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/f89a15b4f3.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-05T17:02:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/05/goodbye-monday.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2018/02/04/news-explorer-is.html",
+	      	
+			"title": "News Explorer Is a Pretty Great Feed Reader",
+			
+			"content_html": "<p>I am currently using <a href=\"https://itunes.apple.com/us/app/news-explorer/id1032668306?mt=8\">News Explorer</a> for reading feeds. There are clients for both iOS and Mac, and they are improving all the time. What I like most about it is that it syncs over iCloud rather than via some third party service. It works really well, and I don’t have to depend on some service to continue existing forever. I keep the data in my own little iCloud silo.</p>\n",
+			"date_published": "2018-02-04T12:58:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/04/news-explorer-is.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2018/02/04/my-neighborhood-doesnt.html",
+	      	
+			"content_html": "<p>My neighborhood doesn’t suck.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/453873b693.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-02-04T12:12:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/04/my-neighborhood-doesnt.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2018/02/04/finally-getting-in.html",
+	      	
+			"content_html": "<p>Finally getting in some solid bike time. Beautiful day for it.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/55fd177064.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-02-04T12:08:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/04/finally-getting-in.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2018/02/04/its-degrees-out.html",
+	      	
+			"content_html": "<p>It’s 70 degrees out and everyone has the heat cranked up to 80. The world’s gone mad.</p>\n",
+			"date_published": "2018-02-03T19:46:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/03/its-degrees-out.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2018/02/03/definitely-not-the.html",
+	      	
+			"content_html": "<p>Definitely not the droids I’m looking for.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/098e0084cd.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-02-02T17:02:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/02/definitely-not-the.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2018/02/02/ive-been-sitting.html",
+	      	
+			"content_html": "<p>I’ve been sitting in traffic at a dead stop for two hours because a big-rig truck overturned (predictably?) on a curvy mountain road. I am using the time to rethink my life.</p>\n",
+			"date_published": "2018-02-02T11:52:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/02/ive-been-sitting.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2018/02/02/headline-intel-reportedly.html",
+	      	
+			"content_html": "<p>Headline: <a href=\"https://www.theverge.com/2018/2/1/16961584/intel-smart-glasses-vaunt-superlite-division-sale-rumor\">Intel reportedly considering launching smart glasses this year</a>. Presumably before they announce these plans, they are trying to make sure they can cram in a white-hot Spectre-and-Meltdown-sporting x86 processor and a huge cooling fan.</p>\n",
+			"date_published": "2018-02-01T21:44:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/01/headline-intel-reportedly.html"
 		}
 		
 	]
