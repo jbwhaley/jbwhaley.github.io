@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/02/20/never-a-truer.html",
+	      	
+			"content_html": "<p>Never a truer friend.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/d52398d9ef.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-19T18:25:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/19/never-a-truer.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/02/19/facebooks-plan-to.html",
 	      	
 			"content_html": "<p><a href=\"https://arstechnica.com/tech-policy/2018/02/facebooks-secret-weapon-in-the-fight-against-foreign-meddling-postcards/\">Facebook’s plan to reduce Russian-style political propaganda using the United States Postal Service</a> sounds clever at first glance, but it’s entirely toothless in practice. A Russian troll can receive mail just as easily as anyone else.</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>I’ve been sitting in traffic at a dead stop for two hours because a big-rig truck overturned (predictably?) on a curvy mountain road. I am using the time to rethink my life.</p>\n",
 			"date_published": "2018-02-02T11:52:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/02/02/ive-been-sitting.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/02/02/headline-intel-reportedly.html",
-	      	
-			"content_html": "<p>Headline: <a href=\"https://www.theverge.com/2018/2/1/16961584/intel-smart-glasses-vaunt-superlite-division-sale-rumor\">Intel reportedly considering launching smart glasses this year</a>. Presumably before they announce these plans, they are trying to make sure they can cram in a white-hot Spectre-and-Meltdown-sporting x86 processor and a huge cooling fan.</p>\n",
-			"date_published": "2018-02-01T21:44:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/02/01/headline-intel-reportedly.html"
 		}
 		
 	]
