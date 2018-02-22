@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/02/22/login-forms-are.html",
+	      	
+			"title": "Login Forms Are Getting More User-Hostile",
+			
+			"content_html": "<p>There are (at least) two really annoying login approaches I’m seeing everywhere on the Web these days:</p>\n\n<ol>\n  <li>Not putting a login form on the index page, opting for a signup form instead;</li>\n  <li>Not displaying the password field until after a username has been entered.</li>\n</ol>\n\n<p>The first one is largely due to lame “growth-hacking.” The second is a lame response to the rise in malicious login attempts I noted in my post last night.</p>\n\n<p>We cannot have nice things.</p>\n",
+			"date_published": "2018-02-22T08:41:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/22/login-forms-are.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/02/22/of-all-login.html",
 	      	
 			"content_html": "<p><a href=\"https://www.theregister.co.uk/2018/02/21/login_attempts_malicious_akamai/\">43% of all login attempts across the Web are malicious, Akamai claims</a>. Authentication on the Web is a farcical mess.</p>\n",
@@ -197,14 +207,6 @@
 			"content_html": "<p>My neighborhood doesn’t suck.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/453873b693.jpg\" width=\"600\" height=\"450\" /></p>\n",
 			"date_published": "2018-02-04T12:12:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/02/04/my-neighborhood-doesnt.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/02/04/finally-getting-in.html",
-	      	
-			"content_html": "<p>Finally getting in some solid bike time. Beautiful day for it.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/55fd177064.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-02-04T12:08:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/02/04/finally-getting-in.html"
 		}
 		
 	]
