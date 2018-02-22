@@ -4,8 +4,28 @@
     <title>Jarrod Whaley</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jbwhaley&quot;&gt;@jbwhaley on Micro.blog&lt;/a&gt;.</description>
     <link>https://www.jarrodwhaley.com/</link>
-    <pubDate>Wed, 21 Feb 2018 21:30:44 -0800</pubDate>
-    <lastBuildDate>Wed, 21 Feb 2018 21:30:44 -0800</lastBuildDate>
+    <pubDate>Thu, 22 Feb 2018 08:52:13 -0800</pubDate>
+    <lastBuildDate>Thu, 22 Feb 2018 08:52:13 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <title>Login Forms Are Getting More User-Hostile</title>
+        
+        <description>&lt;p&gt;There are (at least) two really annoying login approaches I’m seeing everywhere on the Web these days:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Not putting a login form on the index page, opting for a signup form instead;&lt;/li&gt;
+  &lt;li&gt;Not displaying the password field until after a username has been entered.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The first one is largely due to lame “growth-hacking.” The second is a lame response to the rise in malicious login attempts I noted in my post last night.&lt;/p&gt;
+
+&lt;p&gt;We cannot have nice things.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 22 Feb 2018 08:41:00 -0800</pubDate>
+        <link>https://www.jarrodwhaley.com/2018/02/22/login-forms-are.html</link>
+        <guid isPermaLink="true">http://jbwhaley.micro.blog/2018/02/22/login-forms-are.html</guid>
+      </item>
     
       <item>
       	
@@ -472,15 +492,6 @@
         <pubDate>Sat, 20 Jan 2018 20:36:00 -0800</pubDate>
         <link>https://www.jarrodwhaley.com/2018/01/20/theres-nothing-worse.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2018/01/21/theres-nothing-worse.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Don’t make the mistake of assuming your time is more valuable than others’ time. We are all the same, and time is priceless for everyone.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 19 Jan 2018 13:37:00 -0800</pubDate>
-        <link>https://www.jarrodwhaley.com/2018/01/19/dont-make-the.html</link>
-        <guid isPermaLink="true">http://jbwhaley.micro.blog/2018/01/19/dont-make-the.html</guid>
       </item>
     
   </channel>
