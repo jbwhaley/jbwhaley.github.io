@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/02/22/weird-weatherhttpswwwinstagramcompbfhbwaqllnc-on.html",
+	      	
+			"content_html": "<p><a href=\"https://www.instagram.com/p/BfhBWAQllnc/\">Weird weather</a> on the coast today.</p>\n",
+			"date_published": "2018-02-22T14:41:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/22/weird-weatherhttpswwwinstagramcompbfhbwaqllnc-on.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/02/22/211720.html",
 	      	
 			"content_html": "<p><a href=\"https://arstechnica.com/tech-policy/2018/02/rancher-finds-creepy-and-un-american-spy-cam-tied-to-his-tree-sues-feds\">Good for him</a>.</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<blockquote>\n  <p>… <a href=\"https://mobile.nytimes.com/2018/02/05/us/politics/trump-accuses-democrats-treason-market-rout.html?referer=\">he celebrated his revival of the American economy as the stock market plummeted by more than 1,000 points</a>.</p>\n</blockquote>\n",
 			"date_published": "2018-02-05T22:38:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/02/05/he-celebrated-his.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/02/06/goodbye-monday.html",
-	      	
-			"content_html": "<p>Goodbye, Monday.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/f89a15b4f3.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-05T17:02:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/02/05/goodbye-monday.html"
 		}
 		
 	]
