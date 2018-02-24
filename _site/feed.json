@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/02/24/nra-gives-insane.html",
+	      	
+			"title": "NRA Gives Insane Award, Insanely",
+			
+			"content_html": "<p>The mind boggles at the thought that anyone could seriously <a href=\"https://arstechnica.com/tech-policy/2018/02/nra-gives-ajit-pai-courage-award-and-gun-for-saving-the-internet\">believe that Ajit Pai “saved the Internet” and our “free speech rights” by overturning rules meant to protect the free flow of ideas from corporate intervention</a>. </p>\n\n<p>Hey, the world needs <em>a few</em> liars and lunatics, right?</p>\n",
+			"date_published": "2018-02-23T16:22:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/23/nra-gives-insane.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/02/22/weird-weatherhttpswwwinstagramcompbfhbwaqllnc-on.html",
 	      	
 			"content_html": "<p><a href=\"https://www.instagram.com/p/BfhBWAQllnc/\">Weird weather</a> on the coast today.</p>\n",
@@ -197,14 +207,6 @@
 			"content_html": "<p>While we’re working on driverless cars, can we also work toward workerless offices and humanless grocery stores?</p>\n",
 			"date_published": "2018-02-06T17:46:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/02/06/while-were-working.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/02/06/he-celebrated-his.html",
-	      	
-			"content_html": "<blockquote>\n  <p>… <a href=\"https://mobile.nytimes.com/2018/02/05/us/politics/trump-accuses-democrats-treason-market-rout.html?referer=\">he celebrated his revival of the American economy as the stock market plummeted by more than 1,000 points</a>.</p>\n</blockquote>\n",
-			"date_published": "2018-02-05T22:38:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/02/05/he-celebrated-his.html"
 		}
 		
 	]
