@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/02/27/all-the-hip.html",
+	      	
+			"content_html": "<p>All the hip developers are moving their server logic to the front end. But why? 🤷🏻‍♂️</p>\n",
+			"date_published": "2018-02-27T12:25:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/27/all-the-hip.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/02/27/a-life-so.html",
 	      	
 			"content_html": "<p>A life <a href=\"https://www.theverge.com/2018/2/25/17041440/bluetooth-location-tracking-iphone-android-privacy\">so full of tragedy</a>. It’s too much to bear.</p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>Yeah, still can’t get past the grossness of an always-on microphone in my home. Have fun with that.</p>\n",
 			"date_published": "2018-02-09T16:45:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/02/09/yeah-still-cant.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/02/09/the-entirety-of.html",
-	      	
-			"content_html": "<p>The entirety of Internet history boils down to this oft-repeated process: somebody builds something that’s genuinely great, and then anonymous jerks ruin that thing utterly and completely.</p>\n",
-			"date_published": "2018-02-08T18:25:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/02/08/the-entirety-of.html"
 		}
 		
 	]
