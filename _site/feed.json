@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/02/28/191724.html",
+	      	
+			"content_html": "<p>OK. <a href=\"https://www.theverge.com/circuitbreaker/2018/2/28/17062680/haier-asu-watch-projector-smartwatch-mwc-2018\">Why?</a></p>\n",
+			"date_published": "2018-02-28T11:17:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/28/191724.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/02/28/our-little-seaside.html",
 	      	
 			"content_html": "<p>Our little seaside town has a number of great restaurants, and on some occasions one or two of them are open for part of a half of a day.</p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>Why is it that no service can properly keep track of which TV episodes I have seen? How is <strong>this</strong> a major problem in computer science?</p>\n",
 			"date_published": "2018-02-11T18:31:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/02/11/why-is-it.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/02/11/this-hemingway-quote.html",
-	      	
-			"content_html": "<p>This Hemingway quote on a bottle of red in Calistoga was decribed to us as an Eff You to the wildfires.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/f3b3636349.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-02-10T16:09:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/02/10/this-hemingway-quote.html"
 		}
 		
 	]
