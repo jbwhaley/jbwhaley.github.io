@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/03/02/whenever-my-girlfriend.html",
+	      	
+			"content_html": "<p>Whenever my girlfriend and I are having trouble deciding what to eat for dinner, my ready suggestion is always Mexican food. It’s nice to have a default position when it comes to tricky problems.</p>\n",
+			"date_published": "2018-03-01T19:36:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/03/01/whenever-my-girlfriend.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/02/28/a-couple-of.html",
 	      	
 			"content_html": "<p>A couple of scavenging ravens.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/a3705dfd35.jpg\" width=\"600\" height=\"599\" /></p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>It would be easier to laugh at the absurdity of life if any of it were actually funny.</p>\n",
 			"date_published": "2018-02-13T14:44:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/02/13/it-would-be.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/02/13/some-days-i.html",
-	      	
-			"content_html": "<p>Some days I think programming is the most annoying activity in the world. Other days, it feels like the most rewarding and engrossing work I’ve ever done. For a while I thought this discrepancy was due to mood, and maybe that’s partially true—but now I think it mostly comes down to whether the circumstances of my day are <em>allowing me to focus</em> or not.</p>\n",
-			"date_published": "2018-02-12T20:01:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/02/12/some-days-i.html"
 		}
 		
 	]
