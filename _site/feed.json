@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/03/03/the-next-time.html",
+	      	
+			"content_html": "<blockquote>\n  <p>The next time you consider putting a caller on speakerphone while walking around in a public place, please reconsider.</p>\n</blockquote>\n\n<p>— Decent Human Beings</p>\n",
+			"date_published": "2018-03-03T12:42:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/03/03/the-next-time.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/03/03/behind-every-frustrating.html",
 	      	
 			"content_html": "<p>Behind every frustrating session of debugging, there’s a really simple, stupid mistake.</p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>Castle? Boat?</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/a9fb1cbace.jpg\" width=\"497\" height=\"497\" /></p>\n",
 			"date_published": "2018-02-15T22:53:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/02/15/castle-boat.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/02/15/debugging-css-is.html",
-	      	
-			"content_html": "<p>Debugging CSS is a bit like beating yourself in the face with a hammer, except the hammer has a differently sized handle every time you swing it.</p>\n",
-			"date_published": "2018-02-15T15:36:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/02/15/debugging-css-is.html"
 		}
 		
 	]
