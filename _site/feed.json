@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/03/03/behind-every-frustrating.html",
+	      	
+			"content_html": "<p>Behind every frustrating session of debugging, there’s a really simple, stupid mistake.</p>\n",
+			"date_published": "2018-03-02T23:58:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/03/02/behind-every-frustrating.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/03/03/boohoofbi-security-expert.html",
 	      	
 			"content_html": "<p>Boo-hoo!</p>\n\n<p><a href=\"https://arstechnica.com/tech-policy/2018/01/fbi-security-expert-apple-are-jerks-about-unlocking-encrypted-phones/\">FBI security expert: Apple are “jerks” about unlocking encrypted phones</a></p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>Debugging CSS is a bit like beating yourself in the face with a hammer, except the hammer has a differently sized handle every time you swing it.</p>\n",
 			"date_published": "2018-02-15T15:36:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/02/15/debugging-css-is.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/02/15/i-write-complete.html",
-	      	
-			"content_html": "<p>I write complete sentences with complete words, end those sentences with punctuation, and I use a hyphen in my :-) smilies. If these things make me old, I don’t want to be young.</p>\n",
-			"date_published": "2018-02-15T10:55:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/02/15/i-write-complete.html"
 		}
 		
 	]
