@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/03/03/boohoofbi-security-expert.html",
+	      	
+			"content_html": "<p>Boo-hoo!</p>\n\n<p><a href=\"https://arstechnica.com/tech-policy/2018/01/fbi-security-expert-apple-are-jerks-about-unlocking-encrypted-phones/\">FBI security expert: Apple are “jerks” about unlocking encrypted phones</a></p>\n",
+			"date_published": "2018-03-02T20:26:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/03/02/boohoofbi-security-expert.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/03/03/its-friday-night.html",
 	      	
 			"content_html": "<p>It’s Friday night, and I face a crucial decision: whisky, or whiskey?</p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>I write complete sentences with complete words, end those sentences with punctuation, and I use a hyphen in my :-) smilies. If these things make me old, I don’t want to be young.</p>\n",
 			"date_published": "2018-02-15T10:55:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/02/15/i-write-complete.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/02/15/truth-is-well.html",
-	      	
-			"content_html": "<p><a href=\"https://www.buzzfeed.com/charliewarzel/the-terrifying-future-of-fake-news?utm_term=.qga0JaVMd#.miVYk3KjN\">Truth is well and truly dead</a>.</p>\n",
-			"date_published": "2018-02-14T16:38:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/02/14/truth-is-well.html"
 		}
 		
 	]
