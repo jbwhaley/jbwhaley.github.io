@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/03/06/we-need-a.html",
+	      	
+			"content_html": "<p>We need a Manhattan Project to build networking equipment that actually works at least 30% of the time. Dream big.</p>\n",
+			"date_published": "2018-03-06T10:55:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/03/06/we-need-a.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/03/03/the-next-time.html",
 	      	
 			"content_html": "<blockquote>\n  <p>The next time you consider putting a caller on speakerphone while walking around in a public place, please reconsider.</p>\n</blockquote>\n\n<p>— Decent Human Beings</p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>Wait, Twitter is still a thing? Slightly related: Macs are still a thing?</p>\n",
 			"date_published": "2018-02-16T16:48:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/02/16/wait-twitter-is.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/02/16/castle-boat.html",
-	      	
-			"content_html": "<p>Castle? Boat?</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/a9fb1cbace.jpg\" width=\"497\" height=\"497\" /></p>\n",
-			"date_published": "2018-02-15T22:53:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/02/15/castle-boat.html"
 		}
 		
 	]
