@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/03/07/there-should-be.html",
+	      	
+			"content_html": "<p>There should be word for that moment when a tap target moves right before you tap it, leading you to tap something else. This new word should probably have more than 4 letters.</p>\n",
+			"date_published": "2018-03-06T19:11:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/03/06/there-should-be.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/03/06/we-need-a.html",
 	      	
 			"content_html": "<p>We need a Manhattan Project to build networking equipment that actually works at least 30% of the time. Dream big.</p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p><a href=\"https://thenextweb.com/contributors/2018/01/29/hackers-con-artists-perils-social-engineering/\">Hacking was around a long time before  computers were</a>.</p>\n",
 			"date_published": "2018-02-17T20:31:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/02/17/hacking-was-around.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/02/17/wait-twitter-is.html",
-	      	
-			"content_html": "<p>Wait, Twitter is still a thing? Slightly related: Macs are still a thing?</p>\n",
-			"date_published": "2018-02-16T16:48:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/02/16/wait-twitter-is.html"
 		}
 		
 	]
