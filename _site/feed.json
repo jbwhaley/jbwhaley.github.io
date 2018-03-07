@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/03/07/alexa-scare-me.html",
+	      	
+			"title": "Alexa, Scare Me To Death, Please!",
+			
+			"content_html": "<p><a href=\"https://www.buzzfeed.com/venessawong/amazon-alexa-devices-are-laughing-creepy\"><em>Buzzfeed</em> is reporting</a> that some users of Amazon’s Echo devices are feeling a bit creeped out at the fact that Alexa—a piece of <em>software</em> running on a cheap, crappy speaker—is “laughing” at them:</p>\n\n<blockquote>\n  <p>One person who was on the verge of falling into a peaceful slumber described hearing a “very loud and creepy laugh” from his Echo Dot. “There’s a good chance I get murdered tonight,” he tweeted.</p>\n</blockquote>\n\n<p>It’s <em>amazing</em> what people will willingly do to themselves, their families, and their own sanity simply because it’s somehow gotten too difficult to touch a phone.</p>\n",
+			"date_published": "2018-03-07T14:23:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/03/07/alexa-scare-me.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/03/07/good-morning-half.html",
 	      	
 			"content_html": "<p>Good morning, Half Moon Bay.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/0e6893e0c5.jpg\" width=\"600\" height=\"450\" /></p>\n",
@@ -199,14 +209,6 @@
 			"content_html": "<p>Never a truer friend.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/d52398d9ef.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-02-19T18:25:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/02/19/never-a-truer.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/02/19/facebooks-plan-to.html",
-	      	
-			"content_html": "<p><a href=\"https://arstechnica.com/tech-policy/2018/02/facebooks-secret-weapon-in-the-fight-against-foreign-meddling-postcards/\">Facebook’s plan to reduce Russian-style political propaganda using the United States Postal Service</a> sounds clever at first glance, but it’s entirely toothless in practice. A Russian troll can receive mail just as easily as anyone else.</p>\n",
-			"date_published": "2018-02-19T13:24:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/02/19/facebooks-plan-to.html"
 		}
 		
 	]
