@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/03/08/whenever-i-encounter.html",
+	      	
+			"content_html": "<p>Whenever I encounter a site that still requires users to supply answers to “security” questions, I just want to tap the parties responsible on the nose with a newspaper and say “<em>Bad</em> parties responsible! <em>Bad</em>!”</p>\n",
+			"date_published": "2018-03-08T12:33:00-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/03/08/whenever-i-encounter.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/03/08/this-should-end.html",
 	      	
 			"content_html": "<p><a href=\"https://www.inverse.com/article/42009-google-reveals-quantum-processor\">This should end well</a>.</p>\n",
@@ -201,14 +209,6 @@
 			"content_html": "<p><a href=\"https://www.theregister.co.uk/2018/02/21/login_attempts_malicious_akamai/\">43% of all login attempts across the Web are malicious, Akamai claims</a>. Authentication on the Web is a farcical mess.</p>\n",
 			"date_published": "2018-02-21T21:28:00-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/02/21/of-all-login.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/02/21/someday-i-hope.html",
-	      	
-			"content_html": "<p>Someday I hope to find a work space that is remotely workable. Some distant day.</p>\n",
-			"date_published": "2018-02-20T19:22:00-08:00",
-			"url": "https://www.jarrodwhaley.com/2018/02/20/someday-i-hope.html"
 		}
 		
 	]
