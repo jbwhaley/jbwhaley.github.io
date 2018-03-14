@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-04 23:32 -0800
+audio: 
+date: 2018-01-05 00:32 -0700
 guid: http://jbwhaley.micro.blog/2018/01/05/please-tell-me.html
 ---
 "Please tell me about your day while I enjoy this lovely glass of blood."
