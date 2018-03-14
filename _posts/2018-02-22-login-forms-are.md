@@ -2,7 +2,8 @@
 layout: post
 title: "Login Forms Are Getting More User-Hostile"
 microblog: false
-date: 2018-02-22 08:41 -0800
+audio: 
+date: 2018-02-22 09:41 -0700
 guid: http://jbwhaley.micro.blog/2018/02/22/login-forms-are.html
 ---
 There are (at least) two really annoying login approaches I'm seeing everywhere on the Web these days:
