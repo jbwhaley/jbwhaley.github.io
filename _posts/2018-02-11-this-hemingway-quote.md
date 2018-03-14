@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-02-10 16:09 -0800
+audio: 
+date: 2018-02-10 17:09 -0700
 guid: http://jbwhaley.micro.blog/2018/02/11/this-hemingway-quote.html
 ---
 This Hemingway quote on a bottle of red in Calistoga was decribed to us as an Eff You to the wildfires.
