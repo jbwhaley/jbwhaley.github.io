@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-12-04 17:49 -0800
+audio: 
+date: 2017-12-04 18:49 -0700
 guid: http://jbwhaley.micro.blog/2017/12/05/beautiful-sunset-bike.html
 ---
 Beautiful sunset bike ride down the coast. One day ends, and another one begins.
