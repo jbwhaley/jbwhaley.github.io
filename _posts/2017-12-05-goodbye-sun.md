@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-12-04 16:58 -0800
+audio: 
+date: 2017-12-04 17:58 -0700
 guid: http://jbwhaley.micro.blog/2017/12/05/goodbye-sun.html
 ---
 Goodbye, sun.
