@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-15 21:06 -0800
+audio: 
+date: 2018-01-15 22:06 -0700
 guid: http://jbwhaley.micro.blog/2018/01/16/theres-more-to.html
 ---
 There's more to everything you see than what you see at first.
