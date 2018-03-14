@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-12-11 17:58 -0800
+audio: 
+date: 2017-12-11 18:58 -0700
 guid: http://jbwhaley.micro.blog/2017/12/12/a-stolen-moment.html
 ---
 A stolen moment of peace beside the Pacific.
