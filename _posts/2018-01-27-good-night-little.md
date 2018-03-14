@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-26 23:27 -0800
+audio: 
+date: 2018-01-27 00:27 -0700
 guid: http://jbwhaley.micro.blog/2018/01/27/good-night-little.html
 ---
 Good night, little druid.
