@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-02 11:53 -0800
+audio: 
+date: 2018-01-02 12:53 -0700
 guid: http://jbwhaley.micro.blog/2018/01/02/fundamentally-youre-on.html
 ---
 Fundamentally, you're on your own out there.
