@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-12-09 18:53 -0800
+audio: 
+date: 2017-12-09 19:53 -0700
 guid: http://jbwhaley.micro.blog/2017/12/10/didnt-learn-from.html
 ---
 Didn't learn from the mistakes of Deceiver I, eh?
