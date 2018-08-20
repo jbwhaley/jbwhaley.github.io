@@ -1,23 +1,7 @@
-.logo, p, h1, h2, h3, h4, ul li, ol li, .about__text {
-	font-family: 'Avenir', "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+header {
+	text-align: center;
 }
 
-p, h1, h2, h3, h4, ul li, ol li {
-  text-align: left;
-}
-
-h1.page-title, h1.post-title {
-     text-align: left;
-}
-
-p {
-  font-weight: normal;
-}
-
-p img {
-  border: 5px solid #ccc;
-}
-
-a:hover, a:hover span {
-  color: black;
+.cta {
+    display: none;
 }
