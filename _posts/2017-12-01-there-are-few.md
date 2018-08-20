@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-11-30 23:52 -0700
+date: 2017-11-30 23:52:55 -0700
 guid: http://jbwhaley.micro.blog/2017/12/01/there-are-few.html
 ---
 There are few things I find more calming than just watching the surf for a few minutes.
