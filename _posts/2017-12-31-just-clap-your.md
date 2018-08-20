@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-31 15:41 -0700
+date: 2017-12-31 15:41:43 -0700
 guid: http://jbwhaley.micro.blog/2017/12/31/just-clap-your.html
 ---
 Just clap your hands.
