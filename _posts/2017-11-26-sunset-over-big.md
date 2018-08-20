@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-11-25 19:29 -0700
+date: 2017-11-25 19:29:13 -0700
 guid: http://jbwhaley.micro.blog/2017/11/26/sunset-over-big.html
 ---
 Sunset over Big Sur.
