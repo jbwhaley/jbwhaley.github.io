@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-28 16:49 -0700
+date: 2018-02-28 16:49:25 -0700
 guid: http://jbwhaley.micro.blog/2018/02/28/a-couple-of.html
 ---
 A couple of scavenging ravens.
