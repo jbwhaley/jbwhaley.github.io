@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-11-29 23:50 -0700
+date: 2017-11-29 23:50:51 -0700
 guid: http://jbwhaley.micro.blog/2017/11/30/spending-last-weekend.html
 ---
 Spending last weekend in Big Sur reminded me that total silence is the most beautiful sound I have ever heard.
