@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-11-28 18:38 -0700
+date: 2017-11-28 18:38:13 -0700
 guid: http://jbwhaley.micro.blog/2017/11/29/the-edge-of.html
 ---
 The edge of the world.
