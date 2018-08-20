@@ -3,7 +3,7 @@ layout: post
 title: "Alexa, Scare Me To Death, Please!"
 microblog: false
 audio: 
-date: 2018-03-07 15:23 -0700
+date: 2018-03-07 15:23:35 -0700
 guid: http://jbwhaley.micro.blog/2018/03/07/alexa-scare-me.html
 ---
 [*Buzzfeed* is reporting](https://www.buzzfeed.com/venessawong/amazon-alexa-devices-are-laughing-creepy) that some users of Amazon’s Echo devices are feeling a bit creeped out at the fact that Alexa—a piece of *software* running on a cheap, crappy speaker—is “laughing" at them:
