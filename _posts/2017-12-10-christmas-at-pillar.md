@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-09 19:30 -0700
+date: 2017-12-09 19:30:19 -0700
 guid: http://jbwhaley.micro.blog/2017/12/10/christmas-at-pillar.html
 ---
 Christmas at Pillar Point Harbor.
