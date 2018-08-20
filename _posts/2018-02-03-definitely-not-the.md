@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-02 18:02 -0700
+date: 2018-02-02 18:02:43 -0700
 guid: http://jbwhaley.micro.blog/2018/02/03/definitely-not-the.html
 ---
 Definitely not the droids I'm looking for.
