@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-11-22 18:37 -0700
+date: 2017-11-22 18:37:32 -0700
 guid: http://jbwhaley.micro.blog/2017/11/23/my-strategy-for.html
 ---
 My strategy for "Winning Black Friday" is quite simple: I plan not to buy anything.
