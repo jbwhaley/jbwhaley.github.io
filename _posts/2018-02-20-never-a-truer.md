@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-19 19:25 -0700
+date: 2018-02-19 19:25:16 -0700
 guid: http://jbwhaley.micro.blog/2018/02/20/never-a-truer.html
 ---
 Never a truer friend.
