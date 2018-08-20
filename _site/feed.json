@@ -6,207 +6,203 @@
 	"items": [
 		
 		{
-			"id": "http://jbwhaley.micro.blog/2018/03/14/security-privacy-are.html",
+			"id": "http://jbwhaley.micro.blog/2018/08/17/without-fail-any.html",
 	      	
-			"content_html": "<p>Security &amp; privacy are best viewed as a counterbalance to convenience. Sometimes it’s quite easy to hold to an absolutist ideal that makes your life unnecessarily harder.</p>\n",
-			"date_published": "2018-03-13T19:37:00-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/03/13/security-privacy-are.html"
+			"content_html": "<p>Without fail, any <a href=\"https://www.phillymag.com/articles/2018/08/11/mayonnaise-industry-millennials/\">article with the word “millenials” in the title is entirely vapid</a>.</p>\n",
+			"date_published": "2018-08-17T11:02:36-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/08/17/without-fail-any.html"
 		},
 		
 		{
-			"id": "http://jbwhaley.micro.blog/2018/03/10/out-on-caada.html",
+			"id": "http://jbwhaley.micro.blog/2018/08/17/i-use-gmail.html",
 	      	
-			"content_html": "<p>Out on Cañada Road.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/7ed734b2be.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-10T14:55:00-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/03/10/out-on-caada.html"
+			"content_html": "<p>I use Gmail every day (sadly) for work, and I <em>still</em> can never tell which icon goes with “archive” and which one goes with “mark as read.” Google’s UI design remains horrendous.</p>\n",
+			"date_published": "2018-08-17T11:00:05-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/08/17/i-use-gmail.html"
 		},
 		
 		{
-			"id": "http://jbwhaley.micro.blog/2018/03/08/whenever-i-encounter.html",
+			"id": "http://jbwhaley.micro.blog/2018/08/16/why-am-i.html",
 	      	
-			"content_html": "<p>Whenever I encounter a site that still requires users to supply answers to “security” questions, I just want to tap the parties responsible on the nose with a newspaper and say “<em>Bad</em> parties responsible! <em>Bad</em>!”</p>\n",
-			"date_published": "2018-03-08T13:33:00-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/03/08/whenever-i-encounter.html"
+			"content_html": "<p>Why am I still seeing smart people concede to the assertion that Twitter’s antogonism toward third-party apps is based on the fact that those apps can’t show ads? Um, Twitter could require them to show ads. Not a credible argument in any way.</p>\n",
+			"date_published": "2018-08-16T12:12:30-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/08/16/why-am-i.html"
 		},
 		
 		{
-			"id": "http://jbwhaley.micro.blog/2018/03/08/this-should-end.html",
+			"id": "http://jbwhaley.micro.blog/2018/08/16/child-attempts-to.html",
 	      	
-			"content_html": "<p><a href=\"https://www.inverse.com/article/42009-google-reveals-quantum-processor\">This should end well</a>.</p>\n",
-			"date_published": "2018-03-07T21:12:00-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/03/07/this-should-end.html"
+			"content_html": "<p><a href=\"https://apple.news/AnS_2mt2FQMSe9A67NdbSEw\">Child Attempts to Obviate Mother’s Prohibition on Stealing Cookies By Stealing All Cookies, Thereby Hoping to Render Mother’s Prohibition Nonsensical; Mother Angry Anyway, Because Child Is Stupid and Is Missing The Point</a></p>\n",
+			"date_published": "2018-08-15T19:28:40-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/08/15/child-attempts-to.html"
 		},
 		
 		{
-			"id": "http://jbwhaley.micro.blog/2018/03/08/good-night-half.html",
+			"id": "http://jbwhaley.micro.blog/2018/08/14/democracy-would-seem.html",
 	      	
-			"content_html": "<p>Good night, Half Moon Bay.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/d049c8c768.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-03-07T19:08:00-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/03/07/good-night-half.html"
+			"content_html": "<p>Democracy would seem to have a tiny flaw: the whole thing goes a tad awry when a significant proportion of the adult population decides to opt for willful stupidity.</p>\n",
+			"date_published": "2018-08-13T21:53:22-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/08/13/democracy-would-seem.html"
 		},
 		
 		{
-			"id": "http://jbwhaley.micro.blog/2018/03/07/alexa-scare-me.html",
+			"id": "http://jbwhaley.micro.blog/2018/08/14/google-voices-ios.html",
 	      	
-			"title": "Alexa, Scare Me To Death, Please!",
-			
-			"content_html": "<p><a href=\"https://www.buzzfeed.com/venessawong/amazon-alexa-devices-are-laughing-creepy\"><em>Buzzfeed</em> is reporting</a> that some users of Amazon’s Echo devices are feeling a bit creeped out at the fact that Alexa—a piece of <em>software</em> running on a cheap, crappy speaker—is “laughing” at them:</p>\n\n<blockquote>\n  <p>One person who was on the verge of falling into a peaceful slumber described hearing a “very loud and creepy laugh” from his Echo Dot. “There’s a good chance I get murdered tonight,” he tweeted.</p>\n</blockquote>\n\n<p>It’s <em>amazing</em> what people will willingly do to themselves, their families, and their own sanity simply because it’s somehow gotten too difficult to touch a phone.</p>\n",
-			"date_published": "2018-03-07T15:23:00-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/03/07/alexa-scare-me.html"
+			"content_html": "<p>Google Voice’s iOS app has “a new look and feel.” Nice. Now maybe they can add a feature or improve the service in some way, for the first time since 2009.</p>\n",
+			"date_published": "2018-08-13T20:06:40-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/08/13/google-voices-ios.html"
 		},
 		
 		{
-			"id": "http://jbwhaley.micro.blog/2018/03/07/good-morning-half.html",
+			"id": "http://jbwhaley.micro.blog/2018/08/12/no-seriously-things.html",
 	      	
-			"content_html": "<p>Good morning, Half Moon Bay.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/0e6893e0c5.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-03-07T08:54:00-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/03/07/good-morning-half.html"
+			"content_html": "<p>No! Seriously? Things with computers in them <a href=\"https://www.wired.com/story/police-body-camera-vulnerabilities/\">can be hacked</a>? Who knew!?</p>\n",
+			"date_published": "2018-08-12T10:23:28-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/08/12/no-seriously-things.html"
 		},
 		
 		{
-			"id": "http://jbwhaley.micro.blog/2018/03/07/there-should-be.html",
+			"id": "http://jbwhaley.micro.blog/2018/08/10/im-thinking-apple.html",
 	      	
-			"content_html": "<p>There should be a word for that moment when a tap target moves right before you tap it, leading you to tap something else. This new word should probably have more than 4 letters.</p>\n",
-			"date_published": "2018-03-06T20:11:00-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/03/06/there-should-be.html"
+			"content_html": "<p>I’m thinking Apple <em>might</em> want to register <a href=\"http://itunesconnect.com\">itunesconnect.com</a> at this point. There <em>might</em> be a massive risk of phishing attack there which <em>may</em> lead to a massive PR catastrophe. Just saying.</p>\n",
+			"date_published": "2018-08-10T13:13:08-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/08/10/im-thinking-apple.html"
 		},
 		
 		{
-			"id": "http://jbwhaley.micro.blog/2018/03/06/we-need-a.html",
+			"id": "http://jbwhaley.micro.blog/2018/08/10/i-really-love.html",
 	      	
-			"content_html": "<p>We need a Manhattan Project to build networking equipment that actually works at least 30% of the time. Dream big.</p>\n",
-			"date_published": "2018-03-06T11:55:00-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/03/06/we-need-a.html"
+			"content_html": "<p>I really love the new approach media companies are taking when they discover I am running an ad blocker: they want to teach me how to turn it off. How <strong>nice</strong> of them!</p>\n",
+			"date_published": "2018-08-10T11:25:29-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/08/10/i-really-love.html"
 		},
 		
 		{
-			"id": "http://jbwhaley.micro.blog/2018/03/03/the-next-time.html",
+			"id": "http://jbwhaley.micro.blog/2018/08/09/drive-like-youve.html",
 	      	
-			"content_html": "<blockquote>\n  <p>The next time you consider putting a caller on speakerphone while walking around in a public place, please reconsider.</p>\n</blockquote>\n\n<p>— Decent Human Beings</p>\n",
-			"date_published": "2018-03-03T13:42:00-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/03/03/the-next-time.html"
+			"content_html": "<p>Drive like you’ve never seen a car before. Because that’s how everyone else is driving.</p>\n",
+			"date_published": "2018-08-09T16:25:01-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/08/09/drive-like-youve.html"
 		},
 		
 		{
-			"id": "http://jbwhaley.micro.blog/2018/03/03/behind-every-frustrating.html",
+			"id": "http://jbwhaley.micro.blog/2018/08/09/the-assumption-has.html",
 	      	
-			"content_html": "<p>Behind every frustrating session of debugging, there’s a really simple, stupid mistake.</p>\n",
-			"date_published": "2018-03-03T00:58:00-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/03/03/behind-every-frustrating.html"
+			"content_html": "<p>The assumption has always been that AI would kill us all with Terminator robots or something. Reality will be far more prosaic, but no less <a href=\"https://securityaffairs.co/wordpress/75206/malware/deeplocker-ai-powered-malware.html\">terrifying</a>. Imagine AI-based malware infecting air traffic control systems. Or nuclear facilities.</p>\n",
+			"date_published": "2018-08-09T10:29:47-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/08/09/the-assumption-has.html"
 		},
 		
 		{
-			"id": "http://jbwhaley.micro.blog/2018/03/03/boohoofbi-security-expert.html",
+			"id": "http://jbwhaley.micro.blog/2018/08/09/craven-shell-of.html",
 	      	
-			"content_html": "<p>Boo-hoo!</p>\n\n<p><a href=\"https://arstechnica.com/tech-policy/2018/01/fbi-security-expert-apple-are-jerks-about-unlocking-encrypted-phones/\">FBI security expert: Apple are “jerks” about unlocking encrypted phones</a></p>\n",
-			"date_published": "2018-03-02T21:26:00-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/03/02/boohoofbi-security-expert.html"
+			"content_html": "<p><a href=\"https://www.washingtonpost.com/business/economy/pence-details-plan-for-creation-of-space-force-in-what-would-be-the-sixth-branch-of-the-military/2018/08/09/0b40b8d0-9bdc-11e8-8d5e-c6c594024954_story.html?noredirect=on\">Craven Shell of a Man Stands at Podium and Says Stupid Things His Boss Likes in Bad Faith</a></p>\n",
+			"date_published": "2018-08-09T10:15:42-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/08/09/craven-shell-of.html"
 		},
 		
 		{
-			"id": "http://jbwhaley.micro.blog/2018/03/03/its-friday-night.html",
+			"id": "http://jbwhaley.micro.blog/2018/08/09/check-out-this.html",
 	      	
-			"content_html": "<p>It’s Friday night, and I face a crucial decision: whisky, or whiskey?</p>\n",
-			"date_published": "2018-03-02T18:53:00-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/03/02/its-friday-night.html"
+			"content_html": "<p>Check out this tired little guy. (Zoom in. We get seals here too, <a href=\"https://micro.blog/Miraz\">@Miraz</a>.)</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/b8b46022ce.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-08-08T18:15:22-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/08/08/check-out-this.html"
 		},
 		
 		{
-			"id": "http://jbwhaley.micro.blog/2018/03/02/whenever-my-girlfriend.html",
+			"id": "http://jbwhaley.micro.blog/2018/08/08/apples-app-store.html",
 	      	
-			"content_html": "<p>Whenever my girlfriend and I are having trouble deciding what to eat for dinner, my ready suggestion is always Mexican food. It’s nice to have a default position when it comes to tricky problems.</p>\n",
-			"date_published": "2018-03-01T20:36:00-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/03/01/whenever-my-girlfriend.html"
+			"content_html": "<p>Apple’s <a href=\"https://developer.apple.com/app-store/review/guidelines/#spam\">App Store Review Guidelines</a>:</p>\n\n<blockquote>\n  <p>…the App Store has enough fart, burp, flashlight, and Kama Sutra apps already.</p>\n</blockquote>\n\n<p><a href=\"https://itunes.apple.com/us/app/pootiepets/id1259596278?mt=8\">Does it</a>?</p>\n",
+			"date_published": "2018-08-08T16:51:58-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/08/08/apples-app-store.html"
 		},
 		
 		{
-			"id": "http://jbwhaley.micro.blog/2018/02/28/a-couple-of.html",
+			"id": "http://jbwhaley.micro.blog/2018/08/08/stephen-levy-hackers.html",
 	      	
-			"content_html": "<p>A couple of scavenging ravens.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/a3705dfd35.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-02-28T16:49:00-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/02/28/a-couple-of.html"
+			"content_html": "<p>Stephen Levy, <em><a href=\"https://en.m.wikipedia.org/wiki/Hackers:_Heroes_of_the_Computer_Revolution\">Hackers</a></em>:</p>\n\n<blockquote>\n  <p>[…] hackers generally hate driving cars-the system of randomly programmed red lights and oddly laid out one-way streets causes delays which are so goddamn <em>unnecessary</em> that the impulse is to rearrange signs, open up traffic-light control boxes…redesign the entire system.</p>\n</blockquote>\n",
+			"date_published": "2018-08-07T22:32:14-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/08/07/stephen-levy-hackers.html"
 		},
 		
 		{
-			"id": "http://jbwhaley.micro.blog/2018/02/28/191724.html",
+			"id": "http://jbwhaley.micro.blog/2018/08/08/dont-hate-yourself.html",
 	      	
-			"content_html": "<p>OK. <a href=\"https://www.theverge.com/circuitbreaker/2018/2/28/17062680/haier-asu-watch-projector-smartwatch-mwc-2018\">Why?</a></p>\n",
-			"date_published": "2018-02-28T12:17:00-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/02/28/191724.html"
+			"content_html": "<p>Don’t hate yourself. Laugh at yourself, and then try to be a little less funny.</p>\n",
+			"date_published": "2018-08-07T22:04:22-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/08/07/dont-hate-yourself.html"
 		},
 		
 		{
-			"id": "http://jbwhaley.micro.blog/2018/02/28/our-little-seaside.html",
+			"id": "http://jbwhaley.micro.blog/2018/08/08/my-girlfriends-iphone.html",
 	      	
-			"content_html": "<p>Our little seaside town has a number of great restaurants, and on some occasions one or two of them are open for part of a half of a day.</p>\n",
-			"date_published": "2018-02-28T00:29:00-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/02/28/our-little-seaside.html"
+			"content_html": "<p>My girlfriend’s iPhone X crapped out within minutes of contact with water while we were on vacation last week. These phones are still very susceptible to water damage, despite Apple’s claims to the contrary.</p>\n",
+			"date_published": "2018-08-07T17:25:06-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/08/07/my-girlfriends-iphone.html"
 		},
 		
 		{
-			"id": "http://jbwhaley.micro.blog/2018/02/27/all-the-hip.html",
+			"id": "http://jbwhaley.micro.blog/2018/08/07/badly-implemented-form.html",
 	      	
-			"content_html": "<p>All the hip developers are moving their server logic to the front end. But why? 🤷🏻‍♂️</p>\n",
-			"date_published": "2018-02-27T13:25:00-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/02/27/all-the-hip.html"
+			"content_html": "<p>Badly implemented form validation is one of the biggest and most pointless scourges on the Web today. My phone number is “not valid” because I included parentheses and hyphens, <strong>as all humans do</strong>? Hey programmer, <em>you</em> strip those characters. You’re a programmer. Write a program.</p>\n",
+			"date_published": "2018-08-07T11:37:29-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/08/07/badly-implemented-form.html"
 		},
 		
 		{
-			"id": "http://jbwhaley.micro.blog/2018/02/27/a-life-so.html",
+			"id": "http://jbwhaley.micro.blog/2018/08/06/nobody-ever-said.html",
 	      	
-			"content_html": "<p>A life <a href=\"https://www.theverge.com/2018/2/25/17041440/bluetooth-location-tracking-iphone-android-privacy\">so full of tragedy</a>. It’s too much to bear.</p>\n",
-			"date_published": "2018-02-26T20:27:00-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/02/26/a-life-so.html"
+			"content_html": "<p>Nobody ever said the first day back at work after a vacation would be easy. If somebody said that and I missed it…screw that guy.</p>\n",
+			"date_published": "2018-08-06T10:48:26-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/08/06/nobody-ever-said.html"
 		},
 		
 		{
-			"id": "http://jbwhaley.micro.blog/2018/02/27/i-pulled-some.html",
+			"id": "http://jbwhaley.micro.blog/2018/08/05/i-make-a.html",
 	      	
-			"content_html": "<p>I pulled some muscle or something in my chest, and to say the pain is horrible would be putting it mildly. It’s hard to do anything—even nothing at all.</p>\n",
-			"date_published": "2018-02-26T17:46:00-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/02/26/i-pulled-some.html"
+			"content_html": "<p>I make a point of renewing <a href=\"https://linklocker.co\">LinkLocker</a>’s TLS certificate manually every two months. The regularity encourages me to audit transport security on an ongoing basis.</p>\n",
+			"date_published": "2018-08-05T13:21:14-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/08/05/i-make-a.html"
 		},
 		
 		{
-			"id": "http://jbwhaley.micro.blog/2018/02/24/this-is-what.html",
+			"id": "http://jbwhaley.micro.blog/2018/08/03/203835.html",
 	      	
-			"content_html": "<p>This is what you see now when you go to a Twitter URL while not logged in. Blatant lies, as per usual in our times.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/bbd510100d.jpg\" width=\"600\" height=\"225\" /></p>\n",
-			"date_published": "2018-02-24T16:53:00-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/02/24/this-is-what.html"
+			"content_html": "<p>There is a common misconception which holds that one is being empathetic when one relates to another’s problem through shared experience. In fact, real empathy entails respecting another’s wishes even when one neither understands nor agrees with those wishes.</p>\n",
+			"date_published": "2018-08-03T13:38:35-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/08/03/203835.html"
 		},
 		
 		{
-			"id": "http://jbwhaley.micro.blog/2018/02/24/nra-gives-insane.html",
+			"id": "http://jbwhaley.micro.blog/2018/07/28/one-of-the.html",
 	      	
-			"title": "NRA Gives Insane Award, Insanely",
-			
-			"content_html": "<p>The mind boggles at the thought that anyone could seriously <a href=\"https://arstechnica.com/tech-policy/2018/02/nra-gives-ajit-pai-courage-award-and-gun-for-saving-the-internet\">believe that Ajit Pai “saved the Internet” and our “free speech rights” by overturning rules meant to protect the free flow of ideas from corporate intervention</a>. </p>\n\n<p>Hey, the world needs <em>a few</em> liars and lunatics, right?</p>\n",
-			"date_published": "2018-02-23T17:22:00-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/02/23/nra-gives-insane.html"
+			"content_html": "<p>One of the three remaining airlines just acknowledged that I have “lots of choices” and thanked me for choosing them.</p>\n\n<p>That was so nice of them.</p>\n",
+			"date_published": "2018-07-28T10:07:38-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/07/28/one-of-the.html"
 		},
 		
 		{
-			"id": "http://jbwhaley.micro.blog/2018/02/22/weird-weatherhttpswwwinstagramcompbfhbwaqllnc-on.html",
+			"id": "http://jbwhaley.micro.blog/2018/07/25/now-i-kind.html",
 	      	
-			"content_html": "<p><a href=\"https://www.instagram.com/p/BfhBWAQllnc/\">Weird weather</a> on the coast today.</p>\n",
-			"date_published": "2018-02-22T15:41:00-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/02/22/weird-weatherhttpswwwinstagramcompbfhbwaqllnc-on.html"
+			"content_html": "<p>Now I kind of just assume that any person talking on the Internet is a Russian troll. Things make a lot more sense if you begin with that premise.</p>\n",
+			"date_published": "2018-07-25T15:24:53-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/07/25/now-i-kind.html"
 		},
 		
 		{
-			"id": "http://jbwhaley.micro.blog/2018/02/22/211720.html",
+			"id": "http://jbwhaley.micro.blog/2018/07/24/heres-one-example.html",
 	      	
-			"content_html": "<p><a href=\"https://arstechnica.com/tech-policy/2018/02/rancher-finds-creepy-and-un-american-spy-cam-tied-to-his-tree-sues-feds\">Good for him</a>.</p>\n",
-			"date_published": "2018-02-22T14:17:00-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/02/22/211720.html"
+			"content_html": "<p>Here’s <a href=\"https://www.sparkfun.com/news/2738\">one example</a> of the impact Trump’s stupid trade war is going to have on American businesses, and on <em>your</em> wallet. This is just one company’s appraisal of the situation, but make no mistake: these issues are going to be widespread.</p>\n",
+			"date_published": "2018-07-24T13:16:10-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/07/24/heres-one-example.html"
 		},
 		
 		{
-			"id": "http://jbwhaley.micro.blog/2018/02/22/this-is-a.html",
+			"id": "http://jbwhaley.micro.blog/2018/07/24/well-here-is.html",
 	      	
-			"content_html": "<p>This is a <em>terrible</em> dialog box (on Amazon.com). If I want to cancel, should I hit “cancel?” Will that cancel my cancelation?</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/3e1e13fa48.jpg\" width=\"482\" height=\"288\" /></p>\n",
-			"date_published": "2018-02-22T11:52:00-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/02/22/this-is-a.html"
+			"content_html": "<p>Well, <a href=\"https://securityaffairs.co/wordpress/74709/apt/russia-hack-critical-infrastructure-2.html\">here is a cheery story</a>. These attackers could bring our electrical infrastructure down anytime they like, and they want us to know it.</p>\n",
+			"date_published": "2018-07-24T13:07:57-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/07/24/well-here-is.html"
 		}
 		
 	]
