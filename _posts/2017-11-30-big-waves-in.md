@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-11-30 08:37 -0700
+date: 2017-11-30 08:37:49 -0700
 guid: http://jbwhaley.micro.blog/2017/11/30/big-waves-in.html
 ---
 Big waves in Half Moon Bay this morning.
