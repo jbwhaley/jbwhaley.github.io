@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-16 18:32 -0700
+date: 2017-12-16 18:32:57 -0700
 guid: http://jbwhaley.micro.blog/2017/12/17/looking-out-my.html
 ---
 Looking out my back door.
