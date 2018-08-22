@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/08/21/verizon-sucks.html",
+	      	
+			"content_html": "<p><a href=\"https://arstechnica.com/tech-policy/2018/08/verizon-throttled-fire-departments-unlimited-data-during-calif-wildfire/\">Verizon sucks</a>.</p>\n",
+			"date_published": "2018-08-21T12:59:32-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/08/21/verizon-sucks.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/08/17/without-fail-any.html",
 	      	
 			"content_html": "<p>Without fail, any <a href=\"https://www.phillymag.com/articles/2018/08/11/mayonnaise-industry-millennials/\">article with the word “millenials” in the title is entirely vapid</a>.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Here’s <a href=\"https://www.sparkfun.com/news/2738\">one example</a> of the impact Trump’s stupid trade war is going to have on American businesses, and on <em>your</em> wallet. This is just one company’s appraisal of the situation, but make no mistake: these issues are going to be widespread.</p>\n",
 			"date_published": "2018-07-24T13:16:10-07:00",
 			"url": "https://www.jarrodwhaley.com/2018/07/24/heres-one-example.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/07/24/well-here-is.html",
-	      	
-			"content_html": "<p>Well, <a href=\"https://securityaffairs.co/wordpress/74709/apt/russia-hack-critical-infrastructure-2.html\">here is a cheery story</a>. These attackers could bring our electrical infrastructure down anytime they like, and they want us to know it.</p>\n",
-			"date_published": "2018-07-24T13:07:57-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/07/24/well-here-is.html"
 		}
 		
 	]
