@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/08/28/trump-decrees-google.html",
+	      	
+			"title": "Trump Decrees: Google Results Not Dumb Enough for His Dumb Base",
+			
+			"content_html": "<p>Our Dear Leader, The Dishonerable Resident Dump, has ordered Google to <a href=\"https://arstechnica.com/tech-policy/2018/08/trump-claims-with-no-evidence-that-google-is-rigged-against-him/\">do more to let stupid people read</a> stupid bovine excrement, written by stupid bovines (presumably with their hooves). The move is largely seen as a token gesture toward the powerful Stupid People lobby, given the fact that Stupid People can’t read words.</p>\n\n<p>Several non-dumb people familiar with the matter placed their palms upon their faces, looked down at the ground, wept, and prayed for Bob Mueller to <em>Bring The Ruckus Al-Freaking-Ready</em>.</p>\n",
+			"date_published": "2018-08-28T12:52:38-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/08/28/trump-decrees-google.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/08/24/this-headline-needed.html",
 	      	
 			"content_html": "<p>This headline needed a little adjustment.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/2650be0104.jpg\" width=\"600\" height=\"118\" /></p>\n",
@@ -195,14 +205,6 @@
 			"content_html": "<p>One of the three remaining airlines just acknowledged that I have “lots of choices” and thanked me for choosing them.</p>\n\n<p>That was so nice of them.</p>\n",
 			"date_published": "2018-07-28T10:07:38-07:00",
 			"url": "https://www.jarrodwhaley.com/2018/07/28/one-of-the.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/07/25/now-i-kind.html",
-	      	
-			"content_html": "<p>Now I kind of just assume that any person talking on the Internet is a Russian troll. Things make a lot more sense if you begin with that premise.</p>\n",
-			"date_published": "2018-07-25T15:24:53-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/07/25/now-i-kind.html"
 		}
 		
 	]
