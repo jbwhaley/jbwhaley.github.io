@@ -6,11 +6,19 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/08/29/the-united-states.html",
+	      	
+			"content_html": "<p>The United States Court of Appeals for the Eighth Circuit has <a href=\"https://arstechnica.com/tech-policy/2018/08/fcc-can-define-markets-with-only-one-isp-as-competitive-court-rules/\">upheld an FCC ruling which posits that markets with a single ISP can be classified as “competitive.”</a> Meanwhile, I fondly remember when words had meanings which weren’t their own opposites.</p>\n",
+			"date_published": "2018-08-29T11:48:58-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/08/29/the-united-states.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/08/28/trump-decrees-google.html",
 	      	
 			"title": "Trump Decrees: Google Results Not Dumb Enough for His Dumb Base",
 			
-			"content_html": "<p>Our Dear Leader, The Dishonerable Resident Dump, has ordered Google to <a href=\"https://arstechnica.com/tech-policy/2018/08/trump-claims-with-no-evidence-that-google-is-rigged-against-him/\">do more to let stupid people read</a> stupid bovine excrement, written by stupid bovines (presumably with their hooves). The move is largely seen as a token gesture toward the powerful Stupid People lobby, given the fact that Stupid People can’t read words.</p>\n\n<p>Several non-dumb people familiar with the matter placed their palms upon their faces, looked down at the ground, wept, and prayed for Bob Mueller to <em>Bring The Ruckus Al-Freaking-Ready</em>.</p>\n",
+			"content_html": "<p>Our Dear Leader, The Dishonorable Resident Dump, has ordered Google to <a href=\"https://arstechnica.com/tech-policy/2018/08/trump-claims-with-no-evidence-that-google-is-rigged-against-him/\">do more to let stupid people read</a> stupid bovine excrement, written by stupid bovines (presumably with their hooves). The move is largely seen as a token gesture toward the powerful Stupid People lobby, given the fact that Stupid People can’t read words.</p>\n\n<p>Several non-dumb people familiar with the matter placed their palms upon their faces, looked down at the ground, wept, and prayed for Bob Mueller to <em>Bring The Ruckus Al-Freaking-Ready</em>.</p>\n",
 			"date_published": "2018-08-28T12:52:38-07:00",
 			"url": "https://www.jarrodwhaley.com/2018/08/28/trump-decrees-google.html"
 		},
@@ -197,14 +205,6 @@
 			"content_html": "<p>There is a common misconception which holds that one is being empathetic when one relates to another’s problem through shared experience. In fact, real empathy entails respecting another’s wishes even when one neither understands nor agrees with those wishes.</p>\n",
 			"date_published": "2018-08-03T13:38:35-07:00",
 			"url": "https://www.jarrodwhaley.com/2018/08/03/203835.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/07/28/one-of-the.html",
-	      	
-			"content_html": "<p>One of the three remaining airlines just acknowledged that I have “lots of choices” and thanked me for choosing them.</p>\n\n<p>That was so nice of them.</p>\n",
-			"date_published": "2018-07-28T10:07:38-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/07/28/one-of-the.html"
 		}
 		
 	]
