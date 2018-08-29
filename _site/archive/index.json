@@ -6,11 +6,19 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/08/29/the-united-states.html",
+	      	
+			"content_text": "The United States Court of Appeals for the Eighth Circuit...",
+			"date_published": "2018-08-29T11:48:58-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/08/29/the-united-states.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/08/28/trump-decrees-google.html",
 	      	
 			"title": "Trump Decrees: Google Results Not Dumb Enough for His Dumb Base",
 			
-			"content_text": "Our Dear Leader, The Dishonerable Resident Dump, has ordered Google...",
+			"content_text": "Our Dear Leader, The Dishonorable Resident Dump, has ordered Google...",
 			"date_published": "2018-08-28T12:52:38-07:00",
 			"url": "https://www.jarrodwhaley.com/2018/08/28/trump-decrees-google.html"
 		},
