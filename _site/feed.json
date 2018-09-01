@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/08/30/i-generally-like.html",
+	      	
+			"content_html": "<p>I generally like and have no problem with the keyboard on my 2016 MacBook Pro. However, I am constantly typing semicolons when I mean to type commas, and spaces when I am trying to hit a key on the bottom row. Pretty annoying.</p>\n",
+			"date_published": "2018-08-30T16:22:53-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/08/30/i-generally-like.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/08/29/the-united-states.html",
 	      	
 			"content_html": "<p>The United States Court of Appeals for the Eighth Circuit has <a href=\"https://arstechnica.com/tech-policy/2018/08/fcc-can-define-markets-with-only-one-isp-as-competitive-court-rules/\">upheld an FCC ruling which posits that markets with a single ISP can be classified as “competitive.”</a> Meanwhile, I fondly remember when words had meanings which weren’t their own opposites.</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>I make a point of renewing <a href=\"https://linklocker.co\">LinkLocker</a>’s TLS certificate manually every two months. The regularity encourages me to audit transport security on an ongoing basis.</p>\n",
 			"date_published": "2018-08-05T13:21:14-07:00",
 			"url": "https://www.jarrodwhaley.com/2018/08/05/i-make-a.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/08/03/203835.html",
-	      	
-			"content_html": "<p>There is a common misconception which holds that one is being empathetic when one relates to another’s problem through shared experience. In fact, real empathy entails respecting another’s wishes even when one neither understands nor agrees with those wishes.</p>\n",
-			"date_published": "2018-08-03T13:38:35-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/08/03/203835.html"
 		}
 		
 	]
