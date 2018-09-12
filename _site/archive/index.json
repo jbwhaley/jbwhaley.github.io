@@ -1,9 +1,34 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Jarrod Whaley",
+	"icon": "https://micro.blog/jbwhaley/avatar.jpg",
 	"home_page_url": "https://www.jarrodwhaley.com/",
 	"feed_url": "https://www.jarrodwhaley.com/archive/index.json",
 	"items": [
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2018/09/11/nikes-sales-jumped.html",
+	      	
+			"content_text": "Nike’s sales jumped 31% when they introduced the Colin Kaepernick...",
+			"date_published": "2018-09-11T13:20:42-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/09/11/nikes-sales-jumped.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2018/09/04/the-people-burning.html",
+	      	
+			"content_text": "The people burning their shoes in objection to Nike’s Colin...",
+			"date_published": "2018-09-04T12:30:18-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/09/04/the-people-burning.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2018/09/04/the-new-york.html",
+	      	
+			"content_text": "The New York Times asks: Should You Track Your Teen’s...",
+			"date_published": "2018-09-04T11:05:19-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/09/04/the-new-york.html"
+		},
 		
 		{
 			"id": "http://jbwhaley.micro.blog/2018/09/03/ai-probably-wont.html",
