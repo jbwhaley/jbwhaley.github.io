@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/09/20/225443.html",
+	      	
+			"content_html": "<p>Bean Hollow State Beach. I’ve been indoors too much lately.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/b543bd2d90.jpg\" width=\"450\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-20T15:54:43-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/09/20/225443.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2018/09/11/this-moron-has.html",
+	      	
+			"content_html": "<p><a href=\"https://www.cnbc.com/2018/09/11/trump-once-considered-just-printing-money-to-lower-the-national-debt-woodward-reports.html\">This moron has to go</a>. Now.</p>\n",
+			"date_published": "2018-09-11T13:55:53-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/09/11/this-moron-has.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/09/11/nikes-sales-jumped.html",
 	      	
 			"content_html": "<p><a href=\"https://www.marketwatch.com/story/nikes-online-sales-jumped-31-after-company-unveiled-kaepernick-campaign-2018-09-07\">Nike’s sales jumped 31%</a> when they introduced the Colin Kaepernick ads.</p>\n\n<p>If you burned your shoes…sorry you don’t have shoes anymore, I guess?</p>\n",
@@ -192,22 +208,6 @@
 			"content_html": "<p>Apple’s <a href=\"https://developer.apple.com/app-store/review/guidelines/#spam\">App Store Review Guidelines</a>:</p>\n\n<blockquote>\n  <p>…the App Store has enough fart, burp, flashlight, and Kama Sutra apps already.</p>\n</blockquote>\n\n<p><a href=\"https://itunes.apple.com/us/app/pootiepets/id1259596278?mt=8\">Does it</a>?</p>\n",
 			"date_published": "2018-08-08T16:51:58-07:00",
 			"url": "https://www.jarrodwhaley.com/2018/08/08/apples-app-store.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/08/08/stephen-levy-hackers.html",
-	      	
-			"content_html": "<p>Stephen Levy, <em><a href=\"https://en.m.wikipedia.org/wiki/Hackers:_Heroes_of_the_Computer_Revolution\">Hackers</a></em>:</p>\n\n<blockquote>\n  <p>[…] hackers generally hate driving cars-the system of randomly programmed red lights and oddly laid out one-way streets causes delays which are so goddamn <em>unnecessary</em> that the impulse is to rearrange signs, open up traffic-light control boxes…redesign the entire system.</p>\n</blockquote>\n",
-			"date_published": "2018-08-07T22:32:14-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/08/07/stephen-levy-hackers.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/08/08/dont-hate-yourself.html",
-	      	
-			"content_html": "<p>Don’t hate yourself. Laugh at yourself, and then try to be a little less funny.</p>\n",
-			"date_published": "2018-08-07T22:04:22-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/08/07/dont-hate-yourself.html"
 		}
 		
 	]
