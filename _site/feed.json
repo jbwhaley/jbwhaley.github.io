@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/09/25/california-voter-tip.html",
+	      	
+			"content_html": "<p>California voter tip: if you see an ad for a ballot proposition, vote the opposite way. If there’s a commercial, there’s dirty money behind it.</p>\n",
+			"date_published": "2018-09-24T19:25:58-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/09/24/california-voter-tip.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2018/09/24/i-am-pulling.html",
+	      	
+			"content_html": "<p>I am pulling the trigger on MacOS Mojave. I know some key things are going to break in the process. Why do I do this to myself?</p>\n",
+			"date_published": "2018-09-24T16:29:17-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/09/24/i-am-pulling.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/09/24/analysts-totally-surprised.html",
 	      	
 			"content_html": "<p><a href=\"https://apple.news/AQm6i2vVITF-mQ6ZsDG7A5Q\">Analysts Totally Surprised by Entirely Predictable Decade-Long Phenomenon</a></p>\n",
@@ -194,22 +210,6 @@
 			"content_html": "<p>Drive like you’ve never seen a car before. Because that’s how everyone else is driving.</p>\n",
 			"date_published": "2018-08-09T16:25:01-07:00",
 			"url": "https://www.jarrodwhaley.com/2018/08/09/drive-like-youve.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/08/09/the-assumption-has.html",
-	      	
-			"content_html": "<p>The assumption has always been that AI would kill us all with Terminator robots or something. Reality will be far more prosaic, but no less <a href=\"https://securityaffairs.co/wordpress/75206/malware/deeplocker-ai-powered-malware.html\">terrifying</a>. Imagine AI-based malware infecting air traffic control systems. Or nuclear facilities.</p>\n",
-			"date_published": "2018-08-09T10:29:47-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/08/09/the-assumption-has.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/08/09/craven-shell-of.html",
-	      	
-			"content_html": "<p><a href=\"https://www.washingtonpost.com/business/economy/pence-details-plan-for-creation-of-space-force-in-what-would-be-the-sixth-branch-of-the-military/2018/08/09/0b40b8d0-9bdc-11e8-8d5e-c6c594024954_story.html?noredirect=on\">Craven Shell of a Man Stands at Podium and Says Stupid Things His Boss Likes in Bad Faith</a></p>\n",
-			"date_published": "2018-08-09T10:15:42-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/08/09/craven-shell-of.html"
 		}
 		
 	]
