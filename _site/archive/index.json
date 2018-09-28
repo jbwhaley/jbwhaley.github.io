@@ -7,6 +7,30 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/09/28/im-just-going.html",
+	      	
+			"content_text": "I’m just going to say this: the NBC app for...",
+			"date_published": "2018-09-27T20:29:29-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/09/27/im-just-going.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2018/09/27/sometimes-i-seriously.html",
+	      	
+			"content_text": "Sometimes I seriously wonder if we’d all be better off...",
+			"date_published": "2018-09-26T17:13:38-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/09/26/sometimes-i-seriously.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2018/09/26/this-goes-without.html",
+	      	
+			"content_text": "This goes without saying, but Google’s iOS apps continue to...",
+			"date_published": "2018-09-26T09:46:44-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/09/26/this-goes-without.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/09/25/california-voter-tip.html",
 	      	
 			"content_text": "California voter tip: if you see an ad for a...",
