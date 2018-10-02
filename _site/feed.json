@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/10/02/imagine-for-a.html",
+	      	
+			"content_html": "<p>Imagine for a moment that we lived in a country which prosecuted <a href=\"https://apple.news/AxzUcPJNoThGhic2PC6Gicg\">open, wanton felonies</a>.</p>\n",
+			"date_published": "2018-10-02T15:26:42-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/10/02/imagine-for-a.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/09/28/im-just-going.html",
 	      	
 			"content_html": "<p>I’m just going to say this: the NBC app for Apple TV is <em>hands down</em> the <strong>absolute worst</strong> piece of software ever inflicted upon this sad Earth.</p>\n",
@@ -202,14 +210,6 @@
 			"content_html": "<p>Google Voice’s iOS app has “a new look and feel.” Nice. Now maybe they can add a feature or improve the service in some way, for the first time since 2009.</p>\n",
 			"date_published": "2018-08-13T20:06:40-07:00",
 			"url": "https://www.jarrodwhaley.com/2018/08/13/google-voices-ios.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/08/12/no-seriously-things.html",
-	      	
-			"content_html": "<p>No! Seriously? Things with computers in them <a href=\"https://www.wired.com/story/police-body-camera-vulnerabilities/\">can be hacked</a>? Who knew!?</p>\n",
-			"date_published": "2018-08-12T10:23:28-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/08/12/no-seriously-things.html"
 		}
 		
 	]
