@@ -7,9 +7,19 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/10/11/purisima-creek-redwoods.html",
+	      	
+			"title": "Purisima Creek Redwoods",
+			
+			"content_html": "<p><a href=\"http://www.jarrodwhaley.com/uploads/2018/7fae7b34a0.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/7fae7b34a0.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jarrodwhaley.com/uploads/2018/ff29784589.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/ff29784589.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jarrodwhaley.com/uploads/2018/7f849778e5.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/7f849778e5.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jarrodwhaley.com/uploads/2018/2a9f2e141c.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/2a9f2e141c.jpg\" width=\"600\" height=\"449\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jarrodwhaley.com/uploads/2018/65102b7358.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/65102b7358.jpg\" width=\"600\" height=\"449\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jarrodwhaley.com/uploads/2018/f8dc12ae20.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/f8dc12ae20.jpg\" width=\"600\" height=\"449\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jarrodwhaley.com/uploads/2018/be2aeeef56.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/be2aeeef56.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jarrodwhaley.com/uploads/2018/44dc072bff.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/44dc072bff.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>Took a break this afternoon with Ginger and walked around in the redwoods. I love living here.</p>\n\n",
+			"date_published": "2018-10-10T18:18:03-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/10/10/purisima-creek-redwoods.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/10/09/google-is-doing.html",
 	      	
-			"content_html": "<p>Google is doing away with chatbots. How was <a href=\"https://www.fastcompany.com/90243776/google-admits-chatbots-were-a-bad-idea\">this conclusion</a> not broadly obvious within the first five minutes of its existence?</p>\n",
+			"content_html": "<p>Google is doing away with chatbots. How was <a href=\"https://www.fastcompany.com/90243776/google-admits-chatbots-were-a-bad-idea\">this conclusion</a> not broadly obvious within the first five minutes of the existence of chatbots?</p>\n",
 			"date_published": "2018-10-09T14:09:23-07:00",
 			"url": "https://www.jarrodwhaley.com/2018/10/09/google-is-doing.html"
 		},
@@ -202,14 +212,6 @@
 			"content_html": "<p>Without fail, any <a href=\"https://www.phillymag.com/articles/2018/08/11/mayonnaise-industry-millennials/\">article with the word “millenials” in the title is entirely vapid</a>.</p>\n",
 			"date_published": "2018-08-17T11:02:36-07:00",
 			"url": "https://www.jarrodwhaley.com/2018/08/17/without-fail-any.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/08/17/i-use-gmail.html",
-	      	
-			"content_html": "<p>I use Gmail every day (sadly) for work, and I <em>still</em> can never tell which icon goes with “archive” and which one goes with “mark as read.” Google’s UI design remains horrendous.</p>\n",
-			"date_published": "2018-08-17T11:00:05-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/08/17/i-use-gmail.html"
 		}
 		
 	]
