@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/10/15/amazons-delivery-options.html",
+	      	
+			"content_html": "<p>Amazon’s <a href=\"https://www.amazon.com/b/ref=key_pola_gw_prime_hero?ie=UTF8&amp;node=17051031011&amp;pf_rd_p=4faf2b8c-c587-4525-b781-ecb2e259542e&amp;pf_rd_r=X64GB19HH5MV1VPE0Z4Z\">delivery options</a> are increasingly bizarre. I don’t understand how the concept of asking customers to let delivery drivers enter their homes and cars ever got past the smell-test stage.</p>\n",
+			"date_published": "2018-10-15T14:30:44-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/10/15/amazons-delivery-options.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/10/11/purisima-creek-redwoods.html",
 	      	
 			"title": "Purisima Creek Redwoods",
@@ -204,14 +212,6 @@
 			"content_html": "<p><a href=\"https://arstechnica.com/tech-policy/2018/08/verizon-throttled-fire-departments-unlimited-data-during-calif-wildfire/\">Verizon sucks</a>.</p>\n",
 			"date_published": "2018-08-21T12:59:32-07:00",
 			"url": "https://www.jarrodwhaley.com/2018/08/21/verizon-sucks.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/08/17/without-fail-any.html",
-	      	
-			"content_html": "<p>Without fail, any <a href=\"https://www.phillymag.com/articles/2018/08/11/mayonnaise-industry-millennials/\">article with the word “millenials” in the title is entirely vapid</a>.</p>\n",
-			"date_published": "2018-08-17T11:02:36-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/08/17/without-fail-any.html"
 		}
 		
 	]
