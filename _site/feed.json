@@ -7,9 +7,33 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/10/23/ugh.html",
+	      	
+			"content_html": "<p><a href=\"https://apple.news/A-gYdIt1oR9GQ9HzvtxhWBw\">Ugh</a>. 🤦‍♂️</p>\n",
+			"date_published": "2018-10-23T10:48:55-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/10/23/ugh.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2018/10/22/if-you-havent.html",
+	      	
+			"content_html": "<p>If you haven’t tried to process decade-old 24p standard-def DV footage on a modern Mac lately, I congratulate you on your good fortune.</p>\n",
+			"date_published": "2018-10-21T21:10:34-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/10/21/if-you-havent.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2018/10/16/im-really-sick.html",
+	      	
+			"content_html": "<p>I’m really sick of Bill Maher’s disdain for the phenomenon he calls “political correctness,” which might more properly be named “simply not being an asshole.”</p>\n",
+			"date_published": "2018-10-15T19:04:28-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/10/15/im-really-sick.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/10/15/amazons-delivery-options.html",
 	      	
-			"content_html": "<p>Amazon’s <a href=\"https://www.amazon.com/b/ref=key_pola_gw_prime_hero?ie=UTF8&amp;node=17051031011&amp;pf_rd_p=4faf2b8c-c587-4525-b781-ecb2e259542e&amp;pf_rd_r=X64GB19HH5MV1VPE0Z4Z\">delivery options</a> are increasingly bizarre. I don’t understand how the concept of asking customers to let delivery drivers enter their homes and cars ever got past the smell-test stage.</p>\n",
+			"content_html": "<p>Amazon’s delivery options are increasingly <a href=\"https://www.amazon.com/b/ref=key_pola_gw_prime_hero?ie=UTF8&amp;node=17051031011&amp;pf_rd_p=4faf2b8c-c587-4525-b781-ecb2e259542e&amp;pf_rd_r=X64GB19HH5MV1VPE0Z4Z\">bizarre</a>. I don’t understand how the concept of asking customers to let delivery drivers enter their homes and cars ever got past the smell-test stage.</p>\n",
 			"date_published": "2018-10-15T14:30:44-07:00",
 			"url": "https://www.jarrodwhaley.com/2018/10/15/amazons-delivery-options.html"
 		},
@@ -186,32 +210,6 @@
 			"content_html": "<p>The United States Court of Appeals for the Eighth Circuit has <a href=\"https://arstechnica.com/tech-policy/2018/08/fcc-can-define-markets-with-only-one-isp-as-competitive-court-rules/\">upheld an FCC ruling which posits that markets with a single ISP can be classified as “competitive.”</a> Meanwhile, I fondly remember when words had meanings which weren’t their own opposites.</p>\n",
 			"date_published": "2018-08-29T11:48:58-07:00",
 			"url": "https://www.jarrodwhaley.com/2018/08/29/the-united-states.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/08/28/trump-decrees-google.html",
-	      	
-			"title": "Trump Decrees: Google Results Not Dumb Enough for His Dumb Base",
-			
-			"content_html": "<p>Our Dear Leader, The Dishonorable Resident Dump, has ordered Google to <a href=\"https://arstechnica.com/tech-policy/2018/08/trump-claims-with-no-evidence-that-google-is-rigged-against-him/\">do more to let stupid people read</a> stupid bovine excrement, written by stupid bovines (presumably with their hooves). The move is largely seen as a token gesture toward the powerful Stupid People lobby, given the fact that Stupid People can’t read words.</p>\n\n<p>Several non-dumb people familiar with the matter placed their palms upon their faces, looked down at the ground, wept, and prayed for Bob Mueller to <em>Bring The Ruckus Al-Freaking-Ready</em>.</p>\n",
-			"date_published": "2018-08-28T12:52:38-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/08/28/trump-decrees-google.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/08/24/this-headline-needed.html",
-	      	
-			"content_html": "<p>This headline needed a little adjustment.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/2650be0104.jpg\" width=\"600\" height=\"118\" /></p>\n",
-			"date_published": "2018-08-23T17:32:15-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/08/23/this-headline-needed.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/08/21/verizon-sucks.html",
-	      	
-			"content_html": "<p><a href=\"https://arstechnica.com/tech-policy/2018/08/verizon-throttled-fire-departments-unlimited-data-during-calif-wildfire/\">Verizon sucks</a>.</p>\n",
-			"date_published": "2018-08-21T12:59:32-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/08/21/verizon-sucks.html"
 		}
 		
 	]
