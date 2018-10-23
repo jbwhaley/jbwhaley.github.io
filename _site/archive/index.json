@@ -7,6 +7,30 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/10/23/ugh.html",
+	      	
+			"content_text": "Ugh. 🤦‍♂️\n",
+			"date_published": "2018-10-23T10:48:55-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/10/23/ugh.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2018/10/22/if-you-havent.html",
+	      	
+			"content_text": "If you haven’t tried to process decade-old 24p standard-def DV...",
+			"date_published": "2018-10-21T21:10:34-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/10/21/if-you-havent.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2018/10/16/im-really-sick.html",
+	      	
+			"content_text": "I’m really sick of Bill Maher’s disdain for the phenomenon...",
+			"date_published": "2018-10-15T19:04:28-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/10/15/im-really-sick.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/10/15/amazons-delivery-options.html",
 	      	
 			"content_text": "Amazon’s delivery options are increasingly bizarre. I don’t understand how...",
