@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/10/24/am-i-right.html",
+	      	
+			"content_html": "<p>Am I right? Is the latest version of Safari automatically lazy-loading fonts, CSS, and JS by default? If so, that’s kind of huge.</p>\n",
+			"date_published": "2018-10-24T16:10:01-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/10/24/am-i-right.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2018/10/24/if-i-win.html",
+	      	
+			"content_html": "<p>If I win the lottery, I intend to prove once and for all that money <em>absolutely</em> can buy happiness.</p>\n",
+			"date_published": "2018-10-23T19:18:37-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/10/23/if-i-win.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/10/23/ugh.html",
 	      	
 			"content_html": "<p><a href=\"https://apple.news/A-gYdIt1oR9GQ9HzvtxhWBw\">Ugh</a>. 🤦‍♂️</p>\n",
@@ -194,22 +210,6 @@
 			"content_html": "<p>Yuval Noah Harari <a href=\"https://www.theatlantic.com/magazine/archive/2018/10/yuval-noah-harari-technology-tyranny/568330/\">lays out a sobering scenario in <em>The Atlantic</em></a> in which vast swaths of humanity are relegated to a “useless class,” and in which AI and machine learning permit new and extremely powerful authoritarian social structures:</p>\n\n<blockquote>\n  <p>Currently, humans risk becoming similar to domesticated animals. We have bred docile cows that produce enormous amounts of milk but are otherwise far inferior to their wild ancestors. They are less agile, less curious, and less resourceful. We are now creating tame humans who produce enormous amounts of data and function as efficient chips in a huge data-processing mechanism, but they hardly maximize their human potential.</p>\n</blockquote>\n",
 			"date_published": "2018-09-03T13:01:05-07:00",
 			"url": "https://www.jarrodwhaley.com/2018/09/03/ai-probably-wont.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/08/30/i-generally-like.html",
-	      	
-			"content_html": "<p>I generally like and have no problem with the keyboard on my 2016 MacBook Pro. However, I am constantly typing semicolons when I mean to type commas, and spaces when I am trying to hit a key on the bottom row. Pretty annoying.</p>\n",
-			"date_published": "2018-08-30T16:22:53-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/08/30/i-generally-like.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/08/29/the-united-states.html",
-	      	
-			"content_html": "<p>The United States Court of Appeals for the Eighth Circuit has <a href=\"https://arstechnica.com/tech-policy/2018/08/fcc-can-define-markets-with-only-one-isp-as-competitive-court-rules/\">upheld an FCC ruling which posits that markets with a single ISP can be classified as “competitive.”</a> Meanwhile, I fondly remember when words had meanings which weren’t their own opposites.</p>\n",
-			"date_published": "2018-08-29T11:48:58-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/08/29/the-united-states.html"
 		}
 		
 	]
