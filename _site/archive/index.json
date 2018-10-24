@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/10/24/am-i-right.html",
+	      	
+			"content_text": "Am I right? Is the latest version of Safari automatically...",
+			"date_published": "2018-10-24T16:10:01-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/10/24/am-i-right.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2018/10/24/if-i-win.html",
+	      	
+			"content_text": "If I win the lottery, I intend to prove once...",
+			"date_published": "2018-10-23T19:18:37-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/10/23/if-i-win.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/10/23/ugh.html",
 	      	
 			"content_text": "Ugh. 🤦‍♂️\n",
