@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/10/26/my-airpods-are.html",
+	      	
+			"content_html": "<p>My AirPods are getting very flaky in their old age. They drop the connection to my phone periodically, and they charge unreliably in the case. I hope Apple will announce a new model next week.</p>\n",
+			"date_published": "2018-10-26T12:02:44-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/10/26/my-airpods-are.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/10/24/am-i-right.html",
 	      	
 			"content_html": "<p>Am I right? Is the latest version of Safari automatically lazy-loading fonts, CSS, and JS by default? If so, that’s kind of huge.</p>\n",
@@ -17,7 +25,7 @@
 		{
 			"id": "http://jbwhaley.micro.blog/2018/10/24/if-i-win.html",
 	      	
-			"content_html": "<p>If I win the lottery, I intend to prove once and for all that money <em>absolutely</em> can buy happiness.</p>\n",
+			"content_html": "<p>If I win the lottery, I intend to prove once and for all that money <em>absolutely</em> can buy happiness.</p>\n\n<p><strong>UPDATE 2018-10-24 16:10:</strong> I did not win. We’ll have to wait a little bit longer for me to prove my thesis.</p>\n",
 			"date_published": "2018-10-23T19:18:37-07:00",
 			"url": "https://www.jarrodwhaley.com/2018/10/23/if-i-win.html"
 		},
@@ -200,16 +208,6 @@
 			"content_html": "<p>The New York Times asks: <a href=\"https://www.nytimes.com/2018/08/29/well/family/should-you-track-your-teens-location.html\">Should You Track Your Teen’s Location?</a></p>\n\n<p>Easy. <strong><a href=\"https://krebsonsecurity.com/2018/09/for-2nd-time-in-3-years-mobile-spyware-maker-mspy-leaks-millions-of-sensitive-records/\">No</a>.</strong></p>\n\n<p>UPDATE: Also, here is even more <strong><a href=\"https://securityaffairs.co/wordpress/75888/data-breach/family-orbit-hacked.html\">No</a>.</strong></p>\n",
 			"date_published": "2018-09-04T11:05:19-07:00",
 			"url": "https://www.jarrodwhaley.com/2018/09/04/the-new-york.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/09/03/ai-probably-wont.html",
-	      	
-			"title": "AI Probably Won't Kill All Humans, but It Will Likely Be Used to Subjugate Them",
-			
-			"content_html": "<p>Yuval Noah Harari <a href=\"https://www.theatlantic.com/magazine/archive/2018/10/yuval-noah-harari-technology-tyranny/568330/\">lays out a sobering scenario in <em>The Atlantic</em></a> in which vast swaths of humanity are relegated to a “useless class,” and in which AI and machine learning permit new and extremely powerful authoritarian social structures:</p>\n\n<blockquote>\n  <p>Currently, humans risk becoming similar to domesticated animals. We have bred docile cows that produce enormous amounts of milk but are otherwise far inferior to their wild ancestors. They are less agile, less curious, and less resourceful. We are now creating tame humans who produce enormous amounts of data and function as efficient chips in a huge data-processing mechanism, but they hardly maximize their human potential.</p>\n</blockquote>\n",
-			"date_published": "2018-09-03T13:01:05-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/09/03/ai-probably-wont.html"
 		}
 		
 	]
