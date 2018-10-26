@@ -4,8 +4,17 @@
     <title>Jarrod Whaley</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jbwhaley&quot;&gt;@jbwhaley on Micro.blog&lt;/a&gt;.</description>
     <link>https://www.jarrodwhaley.com/</link>
-    <pubDate>Wed, 24 Oct 2018 16:10:13 -0700</pubDate>
-    <lastBuildDate>Wed, 24 Oct 2018 16:10:13 -0700</lastBuildDate>
+    <pubDate>Fri, 26 Oct 2018 12:04:43 -0700</pubDate>
+    <lastBuildDate>Fri, 26 Oct 2018 12:04:43 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;My AirPods are getting very flaky in their old age. They drop the connection to my phone periodically, and they charge unreliably in the case. I hope Apple will announce a new model next week.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 26 Oct 2018 12:02:44 -0700</pubDate>
+        <link>https://www.jarrodwhaley.com/2018/10/26/my-airpods-are.html</link>
+        <guid isPermaLink="true">http://jbwhaley.micro.blog/2018/10/26/my-airpods-are.html</guid>
+      </item>
     
       <item>
       	
@@ -19,6 +28,8 @@
       <item>
       	
         <description>&lt;p&gt;If I win the lottery, I intend to prove once and for all that money &lt;em&gt;absolutely&lt;/em&gt; can buy happiness.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;UPDATE 2018-10-24 16:10:&lt;/strong&gt; I did not win. We’ll have to wait a little bit longer for me to prove my thesis.&lt;/p&gt;
 </description>
         <pubDate>Tue, 23 Oct 2018 19:18:37 -0700</pubDate>
         <link>https://www.jarrodwhaley.com/2018/10/23/if-i-win.html</link>
@@ -495,15 +506,6 @@
         <pubDate>Mon, 06 Aug 2018 10:48:26 -0700</pubDate>
         <link>https://www.jarrodwhaley.com/2018/08/06/nobody-ever-said.html</link>
         <guid isPermaLink="true">http://jbwhaley.micro.blog/2018/08/06/nobody-ever-said.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I make a point of renewing &lt;a href=&quot;https://linklocker.co&quot;&gt;LinkLocker&lt;/a&gt;’s TLS certificate manually every two months. The regularity encourages me to audit transport security on an ongoing basis.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 05 Aug 2018 13:21:14 -0700</pubDate>
-        <link>https://www.jarrodwhaley.com/2018/08/05/i-make-a.html</link>
-        <guid isPermaLink="true">http://jbwhaley.micro.blog/2018/08/05/i-make-a.html</guid>
       </item>
     
   </channel>
