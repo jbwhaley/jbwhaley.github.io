@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/11/02/what-is-wrong.html",
+	      	
+			"content_html": "<p>What is wrong with people?</p>\n\n<p><img src=\"https://www.jarrodwhaley.com/uploads/2018/f84408f9f5.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-11-01T21:07:23-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/11/01/what-is-wrong.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2018/10/31/happy-halloween-from.html",
+	      	
+			"content_html": "<p>Happy Halloween from El Granada, CA.</p>\n\n<p><img src=\"https://www.jarrodwhaley.com/uploads/2018/7452a73e54.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-10-31T16:55:51-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/10/31/happy-halloween-from.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/10/26/my-airpods-are.html",
 	      	
 			"content_html": "<p>My AirPods are getting very flaky in their old age. They drop the connection to my phone periodically, and they charge unreliably in the case. I hope Apple will announce a new model next week.</p>\n",
@@ -192,22 +208,6 @@
 			"content_html": "<p><a href=\"https://www.marketwatch.com/story/nikes-online-sales-jumped-31-after-company-unveiled-kaepernick-campaign-2018-09-07\">Nike’s sales jumped 31%</a> when they introduced the Colin Kaepernick ads.</p>\n\n<p>If you burned your shoes…sorry you don’t have shoes anymore, I guess?</p>\n",
 			"date_published": "2018-09-11T13:20:42-07:00",
 			"url": "https://www.jarrodwhaley.com/2018/09/11/nikes-sales-jumped.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/09/04/the-people-burning.html",
-	      	
-			"content_html": "<p>The people <a href=\"https://www.washingtonpost.com/business/2018/09/04/people-are-destroying-their-nike-gear-protest-colin-kaepernicks-just-do-it-campaign/\">burning their shoes</a> in objection to Nike’s Colin Kaepernick ads realize that they’re only destroying their own property, right? They understand that Nike has already received the money for those shoes, don’t they?</p>\n",
-			"date_published": "2018-09-04T12:30:18-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/09/04/the-people-burning.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/09/04/the-new-york.html",
-	      	
-			"content_html": "<p>The New York Times asks: <a href=\"https://www.nytimes.com/2018/08/29/well/family/should-you-track-your-teens-location.html\">Should You Track Your Teen’s Location?</a></p>\n\n<p>Easy. <strong><a href=\"https://krebsonsecurity.com/2018/09/for-2nd-time-in-3-years-mobile-spyware-maker-mspy-leaks-millions-of-sensitive-records/\">No</a>.</strong></p>\n\n<p>UPDATE: Also, here is even more <strong><a href=\"https://securityaffairs.co/wordpress/75888/data-breach/family-orbit-hacked.html\">No</a>.</strong></p>\n",
-			"date_published": "2018-09-04T11:05:19-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/09/04/the-new-york.html"
 		}
 		
 	]
