@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/11/02/what-is-wrong.html",
+	      	
+			"content_text": "What is wrong with people?\n\n\n",
+			"date_published": "2018-11-01T21:07:23-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/11/01/what-is-wrong.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2018/10/31/happy-halloween-from.html",
+	      	
+			"content_text": "Happy Halloween from El Granada, CA.\n\n\n",
+			"date_published": "2018-10-31T16:55:51-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/10/31/happy-halloween-from.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/10/26/my-airpods-are.html",
 	      	
 			"content_text": "My AirPods are getting very flaky in their old age....",
