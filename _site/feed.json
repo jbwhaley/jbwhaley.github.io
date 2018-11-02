@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/11/02/so-chrome-is.html",
+	      	
+			"content_html": "<p>So Chrome is now breaking a system-wide keyboard shortcut (⌘-Q) for no discernable reason. One fewer reason ever to open Chrome, got it. Thanks, Google!</p>\n",
+			"date_published": "2018-11-02T11:02:21-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/11/02/so-chrome-is.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/11/02/what-is-wrong.html",
 	      	
 			"content_html": "<p>What is wrong with people?</p>\n\n<p><img src=\"https://www.jarrodwhaley.com/uploads/2018/f84408f9f5.jpg\" width=\"600\" height=\"450\" /></p>\n",
@@ -200,14 +208,6 @@
 			"content_html": "<p><a href=\"https://www.cnbc.com/2018/09/11/trump-once-considered-just-printing-money-to-lower-the-national-debt-woodward-reports.html\">This moron has to go</a>. Now.</p>\n",
 			"date_published": "2018-09-11T13:55:53-07:00",
 			"url": "https://www.jarrodwhaley.com/2018/09/11/this-moron-has.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/09/11/nikes-sales-jumped.html",
-	      	
-			"content_html": "<p><a href=\"https://www.marketwatch.com/story/nikes-online-sales-jumped-31-after-company-unveiled-kaepernick-campaign-2018-09-07\">Nike’s sales jumped 31%</a> when they introduced the Colin Kaepernick ads.</p>\n\n<p>If you burned your shoes…sorry you don’t have shoes anymore, I guess?</p>\n",
-			"date_published": "2018-09-11T13:20:42-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/09/11/nikes-sales-jumped.html"
 		}
 		
 	]
