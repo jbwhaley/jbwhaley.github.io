@@ -7,6 +7,24 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/11/03/stan-the-obscurities.html",
+	      	
+			"title": "Stan The Obscurities: THE DOMINO PRINCIPLE",
+			
+			"content_text": "I’m the guest wiseass-in-residence on the latest episode of Stan...",
+			"date_published": "2018-11-03T15:36:29-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/11/03/stan-the-obscurities.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2018/11/03/why-would-i.html",
+	      	
+			"content_text": "Why would I want to paste styled text into a...",
+			"date_published": "2018-11-02T17:06:38-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/11/02/why-would-i.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/11/02/so-chrome-is.html",
 	      	
 			"content_text": "So Chrome is now breaking a system-wide keyboard shortcut (⌘-Q)...",
