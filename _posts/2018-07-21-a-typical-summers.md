@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-20 23:25:43 -0700
+date: 2018-07-20 22:25:43 -0800
 guid: http://jbwhaley.micro.blog/2018/07/21/a-typical-summers.html
 ---
 A typical summer's day on the San Mateo coast.
