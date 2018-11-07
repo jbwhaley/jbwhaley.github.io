@@ -3,7 +3,7 @@ layout: post
 title: "Mark Zuckerberg Aces in Sad, Phoned-In Beltway Tragicomedy"
 microblog: false
 audio: 
-date: 2018-04-10 22:52:00 -0700
+date: 2018-04-10 21:52:00 -0800
 guid: http://jbwhaley.micro.blog/2018/04/11/mark-zuckerberg-aces.html
 ---
 [Dick Durbin's quip to Mark Zuckerberg](https://www.washingtonpost.com/business/technology/2018/04/10/b72c09e8-3d03-11e8-974f-aacd97698cef_story.html?noredirect=on&utm_term=.75a41339b504) is a bit sardonic and maybe even juvenile, but it's hard not to chuckle in agreement:
