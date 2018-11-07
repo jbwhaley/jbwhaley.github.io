@@ -3,7 +3,7 @@ layout: post
 title: "Amazon Announces Every Object in the Known Universe Now Emits a Dumb Robot Voice"
 microblog: false
 audio: 
-date: 2018-09-20 16:26:50 -0700
+date: 2018-09-20 15:26:50 -0800
 guid: http://jbwhaley.micro.blog/2018/09/20/amazon-announces-every.html
 ---
 I continue to be baffled, personally, by [the rise of all this talking-furniture crap](https://gizmodo.com/amazon-is-going-to-drown-us-in-alexa-crap-1829202572):
