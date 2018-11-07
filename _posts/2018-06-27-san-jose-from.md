@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-27 11:48:48 -0700
+date: 2018-06-27 10:48:48 -0800
 guid: http://jbwhaley.micro.blog/2018/06/27/san-jose-from.html
 ---
 San Jose, from Mount Hamilton.
