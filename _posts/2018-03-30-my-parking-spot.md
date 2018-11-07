@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-29 19:32:42 -0700
+date: 2018-03-29 18:32:42 -0800
 guid: http://jbwhaley.micro.blog/2018/03/30/my-parking-spot.html
 ---
 My parking spot.
