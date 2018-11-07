@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-31 16:55:51 -0700
+date: 2018-10-31 15:55:51 -0800
 guid: http://jbwhaley.micro.blog/2018/10/31/happy-halloween-from.html
 ---
 Happy Halloween from El Granada, CA.
