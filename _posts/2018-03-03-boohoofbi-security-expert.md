@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-02 21:26:11 -0700
+date: 2018-03-02 20:26:11 -0800
 guid: http://jbwhaley.micro.blog/2018/03/03/boohoofbi-security-expert.html
 ---
 Boo-hoo!
