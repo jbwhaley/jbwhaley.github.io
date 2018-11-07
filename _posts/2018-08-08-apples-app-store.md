@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-08 16:51:58 -0700
+date: 2018-08-08 15:51:58 -0800
 guid: http://jbwhaley.micro.blog/2018/08/08/apples-app-store.html
 ---
 Apple's [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines/#spam):
