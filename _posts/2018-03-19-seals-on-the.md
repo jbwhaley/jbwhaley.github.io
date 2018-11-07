@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-19 00:34:36 -0700
+date: 2018-03-18 23:34:36 -0800
 guid: http://jbwhaley.micro.blog/2018/03/19/seals-on-the.html
 ---
 Seals on the rocks.
