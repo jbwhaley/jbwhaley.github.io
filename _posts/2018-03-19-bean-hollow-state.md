@@ -3,7 +3,7 @@ layout: post
 title: "Bean Hollow State Beach & Pigeon Point Lighthouse"
 microblog: false
 audio: 
-date: 2018-03-18 21:56:09 -0700
+date: 2018-03-18 20:56:09 -0800
 guid: http://jbwhaley.micro.blog/2018/03/19/bean-hollow-state.html
 ---
 
