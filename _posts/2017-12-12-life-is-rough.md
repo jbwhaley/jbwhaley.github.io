@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-12 01:41:40 -0700
+date: 2017-12-12 00:41:40 -0800
 guid: http://jbwhaley.micro.blog/2017/12/12/life-is-rough.html
 ---
 Life is rough for her.
