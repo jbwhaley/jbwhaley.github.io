@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-04 11:05:19 -0700
+date: 2018-09-04 10:05:19 -0800
 guid: http://jbwhaley.micro.blog/2018/09/04/the-new-york.html
 ---
 The New York Times asks: [Should You Track Your Teen’s Location?](https://www.nytimes.com/2018/08/29/well/family/should-you-track-your-teens-location.html)
