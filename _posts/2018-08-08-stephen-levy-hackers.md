@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-07 22:32:14 -0700
+date: 2018-08-07 21:32:14 -0800
 guid: http://jbwhaley.micro.blog/2018/08/08/stephen-levy-hackers.html
 ---
 Stephen Levy, *[Hackers](https://en.m.wikipedia.org/wiki/Hackers:_Heroes_of_the_Computer_Revolution)*:
