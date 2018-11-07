@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-03 18:00:52 -0700
+date: 2017-12-03 17:00:52 -0800
 guid: http://jbwhaley.micro.blog/2017/12/04/getting-ready-for.html
 ---
 Getting ready for Xmas on the Coastside.
