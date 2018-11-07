@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-23 17:32:15 -0700
+date: 2018-08-23 16:32:15 -0800
 guid: http://jbwhaley.micro.blog/2018/08/24/this-headline-needed.html
 ---
 This headline needed a little adjustment.
