@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-05-19 12:19:44 -0700
+date: 2018-05-19 11:19:44 -0800
 guid: http://jbwhaley.micro.blog/2018/05/19/living-within-varying.html
 ---
 Living within varying microclimates can be rather strange at times.
