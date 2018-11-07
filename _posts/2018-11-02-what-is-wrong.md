@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-11-01 21:07:23 -0700
+date: 2018-11-01 20:07:23 -0800
 guid: http://jbwhaley.micro.blog/2018/11/02/what-is-wrong.html
 ---
 What is wrong with people?
