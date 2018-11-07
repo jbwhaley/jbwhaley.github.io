@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-10 19:06:45 -0700
+date: 2018-06-10 18:06:45 -0800
 guid: http://jbwhaley.micro.blog/2018/06/11/martinis-yes-the.html
 ---
 Martinis (yes, the cuke is nonstandard, I agree) outdoors.
