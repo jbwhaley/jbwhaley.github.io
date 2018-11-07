@@ -3,7 +3,7 @@ layout: post
 title: "Snowy Morning In Tahoe"
 microblog: false
 audio: 
-date: 2018-04-16 13:20:23 -0700
+date: 2018-04-16 12:20:23 -0800
 guid: http://jbwhaley.micro.blog/2018/04/16/snowy-morning-in.html
 ---
 
