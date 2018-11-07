@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-31 17:24:28 -0700
+date: 2018-01-31 16:24:28 -0800
 guid: http://jbwhaley.micro.blog/2018/02/01/i-should-get.html
 ---
 I should get out and work in coffee shops more often.
