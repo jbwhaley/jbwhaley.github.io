@@ -3,7 +3,7 @@ layout: post
 title: "Purisima Creek Redwoods"
 microblog: false
 audio: 
-date: 2018-10-10 18:18:03 -0700
+date: 2018-10-10 17:18:03 -0800
 guid: http://jbwhaley.micro.blog/2018/10/11/purisima-creek-redwoods.html
 ---
 
