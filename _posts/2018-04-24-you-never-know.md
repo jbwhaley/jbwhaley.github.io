@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-24 14:41:36 -0700
+date: 2018-04-24 13:41:36 -0800
 guid: http://jbwhaley.micro.blog/2018/04/24/you-never-know.html
 ---
 You never know what you're going to find in a Silicon Valley alleyway.
