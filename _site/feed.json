@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/11/16/he-is-a.html",
+	      	
+			"content_html": "<p>He is a very stable genius, and he <a href=\"https://www.cnn.com/2018/11/16/politics/donald-trump-robert-mueller-written-answers/index.html\">isn’t agitated at all</a>. Nope, no sir, no agitation here.</p>\n",
+			"date_published": "2018-11-16T13:33:55-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/11/16/he-is-a.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/11/12/i-am-planning.html",
 	      	
 			"content_html": "<p>I am planning on smoking a turkey for Thanksgiving, a thing which I have never tried before. I have experience with turkeys, and with Thanksgiving, and with smoking…but not with all three combined.</p>\n",
@@ -202,14 +210,6 @@
 			"content_html": "<p>Sometimes I seriously wonder if we’d all be <a href=\"https://arstechnica.com/tech-policy/2018/09/ex-facebook-moderator-sues-facebook-over-exposure-to-disturbing-images/\">better off</a> if we just burned the Internet down forever.</p>\n",
 			"date_published": "2018-09-26T17:13:38-07:00",
 			"url": "https://www.jarrodwhaley.com/2018/09/26/sometimes-i-seriously.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/09/26/this-goes-without.html",
-	      	
-			"content_html": "<p>This goes without saying, but Google’s iOS apps continue to be wet trash.</p>\n",
-			"date_published": "2018-09-26T09:46:44-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/09/26/this-goes-without.html"
 		}
 		
 	]
