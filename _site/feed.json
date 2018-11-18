@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/11/18/trump-dumber-than.html",
+	      	
+			"content_html": "<p>Trump: Dumber Than Bush, Somehow</p>\n",
+			"date_published": "2018-11-17T19:57:51-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/11/17/trump-dumber-than.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/11/16/he-is-a.html",
 	      	
 			"content_html": "<p>He is a very stable genius, and he <a href=\"https://www.cnn.com/2018/11/16/politics/donald-trump-robert-mueller-written-answers/index.html\">isn’t agitated at all</a>. Nope, no sir, no agitation here.</p>\n",
@@ -202,14 +210,6 @@
 			"content_html": "<p>I’m just going to say this: the NBC app for Apple TV is <em>hands down</em> the <strong>absolute worst</strong> piece of software ever inflicted upon this sad Earth.</p>\n",
 			"date_published": "2018-09-27T20:29:29-07:00",
 			"url": "https://www.jarrodwhaley.com/2018/09/27/im-just-going.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/09/27/sometimes-i-seriously.html",
-	      	
-			"content_html": "<p>Sometimes I seriously wonder if we’d all be <a href=\"https://arstechnica.com/tech-policy/2018/09/ex-facebook-moderator-sues-facebook-over-exposure-to-disturbing-images/\">better off</a> if we just burned the Internet down forever.</p>\n",
-			"date_published": "2018-09-26T17:13:38-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/09/26/sometimes-i-seriously.html"
 		}
 		
 	]
