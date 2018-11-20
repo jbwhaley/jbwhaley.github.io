@@ -7,10 +7,18 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/11/20/if-it-ever.html",
+	      	
+			"content_text": "If it ever rains here in Northern California, I am...",
+			"date_published": "2018-11-19T19:06:48-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/11/19/if-it-ever.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/11/18/trump-dumber-than.html",
 	      	
-			"content_text": "Trump: Dumber Than Bush, Somehow\n",
-			"date_published": "2018-11-17T19:57:51-08:00",
+			"content_text": "Trump: Dumber Than Bush, Somehow\n\n\n",
+			"date_published": "2018-11-17T20:00:11-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/11/17/trump-dumber-than.html"
 		},
 		
