@@ -7,10 +7,18 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/11/20/if-it-ever.html",
+	      	
+			"content_html": "<p>If it ever rains here in Northern California, I am going to walk out on my balcony and <em>breathe so deeply</em>.</p>\n",
+			"date_published": "2018-11-19T19:06:48-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/11/19/if-it-ever.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/11/18/trump-dumber-than.html",
 	      	
-			"content_html": "<p>Trump: Dumber Than Bush, Somehow</p>\n",
-			"date_published": "2018-11-17T19:57:51-08:00",
+			"content_html": "<p>Trump: Dumber Than Bush, Somehow</p>\n\n<p><img src=\"https://www.jarrodwhaley.com/uploads/2018/074287a1c2.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-11-17T20:00:11-08:00",
 			"url": "https://www.jarrodwhaley.com/2018/11/17/trump-dumber-than.html"
 		},
 		
@@ -202,14 +210,6 @@
 			"content_html": "<p>Imagine for a moment that we lived in a country which prosecuted <a href=\"https://apple.news/AxzUcPJNoThGhic2PC6Gicg\">open, wanton felonies</a>.</p>\n",
 			"date_published": "2018-10-02T15:26:42-07:00",
 			"url": "https://www.jarrodwhaley.com/2018/10/02/imagine-for-a.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/09/28/im-just-going.html",
-	      	
-			"content_html": "<p>I’m just going to say this: the NBC app for Apple TV is <em>hands down</em> the <strong>absolute worst</strong> piece of software ever inflicted upon this sad Earth.</p>\n",
-			"date_published": "2018-09-27T20:29:29-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/09/27/im-just-going.html"
 		}
 		
 	]
