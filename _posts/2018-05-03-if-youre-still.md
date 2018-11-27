@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-02 18:27:25 -0800
 guid: http://jbwhaley.micro.blog/2018/05/03/if-youre-still.html
 ---
