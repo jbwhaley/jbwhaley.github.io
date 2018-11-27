@@ -3,6 +3,7 @@ layout: post
 title: "Amazon Echo Records a Family's Conversation, Sends It to a Random Contact"
 microblog: false
 audio: 
+photo: 
 date: 2018-05-24 12:25:55 -0800
 guid: http://jbwhaley.micro.blog/2018/05/24/amazon-echo-records.html
 ---
