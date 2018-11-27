@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-06 19:10:07 -0800
 guid: http://jbwhaley.micro.blog/2018/02/07/youve-got-to.html
 ---
