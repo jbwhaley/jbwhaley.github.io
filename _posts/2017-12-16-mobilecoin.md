@@ -3,6 +3,7 @@ layout: post
 title: "MobileCoin"
 microblog: false
 audio: 
+photo: 
 date: 2017-12-15 22:19:21 -0800
 guid: http://jbwhaley.micro.blog/2017/12/16/mobilecoin.html
 ---
