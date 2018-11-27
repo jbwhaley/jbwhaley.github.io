@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-11-28 10:16:53 -0800
 guid: http://jbwhaley.micro.blog/2017/11/28/someone-submitted-a.html
 ---
