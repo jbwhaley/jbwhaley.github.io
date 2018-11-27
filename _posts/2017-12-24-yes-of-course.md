@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.jarrodwhaley.com/uploads/2017/86e074a29f.jpg
 date: 2017-12-24 07:05:05 -0800
 guid: http://jbwhaley.micro.blog/2017/12/24/yes-of-course.html
 ---
