@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-07 16:54:52 -0800
 guid: http://jbwhaley.micro.blog/2017/12/08/phishing-attempts-are.html
 ---
