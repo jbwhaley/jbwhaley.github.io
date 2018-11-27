@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-17 10:17:03 -0800
 guid: http://jbwhaley.micro.blog/2018/07/17/this-robotic-suitcase.html
 ---
