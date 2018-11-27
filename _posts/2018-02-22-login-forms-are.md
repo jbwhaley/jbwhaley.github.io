@@ -3,6 +3,7 @@ layout: post
 title: "Login Forms Are Getting More User-Hostile"
 microblog: false
 audio: 
+photo: 
 date: 2018-02-22 08:41:43 -0800
 guid: http://jbwhaley.micro.blog/2018/02/22/login-forms-are.html
 ---
