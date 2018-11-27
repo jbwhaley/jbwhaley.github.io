@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-09 09:15:42 -0800
 guid: http://jbwhaley.micro.blog/2018/08/09/craven-shell-of.html
 ---
