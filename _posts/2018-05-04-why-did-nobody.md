@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-03 22:40:48 -0800
 guid: http://jbwhaley.micro.blog/2018/05/04/why-did-nobody.html
 ---
