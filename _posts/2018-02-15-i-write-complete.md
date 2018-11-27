@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-15 10:55:24 -0800
 guid: http://jbwhaley.micro.blog/2018/02/15/i-write-complete.html
 ---
