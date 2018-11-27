@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.jarrodwhaley.com/uploads/2017/d38fa433f1.jpg
 date: 2017-12-15 22:28:23 -0800
 guid: http://jbwhaley.micro.blog/2017/12/16/our-tiny-bay.html
 ---
