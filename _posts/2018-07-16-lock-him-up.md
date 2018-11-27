@@ -3,6 +3,7 @@ layout: post
 title: "Lock Him Up"
 microblog: false
 audio: 
+photo: 
 date: 2018-07-16 12:08:14 -0800
 guid: http://jbwhaley.micro.blog/2018/07/16/lock-him-up.html
 ---
