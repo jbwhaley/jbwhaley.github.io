@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-08 07:17:42 -0800
 guid: http://jbwhaley.micro.blog/2018/05/08/the-full-nature.html
 ---
