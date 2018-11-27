@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-11-27 19:08:28 -0800
 guid: http://jbwhaley.micro.blog/2017/11/28/billing-oneself-as.html
 ---
