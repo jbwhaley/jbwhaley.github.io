@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-08 11:50:50 -0800
 guid: http://jbwhaley.micro.blog/2018/10/08/please-just-quit.html
 ---
