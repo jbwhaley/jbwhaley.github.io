@@ -1,0 +1,777 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Jarrod Whaley",
+	"icon": "https://micro.blog/jbwhaley/avatar.jpg",
+	"home_page_url": "https://www.jarrodwhaley.com/",
+	"feed_url": "https://www.jarrodwhaley.com/photos/index.json",
+	"items": [
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2018/11/18/trump-dumber-than.html",
+			
+			"content_text": "<p>Trump: Dumber Than Bush, Somehow</p>\n\n<p><img src=\"https://www.jarrodwhaley.com/uploads/2018/074287a1c2.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-11-17T20:00:11-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/11/17/trump-dumber-than.html",
+			"image": "https://www.jarrodwhaley.com/uploads/2018/074287a1c2.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/https://www.jarrodwhaley.com/uploads/2018/074287a1c2.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/11/02/what-is-wrong.html",
+			
+			"content_text": "<p>What is wrong with people?</p>\n\n<p><img src=\"https://www.jarrodwhaley.com/uploads/2018/f84408f9f5.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-11-01T21:07:23-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/11/01/what-is-wrong.html",
+			"image": "https://www.jarrodwhaley.com/uploads/2018/f84408f9f5.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/https://www.jarrodwhaley.com/uploads/2018/f84408f9f5.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/10/31/happy-halloween-from.html",
+			
+			"content_text": "<p>Happy Halloween from El Granada, CA.</p>\n\n<p><img src=\"https://www.jarrodwhaley.com/uploads/2018/7452a73e54.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-10-31T16:55:51-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/10/31/happy-halloween-from.html",
+			"image": "https://www.jarrodwhaley.com/uploads/2018/7452a73e54.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/https://www.jarrodwhaley.com/uploads/2018/7452a73e54.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/10/11/purisima-creek-redwoods.html",
+			
+			"title": "Purisima Creek Redwoods",
+			
+			"content_text": "<p><a href=\"http://www.jarrodwhaley.com/uploads/2018/7fae7b34a0.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/7fae7b34a0.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jarrodwhaley.com/uploads/2018/ff29784589.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/ff29784589.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jarrodwhaley.com/uploads/2018/7f849778e5.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/7f849778e5.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jarrodwhaley.com/uploads/2018/2a9f2e141c.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/2a9f2e141c.jpg\" width=\"600\" height=\"449\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jarrodwhaley.com/uploads/2018/65102b7358.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/65102b7358.jpg\" width=\"600\" height=\"449\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jarrodwhaley.com/uploads/2018/f8dc12ae20.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/f8dc12ae20.jpg\" width=\"600\" height=\"449\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jarrodwhaley.com/uploads/2018/be2aeeef56.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/be2aeeef56.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jarrodwhaley.com/uploads/2018/44dc072bff.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/44dc072bff.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>Took a break this afternoon with Ginger and walked around in the redwoods. I love living here.</p>\n\n",
+			"date_published": "2018-10-10T18:18:03-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/10/10/purisima-creek-redwoods.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2018/44dc072bff.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2018/44dc072bff.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/10/08/we-were-startled.html",
+			
+			"content_text": "<p>We were startled by this sight out over the ocean tonight. It seems SpaceX launched a rocket from Vandenberg Airforce Base. That’s 279 miles South of us.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/d3465396f6.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-10-07T19:43:00-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/10/07/we-were-startled.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2018/d3465396f6.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2018/d3465396f6.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/09/20/225443.html",
+			
+			"content_text": "<p>Bean Hollow State Beach. I’ve been indoors too much lately.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/b543bd2d90.jpg\" width=\"450\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-20T15:54:43-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/09/20/225443.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2018/b543bd2d90.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2018/b543bd2d90.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/08/24/this-headline-needed.html",
+			
+			"content_text": "<p>This headline needed a little adjustment.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/2650be0104.jpg\" width=\"600\" height=\"118\" /></p>\n",
+			"date_published": "2018-08-23T17:32:15-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/08/23/this-headline-needed.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2018/2650be0104.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2018/2650be0104.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/08/09/check-out-this.html",
+			
+			"content_text": "<p>Check out this tired little guy. (Zoom in. We get seals here too, <a href=\"https://micro.blog/Miraz\">@Miraz</a>.)</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/b8b46022ce.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-08-08T18:15:22-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/08/08/check-out-this.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2018/b8b46022ce.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2018/b8b46022ce.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/07/21/a-typical-summers.html",
+			
+			"content_text": "<p>A typical summer’s day on the San Mateo coast.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/099d70af62.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-07-20T23:25:43-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/07/20/a-typical-summers.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2018/099d70af62.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2018/099d70af62.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/06/27/san-jose-from.html",
+			
+			"content_text": "<p>San Jose, from Mount Hamilton.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/8ba71ff243.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-06-27T11:48:48-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/06/27/san-jose-from.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2018/8ba71ff243.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2018/8ba71ff243.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/06/11/martinis-yes-the.html",
+			
+			"content_text": "<p>Martinis (yes, the cuke is nonstandard, I agree) outdoors.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/9cc1814068.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-06-10T19:06:45-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/06/10/martinis-yes-the.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2018/9cc1814068.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2018/9cc1814068.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/05/19/we-stopped-by.html",
+			
+			"content_text": "<p>We stopped by Randy’s on the way to LAX earlier this week. It turns out their doughnuts are <em>amazing</em>.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/99829ac1b9.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-05-19T14:28:35-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/05/19/we-stopped-by.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2018/99829ac1b9.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2018/99829ac1b9.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/05/19/living-within-varying.html",
+			
+			"content_text": "<p>Living within varying microclimates can be rather strange at times.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/c0ed97ea9e.jpg\" width=\"600\" height=\"217\" /></p>\n",
+			"date_published": "2018-05-19T12:19:44-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/05/19/living-within-varying.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2018/c0ed97ea9e.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2018/c0ed97ea9e.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/05/13/mojave-drive.html",
+			
+			"title": "Mojave Drive",
+			
+			"content_text": "<p><a href=\"http://www.jarrodwhaley.com/uploads/2018/c88f5f57c5.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/c88f5f57c5.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jarrodwhaley.com/uploads/2018/b8b15be1e2.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/b8b15be1e2.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jarrodwhaley.com/uploads/2018/6ea26b3d16.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/6ea26b3d16.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jarrodwhaley.com/uploads/2018/2de7edc8a0.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/2de7edc8a0.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jarrodwhaley.com/uploads/2018/4faac198f1.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/4faac198f1.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jarrodwhaley.com/uploads/2018/9cc4505b3a.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/9cc4505b3a.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>Just out driving around in the Mojave Desert, as you do.</p>\n\n",
+			"date_published": "2018-05-13T16:34:31-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/05/13/mojave-drive.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2018/9cc4505b3a.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2018/9cc4505b3a.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/05/11/its-as-if.html",
+			
+			"content_text": "<p>It’s as if the sign is sharing its thoughts on our political climate.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/18c9c05683.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-05-11T14:09:56-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/05/11/its-as-if.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2018/18c9c05683.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2018/18c9c05683.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/05/04/truly-the-kan.html",
+			
+			"content_text": "<p>Truly the kōan our modern age deserves.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/ca495c8655.jpg\" width=\"600\" height=\"232\" /></p>\n",
+			"date_published": "2018-05-03T21:26:56-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/05/03/truly-the-kan.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2018/ca495c8655.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2018/ca495c8655.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/04/24/you-never-know.html",
+			
+			"content_text": "<p>You never know what you’re going to find in a Silicon Valley alleyway.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/40221d1241.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-04-24T14:41:36-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/04/24/you-never-know.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2018/40221d1241.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2018/40221d1241.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/04/16/snowy-morning-in.html",
+			
+			"title": "Snowy Morning In Tahoe",
+			
+			"content_text": "<p><a href=\"http://www.jarrodwhaley.com/uploads/2018/ac6d257399.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/ac6d257399.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jarrodwhaley.com/uploads/2018/b7b5ff5993.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/b7b5ff5993.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jarrodwhaley.com/uploads/2018/ae129675f3.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/ae129675f3.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jarrodwhaley.com/uploads/2018/de5f8525a4.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/de5f8525a4.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n",
+			"date_published": "2018-04-16T13:20:23-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/04/16/snowy-morning-in.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2018/de5f8525a4.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2018/de5f8525a4.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/03/30/my-parking-spot.html",
+			
+			"content_text": "<p>My parking spot.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/12e26d9c9d.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-03-29T19:32:42-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/03/29/my-parking-spot.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2018/12e26d9c9d.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2018/12e26d9c9d.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/03/19/flyby.html",
+			
+			"content_text": "<p>Flyby.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/7a250595d7.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-03-19T00:44:18-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/03/19/flyby.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2018/7a250595d7.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2018/7a250595d7.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/03/19/hummingbird.html",
+			
+			"content_text": "<p>Hummingbird.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/8a248bb3dd.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-19T00:40:06-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/03/19/hummingbird.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2018/8a248bb3dd.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2018/8a248bb3dd.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/03/19/seals-on-the.html",
+			
+			"content_text": "<p>Seals on the rocks.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/f7651f4a3b.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-19T00:34:36-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/03/19/seals-on-the.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2018/f7651f4a3b.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2018/f7651f4a3b.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/03/19/bean-hollow-state.html",
+			
+			"title": "Bean Hollow State Beach & Pigeon Point Lighthouse",
+			
+			"content_text": "<p><a href=\"http://www.jarrodwhaley.com/uploads/2018/dba121ea0c.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/dba121ea0c.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jarrodwhaley.com/uploads/2018/c6bbfe80eb.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/c6bbfe80eb.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jarrodwhaley.com/uploads/2018/36524874bf.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/36524874bf.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jarrodwhaley.com/uploads/2018/2ee4a20fbf.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/2ee4a20fbf.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jarrodwhaley.com/uploads/2018/80eff755ff.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/80eff755ff.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jarrodwhaley.com/uploads/2018/e8c093e045.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/e8c093e045.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jarrodwhaley.com/uploads/2018/9f32c92b0a.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/9f32c92b0a.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>We drove down the coast today. It’s a nice way to hit the reset button before a new work week.</p>\n\n",
+			"date_published": "2018-03-18T21:56:09-07:00",
+			"url": "https://www.jarrodwhaley.com/2018/03/18/bean-hollow-state.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2018/9f32c92b0a.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2018/9f32c92b0a.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/03/10/out-on-caada.html",
+			
+			"content_text": "<p>Out on Cañada Road.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/7ed734b2be.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-10T13:55:12-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/03/10/out-on-caada.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2018/7ed734b2be.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2018/7ed734b2be.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/03/08/good-night-half.html",
+			
+			"content_text": "<p>Good night, Half Moon Bay.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/d049c8c768.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-03-07T18:08:21-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/03/07/good-night-half.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2018/d049c8c768.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2018/d049c8c768.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/03/07/good-morning-half.html",
+			
+			"content_text": "<p>Good morning, Half Moon Bay.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/0e6893e0c5.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-03-07T07:54:20-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/03/07/good-morning-half.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2018/0e6893e0c5.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2018/0e6893e0c5.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/02/28/a-couple-of.html",
+			
+			"content_text": "<p>A couple of scavenging ravens.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/a3705dfd35.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-02-28T15:49:25-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/28/a-couple-of.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2018/a3705dfd35.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2018/a3705dfd35.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/02/24/this-is-what.html",
+			
+			"content_text": "<p>This is what you see now when you go to a Twitter URL while not logged in. Blatant lies, as per usual in our times.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/bbd510100d.jpg\" width=\"600\" height=\"225\" /></p>\n",
+			"date_published": "2018-02-24T15:53:14-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/24/this-is-what.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2018/bbd510100d.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2018/bbd510100d.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/02/22/this-is-a.html",
+			
+			"content_text": "<p>This is a <em>terrible</em> dialog box (on Amazon.com). If I want to cancel, should I hit “cancel?” Will that cancel my cancelation?</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/3e1e13fa48.jpg\" width=\"482\" height=\"288\" /></p>\n",
+			"date_published": "2018-02-22T10:52:07-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/22/this-is-a.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2018/3e1e13fa48.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2018/3e1e13fa48.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/02/20/never-a-truer.html",
+			
+			"content_text": "<p>Never a truer friend.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/d52398d9ef.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-19T18:25:16-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/19/never-a-truer.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2018/d52398d9ef.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2018/d52398d9ef.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/02/16/castle-boat.html",
+			
+			"content_text": "<p>Castle? Boat?</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/a9fb1cbace.jpg\" width=\"497\" height=\"497\" /></p>\n",
+			"date_published": "2018-02-15T22:53:29-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/15/castle-boat.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2018/a9fb1cbace.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2018/a9fb1cbace.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/02/11/this-hemingway-quote.html",
+			
+			"content_text": "<p>This Hemingway quote on a bottle of red in Calistoga was decribed to us as an Eff You to the wildfires.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/f3b3636349.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-02-10T16:09:23-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/10/this-hemingway-quote.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2018/f3b3636349.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2018/f3b3636349.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/02/06/goodbye-monday.html",
+			
+			"content_text": "<p>Goodbye, Monday.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/f89a15b4f3.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-05T17:02:30-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/05/goodbye-monday.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2018/f89a15b4f3.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2018/f89a15b4f3.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/02/04/my-neighborhood-doesnt.html",
+			
+			"content_text": "<p>My neighborhood doesn’t suck.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/453873b693.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-02-04T12:12:35-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/04/my-neighborhood-doesnt.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2018/453873b693.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2018/453873b693.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/02/04/finally-getting-in.html",
+			
+			"content_text": "<p>Finally getting in some solid bike time. Beautiful day for it.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/55fd177064.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-02-04T12:08:55-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/04/finally-getting-in.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2018/55fd177064.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2018/55fd177064.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/02/03/definitely-not-the.html",
+			
+			"content_text": "<p>Definitely not the droids I’m looking for.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/098e0084cd.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-02-02T17:02:43-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/02/02/definitely-not-the.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2018/098e0084cd.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2018/098e0084cd.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/02/01/i-should-get.html",
+			
+			"content_text": "<p>I should get out and work in coffee shops more often.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/6fe1123307.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-31T16:24:28-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/01/31/i-should-get.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2018/6fe1123307.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2018/6fe1123307.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/01/27/good-night-little.html",
+			
+			"content_text": "<p>Good night, little druid.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/4ed1e635ee.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-26T23:27:48-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/01/26/good-night-little.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2018/4ed1e635ee.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2018/4ed1e635ee.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/01/17/my-cat-is.html",
+			
+			"content_text": "<p>My cat is weird. She was just lying there quietly with her head squished up against the oven door.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/dcb320cb36.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-16T18:03:08-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/01/16/my-cat-is.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2018/dcb320cb36.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2018/dcb320cb36.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/01/16/theres-more-to.html",
+			
+			"content_text": "<p>There’s more to everything you see than what you see at first.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/e937fc66bc.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-01-15T21:06:43-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/01/15/theres-more-to.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2018/e937fc66bc.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2018/e937fc66bc.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/01/06/spot-whats-wrong.html",
+			
+			"content_text": "<p>Spot what’s wrong with this picture of an Apple II.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/6a4b2e0386.jpg\" width=\"450\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-06T15:53:38-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/01/06/spot-whats-wrong.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2018/6a4b2e0386.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2018/6a4b2e0386.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/01/05/please-tell-me.html",
+			
+			"content_text": "<p>“Please tell me about your day while I enjoy this lovely glass of blood.”</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/c369830782.jpg\" width=\"448\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-04T23:32:01-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/01/04/please-tell-me.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2018/c369830782.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2018/c369830782.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2018/01/02/fundamentally-youre-on.html",
+			
+			"content_text": "<p>Fundamentally, you’re on your own out there.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/0a1dada0ea.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-02T11:53:55-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/01/02/fundamentally-youre-on.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2018/0a1dada0ea.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2018/0a1dada0ea.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2017/12/31/just-clap-your.html",
+			
+			"content_text": "<p>Just clap your hands.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/5bffd71001.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-31T14:41:43-08:00",
+			"url": "https://www.jarrodwhaley.com/2017/12/31/just-clap-your.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2017/5bffd71001.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2017/5bffd71001.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2017/12/31/may-your-new.html",
+			
+			"content_text": "<p>May your new year be filled with adorable nightmares.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/dc134e4757.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-31T13:20:40-08:00",
+			"url": "https://www.jarrodwhaley.com/2017/12/31/may-your-new.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2017/dc134e4757.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2017/dc134e4757.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2017/12/24/yes-of-course.html",
+			
+			"content_text": "<p>Yes, of course there’s a motorcycle parked atop the baggage claim conveyor. Naturally.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/86e074a29f.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-24T07:05:05-08:00",
+			"url": "https://www.jarrodwhaley.com/2017/12/24/yes-of-course.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2017/86e074a29f.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2017/86e074a29f.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2017/12/21/i-find-that.html",
+			
+			"content_text": "<p>I find that a mild Smoke Event is not a good way to start one’s morning.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/0bf4e2c857.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2017-12-21T08:19:15-08:00",
+			"url": "https://www.jarrodwhaley.com/2017/12/21/i-find-that.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2017/0bf4e2c857.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2017/0bf4e2c857.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2017/12/17/sunday-sunrise.html",
+			
+			"content_text": "<p>Sunday sunrise.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/06f1fe49d7.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-17T09:10:57-08:00",
+			"url": "https://www.jarrodwhaley.com/2017/12/17/sunday-sunrise.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2017/06f1fe49d7.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2017/06f1fe49d7.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2017/12/17/looking-out-my.html",
+			
+			"content_text": "<p>Looking out my back door.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/bf35b8e215.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2017-12-16T17:32:57-08:00",
+			"url": "https://www.jarrodwhaley.com/2017/12/16/looking-out-my.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2017/bf35b8e215.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2017/bf35b8e215.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2017/12/16/our-tiny-bay.html",
+			
+			"content_text": "<p>Our tiny Bay Area apartment can’t contain much Xmas cheer, so we cheer up our patio with a little tree each year.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/d38fa433f1.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-15T22:28:23-08:00",
+			"url": "https://www.jarrodwhaley.com/2017/12/15/our-tiny-bay.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2017/d38fa433f1.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2017/d38fa433f1.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2017/12/12/life-is-rough.html",
+			
+			"content_text": "<p>Life is rough for her.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/3624c62783.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-12T00:41:40-08:00",
+			"url": "https://www.jarrodwhaley.com/2017/12/12/life-is-rough.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2017/3624c62783.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2017/3624c62783.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2017/12/12/a-stolen-moment.html",
+			
+			"content_text": "<p>A stolen moment of peace beside the Pacific.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/b079dcf128.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-11T17:58:50-08:00",
+			"url": "https://www.jarrodwhaley.com/2017/12/11/a-stolen-moment.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2017/b079dcf128.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2017/b079dcf128.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2017/12/10/didnt-learn-from.html",
+			
+			"content_text": "<p>Didn’t learn from the mistakes of Deceiver I, eh?</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/c84dfb06c0.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-09T18:53:42-08:00",
+			"url": "https://www.jarrodwhaley.com/2017/12/09/didnt-learn-from.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2017/c84dfb06c0.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2017/c84dfb06c0.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2017/12/10/have-a-weird.html",
+			
+			"content_text": "<p>Have a weird Christmas, everyone.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/c44fd154dc.jpg\" width=\"599\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-09T18:31:33-08:00",
+			"url": "https://www.jarrodwhaley.com/2017/12/09/have-a-weird.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2017/c44fd154dc.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2017/c44fd154dc.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2017/12/10/christmas-at-pillar.html",
+			
+			"content_text": "<p>Christmas at Pillar Point Harbor.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/06a784f0e9.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-09T18:30:19-08:00",
+			"url": "https://www.jarrodwhaley.com/2017/12/09/christmas-at-pillar.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2017/06a784f0e9.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2017/06a784f0e9.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2017/12/09/my-favorite-lunch.html",
+			
+			"content_text": "<p>My favorite lunch spot looks its best at night.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/d68fdc93f7.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2017-12-08T18:25:16-08:00",
+			"url": "https://www.jarrodwhaley.com/2017/12/08/my-favorite-lunch.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2017/d68fdc93f7.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2017/d68fdc93f7.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2017/12/08/macos-brings-a.html",
+			
+			"content_text": "<p>MacOS 10.13.2 brings a profoundly new interface.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/1c8df774e0.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2017-12-07T16:00:46-08:00",
+			"url": "https://www.jarrodwhaley.com/2017/12/07/macos-brings-a.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2017/1c8df774e0.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2017/1c8df774e0.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2017/12/05/beautiful-sunset-bike.html",
+			
+			"content_text": "<p>Beautiful sunset bike ride down the coast. One day ends, and another one begins.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/fdd3a13f25.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-04T17:49:01-08:00",
+			"url": "https://www.jarrodwhaley.com/2017/12/04/beautiful-sunset-bike.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2017/fdd3a13f25.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2017/fdd3a13f25.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2017/12/05/goodbye-sun.html",
+			
+			"content_text": "<p>Goodbye, sun.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/27b63c3eff.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2017-12-04T16:58:29-08:00",
+			"url": "https://www.jarrodwhaley.com/2017/12/04/goodbye-sun.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2017/27b63c3eff.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2017/27b63c3eff.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2017/12/04/getting-ready-for.html",
+			
+			"content_text": "<p>Getting ready for Xmas on the Coastside.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/c9b31ffc31.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-03T17:00:52-08:00",
+			"url": "https://www.jarrodwhaley.com/2017/12/03/getting-ready-for.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2017/c9b31ffc31.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2017/c9b31ffc31.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2017/12/01/there-are-few.html",
+			
+			"content_text": "<p>There are few things I find more calming than just watching the surf for a few minutes.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/1c4fe302df.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2017-11-30T22:52:55-08:00",
+			"url": "https://www.jarrodwhaley.com/2017/11/30/there-are-few.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2017/1c4fe302df.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2017/1c4fe302df.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2017/11/30/big-waves-in.html",
+			
+			"content_text": "<p>Big waves in Half Moon Bay this morning.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/f36ef4ad82.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-11-30T07:37:49-08:00",
+			"url": "https://www.jarrodwhaley.com/2017/11/30/big-waves-in.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2017/f36ef4ad82.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2017/f36ef4ad82.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2017/11/30/spending-last-weekend.html",
+			
+			"content_text": "<p>Spending last weekend in Big Sur reminded me that total silence is the most beautiful sound I have ever heard.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/26bac4e2f8.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-11-29T22:50:51-08:00",
+			"url": "https://www.jarrodwhaley.com/2017/11/29/spending-last-weekend.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2017/26bac4e2f8.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2017/26bac4e2f8.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2017/11/29/the-edge-of.html",
+			
+			"content_text": "<p>The edge of the world.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/cd5c384ef6.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-11-28T17:38:13-08:00",
+			"url": "https://www.jarrodwhaley.com/2017/11/28/the-edge-of.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2017/cd5c384ef6.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2017/cd5c384ef6.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2017/11/27/an-ancient-relic.html",
+			
+			"content_text": "<p>An ancient relic, spotted along a highway deep in a redwood forest.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/0e3628aa88.jpg\" width=\"450\" height=\"600\" /></p>\n",
+			"date_published": "2017-11-27T14:03:09-08:00",
+			"url": "https://www.jarrodwhaley.com/2017/11/27/an-ancient-relic.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2017/0e3628aa88.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2017/0e3628aa88.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2017/11/26/sunset-over-big.html",
+			
+			"content_text": "<p>Sunset over Big Sur.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/ade25f34d1.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-11-25T18:29:13-08:00",
+			"url": "https://www.jarrodwhaley.com/2017/11/25/sunset-over-big.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2017/ade25f34d1.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2017/ade25f34d1.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2017/11/25/big-sur-meadow.html",
+			
+			"content_text": "<p>Big Sur meadow, with really old tombstones.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/9f87187b81.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-11-24T17:45:42-08:00",
+			"url": "https://www.jarrodwhaley.com/2017/11/24/big-sur-meadow.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2017/9f87187b81.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2017/9f87187b81.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2017/11/23/new-exquisite-corpse.html",
+			
+			"content_text": "<p>New Exquisite Corpse Brand Absinthe Basil Bliss Chicken Patty Man Cave Flavor Pucks</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2017/268635aae3.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-11-22T22:09:29-08:00",
+			"url": "https://www.jarrodwhaley.com/2017/11/22/new-exquisite-corpse.html",
+			"image": "http://www.jarrodwhaley.com/uploads/2017/268635aae3.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://www.jarrodwhaley.com/uploads/2017/268635aae3.jpg"
+			}
+		},
+		{
+			"id": "http://jbwhaley.micro.blog/2017/11/21/i-am-so.html",
+			
+			"content_text": "<p>I am so glad I started riding a bike again, and Half Moon Bay is a <strong>great</strong> place to do so.</p>\n\n<p><img src=\"http://jbwhaley.micro.blog/uploads/2017/dda0c05c5e.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-11-21T14:57:58-08:00",
+			"url": "https://www.jarrodwhaley.com/2017/11/21/i-am-so.html",
+			"image": "http://jbwhaley.micro.blog/uploads/2017/dda0c05c5e.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://jbwhaley.micro.blog/uploads/2017/dda0c05c5e.jpg"
+			}
+		}
+	]
+}
