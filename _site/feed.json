@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/11/27/do-your-thing.html",
+	      	
+			"content_html": "<p>Do your thing. Stay out of others’ way. Don’t hurt anyone. None of this is very hard to figure out.</p>\n",
+			"date_published": "2018-11-27T10:22:04-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/11/27/do-your-thing.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/11/20/if-it-ever.html",
 	      	
 			"content_html": "<p>If it ever rains here in Northern California, I am going to walk out on my balcony and <em>breathe so deeply</em>.</p>\n",
@@ -202,14 +210,6 @@
 			"content_html": "<p><a href=\"https://www.bbc.co.uk/news/health-45721671\">No</a>.</p>\n",
 			"date_published": "2018-10-02T19:08:45-07:00",
 			"url": "https://www.jarrodwhaley.com/2018/10/02/no.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/10/02/imagine-for-a.html",
-	      	
-			"content_html": "<p>Imagine for a moment that we lived in a country which prosecuted <a href=\"https://apple.news/AxzUcPJNoThGhic2PC6Gicg\">open, wanton felonies</a>.</p>\n",
-			"date_published": "2018-10-02T15:26:42-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/10/02/imagine-for-a.html"
 		}
 		
 	]
