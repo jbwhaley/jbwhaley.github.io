@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-02 08:49:09 -0800
 guid: http://jbwhaley.micro.blog/2017/12/02/the-fact-that.html
 ---
