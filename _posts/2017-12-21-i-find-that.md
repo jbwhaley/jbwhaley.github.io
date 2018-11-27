@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.jarrodwhaley.com/uploads/2017/0bf4e2c857.jpg
 date: 2017-12-21 08:19:15 -0800
 guid: http://jbwhaley.micro.blog/2017/12/21/i-find-that.html
 ---
