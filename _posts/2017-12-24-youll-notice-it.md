@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-24 04:45:25 -0800
 guid: http://jbwhaley.micro.blog/2017/12/24/youll-notice-it.html
 ---
