@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-03 09:12:30 -0800
 guid: http://jbwhaley.micro.blog/2018/01/03/i-would-like.html
 ---
