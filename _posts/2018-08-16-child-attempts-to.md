@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-15 18:28:40 -0800
 guid: http://jbwhaley.micro.blog/2018/08/16/child-attempts-to.html
 ---
