@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-10 16:36:52 -0800
 guid: http://jbwhaley.micro.blog/2017/12/11/should-you-say.html
 ---
