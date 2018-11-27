@@ -3,6 +3,7 @@ layout: post
 title: "Mark Zuckerberg Aces in Sad, Phoned-In Beltway Tragicomedy"
 microblog: false
 audio: 
+photo: 
 date: 2018-04-10 21:52:00 -0800
 guid: http://jbwhaley.micro.blog/2018/04/11/mark-zuckerberg-aces.html
 ---
