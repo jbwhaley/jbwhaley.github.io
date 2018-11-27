@@ -3,6 +3,7 @@ layout: post
 title: "Stan The Obscurities: THE DOMINO PRINCIPLE"
 microblog: false
 audio: 
+photo: 
 date: 2018-11-03 14:36:29 -0800
 guid: http://jbwhaley.micro.blog/2018/11/03/stan-the-obscurities.html
 ---
