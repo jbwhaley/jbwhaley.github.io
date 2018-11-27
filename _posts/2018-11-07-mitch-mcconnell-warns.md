@@ -3,6 +3,7 @@ layout: post
 title: "Mitch McConnell Warns Against Oversight of Executive Branch"
 microblog: false
 audio: 
+photo: 
 date: 2018-11-07 14:55:31 -0800
 guid: http://jbwhaley.micro.blog/2018/11/07/mitch-mcconnell-warns.html
 ---
