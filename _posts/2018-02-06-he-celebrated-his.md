@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-05 22:38:14 -0800
 guid: http://jbwhaley.micro.blog/2018/02/06/he-celebrated-his.html
 ---
