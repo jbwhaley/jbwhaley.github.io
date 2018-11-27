@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-04 16:05:21 -0800
 guid: http://jbwhaley.micro.blog/2017/12/05/chairman-pai-and.html
 ---
