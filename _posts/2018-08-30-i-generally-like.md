@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-30 15:22:53 -0800
 guid: http://jbwhaley.micro.blog/2018/08/30/i-generally-like.html
 ---
