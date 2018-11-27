@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-10 11:55:56 -0800
 guid: http://jbwhaley.micro.blog/2017/12/10/well-this-is.html
 ---
