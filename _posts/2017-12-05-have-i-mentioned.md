@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-04 20:16:15 -0800
 guid: http://jbwhaley.micro.blog/2017/12/05/have-i-mentioned.html
 ---
