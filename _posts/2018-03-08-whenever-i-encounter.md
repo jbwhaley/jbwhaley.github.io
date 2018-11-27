@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-08 12:33:11 -0800
 guid: http://jbwhaley.micro.blog/2018/03/08/whenever-i-encounter.html
 ---
