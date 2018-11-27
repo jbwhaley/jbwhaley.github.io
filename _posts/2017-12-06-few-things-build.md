@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-06 12:22:58 -0800
 guid: http://jbwhaley.micro.blog/2017/12/06/few-things-build.html
 ---
