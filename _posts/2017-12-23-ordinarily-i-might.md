@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-23 12:58:00 -0800
 guid: http://jbwhaley.micro.blog/2017/12/23/ordinarily-i-might.html
 ---
