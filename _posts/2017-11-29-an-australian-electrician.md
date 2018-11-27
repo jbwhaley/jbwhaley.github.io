@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-11-29 13:42:17 -0800
 guid: http://jbwhaley.micro.blog/2017/11/29/an-australian-electrician.html
 ---
