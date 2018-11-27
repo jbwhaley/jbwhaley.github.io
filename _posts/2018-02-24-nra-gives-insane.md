@@ -3,6 +3,7 @@ layout: post
 title: "NRA Gives Insane Award, Insanely"
 microblog: false
 audio: 
+photo: 
 date: 2018-02-23 16:22:56 -0800
 guid: http://jbwhaley.micro.blog/2018/02/24/nra-gives-insane.html
 ---
