@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-11-27 11:05:19 -0800
 guid: http://jbwhaley.micro.blog/2017/11/27/firefox-quantum-is.html
 ---
