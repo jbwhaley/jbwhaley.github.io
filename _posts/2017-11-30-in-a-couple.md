@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-11-30 12:01:03 -0800
 guid: http://jbwhaley.micro.blog/2017/11/30/in-a-couple.html
 ---
