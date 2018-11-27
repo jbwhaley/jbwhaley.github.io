@@ -3,6 +3,7 @@ layout: post
 title: "Alexa, Scare Me To Death, Please!"
 microblog: false
 audio: 
+photo: 
 date: 2018-03-07 14:23:35 -0800
 guid: http://jbwhaley.micro.blog/2018/03/07/alexa-scare-me.html
 ---
