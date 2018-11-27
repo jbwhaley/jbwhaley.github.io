@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-02 10:04:28 -0800
 guid: http://jbwhaley.micro.blog/2018/01/02/while-it-appears.html
 ---
