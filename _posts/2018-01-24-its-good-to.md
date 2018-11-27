@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-24 10:00:00 -0800
 guid: http://jbwhaley.micro.blog/2018/01/24/its-good-to.html
 ---
