@@ -3,6 +3,7 @@ layout: post
 title: "News Explorer Is a Pretty Great Feed Reader"
 microblog: false
 audio: 
+photo: 
 date: 2018-02-04 12:58:26 -0800
 guid: http://jbwhaley.micro.blog/2018/02/04/news-explorer-is.html
 ---
