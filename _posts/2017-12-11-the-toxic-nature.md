@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-11 09:34:00 -0800
 guid: http://jbwhaley.micro.blog/2017/12/11/the-toxic-nature.html
 ---
