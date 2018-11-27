@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-28 16:07:49 -0800
 guid: http://jbwhaley.micro.blog/2018/01/29/if-youre-not.html
 ---
