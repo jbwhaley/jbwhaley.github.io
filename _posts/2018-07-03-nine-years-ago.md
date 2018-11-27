@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-03 11:56:22 -0800
 guid: http://jbwhaley.micro.blog/2018/07/03/nine-years-ago.html
 ---
