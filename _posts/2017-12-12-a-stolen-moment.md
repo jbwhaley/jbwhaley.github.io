@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.jarrodwhaley.com/uploads/2017/b079dcf128.jpg
 date: 2017-12-11 17:58:50 -0800
 guid: http://jbwhaley.micro.blog/2017/12/12/a-stolen-moment.html
 ---
