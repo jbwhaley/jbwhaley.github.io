@@ -3,6 +3,7 @@ layout: post
 title: "Might Lifetime Subscriptions Be the Answer to Subscription Fatigue?"
 microblog: false
 audio: 
+photo: 
 date: 2018-01-31 17:20:40 -0800
 guid: http://jbwhaley.micro.blog/2018/02/01/might-lifetime-subscriptions.html
 ---
