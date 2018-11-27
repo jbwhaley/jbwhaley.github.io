@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-07 21:32:14 -0800
 guid: http://jbwhaley.micro.blog/2018/08/08/stephen-levy-hackers.html
 ---
