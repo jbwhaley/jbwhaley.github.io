@@ -3,6 +3,7 @@ layout: post
 title: "AI Probably Won't Kill All Humans, but It Will Likely Be Used to Subjugate Them"
 microblog: false
 audio: 
+photo: 
 date: 2018-09-03 12:01:05 -0800
 guid: http://jbwhaley.micro.blog/2018/09/03/ai-probably-wont.html
 ---
