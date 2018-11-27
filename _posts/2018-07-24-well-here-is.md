@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-24 12:07:57 -0800
 guid: http://jbwhaley.micro.blog/2018/07/24/well-here-is.html
 ---
