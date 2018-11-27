@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-08 18:11:57 -0800
 guid: http://jbwhaley.micro.blog/2017/12/09/linklockerhttpslinklockercoblog-is-now.html
 ---
