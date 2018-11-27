@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-07 10:37:29 -0800
 guid: http://jbwhaley.micro.blog/2018/08/07/badly-implemented-form.html
 ---
