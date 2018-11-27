@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-06 01:29:13 -0800
 guid: http://jbwhaley.micro.blog/2017/12/06/i-spotted-a.html
 ---
