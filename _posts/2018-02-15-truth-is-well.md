@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-14 16:38:25 -0800
 guid: http://jbwhaley.micro.blog/2018/02/15/truth-is-well.html
 ---
