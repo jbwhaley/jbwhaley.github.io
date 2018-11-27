@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-28 12:16:34 -0800
 guid: http://jbwhaley.micro.blog/2018/05/28/not-innovatey-enough.html
 ---
