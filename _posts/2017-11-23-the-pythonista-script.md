@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-11-23 12:46:27 -0800
 guid: http://jbwhaley.micro.blog/2017/11/23/the-pythonista-script.html
 ---
