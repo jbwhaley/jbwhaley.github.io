@@ -3,6 +3,7 @@ layout: post
 title: "YouTube Serves Crypto-Mining Ads"
 microblog: false
 audio: 
+photo: 
 date: 2018-01-26 12:02:06 -0800
 guid: http://jbwhaley.micro.blog/2018/01/26/youtube-serves-cryptomining.html
 ---
