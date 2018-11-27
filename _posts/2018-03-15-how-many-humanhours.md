@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-15 11:39:34 -0800
 guid: http://jbwhaley.micro.blog/2018/03/15/how-many-humanhours.html
 ---
