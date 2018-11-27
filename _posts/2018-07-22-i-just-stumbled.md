@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-22 00:20:46 -0800
 guid: http://jbwhaley.micro.blog/2018/07/22/i-just-stumbled.html
 ---
