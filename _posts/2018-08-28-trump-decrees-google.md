@@ -3,6 +3,7 @@ layout: post
 title: "Trump Decrees: Google Results Not Dumb Enough for His Dumb Base"
 microblog: false
 audio: 
+photo: 
 date: 2018-08-28 11:52:38 -0800
 guid: http://jbwhaley.micro.blog/2018/08/28/trump-decrees-google.html
 ---
