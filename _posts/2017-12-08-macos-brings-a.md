@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.jarrodwhaley.com/uploads/2017/1c8df774e0.jpg
 date: 2017-12-07 16:00:46 -0800
 guid: http://jbwhaley.micro.blog/2017/12/08/macos-brings-a.html
 ---
