@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-04 10:05:19 -0800
 guid: http://jbwhaley.micro.blog/2018/09/04/the-new-york.html
 ---
