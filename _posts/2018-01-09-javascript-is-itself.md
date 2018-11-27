@@ -3,6 +3,7 @@ layout: post
 title: "JavaScript Is Itself a Malicious Payload"
 microblog: false
 audio: 
+photo: 
 date: 2018-01-09 01:35:24 -0800
 guid: http://jbwhaley.micro.blog/2018/01/09/javascript-is-itself.html
 ---
