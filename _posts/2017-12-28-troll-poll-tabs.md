@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-28 13:44:13 -0800
 guid: http://jbwhaley.micro.blog/2017/12/28/troll-poll-tabs.html
 ---
