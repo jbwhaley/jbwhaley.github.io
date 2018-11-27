@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-11 20:41:42 -0800
 guid: http://jbwhaley.micro.blog/2018/11/12/i-am-planning.html
 ---
