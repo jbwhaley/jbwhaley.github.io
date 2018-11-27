@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-11-22 23:36:39 -0800
 guid: http://jbwhaley.micro.blog/2017/11/23/ubers-decision-to.html
 ---
