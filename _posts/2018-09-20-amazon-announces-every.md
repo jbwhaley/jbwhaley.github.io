@@ -3,6 +3,7 @@ layout: post
 title: "Amazon Announces Every Object in the Known Universe Now Emits a Dumb Robot Voice"
 microblog: false
 audio: 
+photo: 
 date: 2018-09-20 15:26:50 -0800
 guid: http://jbwhaley.micro.blog/2018/09/20/amazon-announces-every.html
 ---
