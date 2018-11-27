@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.jarrodwhaley.com/uploads/2017/26bac4e2f8.jpg
 date: 2017-11-29 22:50:51 -0800
 guid: http://jbwhaley.micro.blog/2017/11/30/spending-last-weekend.html
 ---
