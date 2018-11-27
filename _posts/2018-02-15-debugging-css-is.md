@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-15 15:36:26 -0800
 guid: http://jbwhaley.micro.blog/2018/02/15/debugging-css-is.html
 ---
