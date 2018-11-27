@@ -3,6 +3,7 @@ layout: post
 title: "Snowy Morning In Tahoe"
 microblog: false
 audio: 
+photo: http://www.jarrodwhaley.com/uploads/2018/de5f8525a4.jpg
 date: 2018-04-16 12:20:23 -0800
 guid: http://jbwhaley.micro.blog/2018/04/16/snowy-morning-in.html
 ---
