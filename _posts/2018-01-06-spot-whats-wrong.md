@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.jarrodwhaley.com/uploads/2018/6a4b2e0386.jpg
 date: 2018-01-06 15:53:38 -0800
 guid: http://jbwhaley.micro.blog/2018/01/06/spot-whats-wrong.html
 ---
