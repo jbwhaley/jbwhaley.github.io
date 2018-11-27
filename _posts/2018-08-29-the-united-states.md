@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-29 10:48:58 -0800
 guid: http://jbwhaley.micro.blog/2018/08/29/the-united-states.html
 ---
