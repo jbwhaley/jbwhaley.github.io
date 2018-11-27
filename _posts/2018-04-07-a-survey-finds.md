@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-06 20:16:15 -0800
 guid: http://jbwhaley.micro.blog/2018/04/07/a-survey-finds.html
 ---
