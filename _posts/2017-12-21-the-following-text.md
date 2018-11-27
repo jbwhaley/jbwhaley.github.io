@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-20 16:03:38 -0800
 guid: http://jbwhaley.micro.blog/2017/12/21/the-following-text.html
 ---
