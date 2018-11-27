@@ -3,6 +3,7 @@ layout: post
 title: "Purisima Creek Redwoods"
 microblog: false
 audio: 
+photo: http://www.jarrodwhaley.com/uploads/2018/44dc072bff.jpg
 date: 2018-10-10 17:18:03 -0800
 guid: http://jbwhaley.micro.blog/2018/10/11/purisima-creek-redwoods.html
 ---
