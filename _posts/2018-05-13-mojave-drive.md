@@ -3,6 +3,7 @@ layout: post
 title: "Mojave Drive"
 microblog: false
 audio: 
+photo: http://www.jarrodwhaley.com/uploads/2018/9cc4505b3a.jpg
 date: 2018-05-13 15:34:31 -0800
 guid: http://jbwhaley.micro.blog/2018/05/13/mojave-drive.html
 ---
