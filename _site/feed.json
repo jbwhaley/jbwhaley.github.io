@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/12/04/we-can-all.html",
+	      	
+			"content_html": "<p>We can all agree that pretty much every thing has been <em>awful</em> since about March of 2016, right? Like, every atom and every photon has been <em>awful</em>.</p>\n",
+			"date_published": "2018-12-04T10:28:15-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/12/04/we-can-all.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2018/11/27/finally-theres-proof.html",
+	      	
+			"content_html": "<p>Finally, there’s proof. Until now, this fact had only been demonstrated in <strong>every</strong> single thing the man has said, done, Tweeted, blurted, bloviated, or burped for <strong>every</strong> minute of the last <strong>72</strong> years.</p>\n\n<p>Proof. Finally.</p>\n\n<p><img src=\"https://www.jarrodwhaley.com/uploads/2018/968b37c4f6.jpg\" width=\"600\" height=\"156\" /></p>\n",
+			"date_published": "2018-11-27T15:28:31-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/11/27/finally-theres-proof.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/11/27/do-your-thing.html",
 	      	
 			"content_html": "<p>Do your thing. Stay out of others’ way. Don’t hurt anyone. None of this is very hard to figure out.</p>\n",
@@ -194,22 +210,6 @@
 			"content_html": "<p>Please, just <a href=\"https://www.engadget.com/2018/10/08/google-reportedly-exposed-data-for-hundreds-of-thousands-of-user/\">quit giving your data away</a>. Please?</p>\n",
 			"date_published": "2018-10-08T12:50:50-07:00",
 			"url": "https://www.jarrodwhaley.com/2018/10/08/please-just-quit.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/10/08/we-were-startled.html",
-	      	
-			"content_html": "<p>We were startled by this sight out over the ocean tonight. It seems SpaceX launched a rocket from Vandenberg Airforce Base. That’s 279 miles South of us.</p>\n\n<p><img src=\"http://www.jarrodwhaley.com/uploads/2018/d3465396f6.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-10-07T19:43:00-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/10/07/we-were-startled.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/10/03/no.html",
-	      	
-			"content_html": "<p><a href=\"https://www.bbc.co.uk/news/health-45721671\">No</a>.</p>\n",
-			"date_published": "2018-10-02T19:08:45-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/10/02/no.html"
 		}
 		
 	]
