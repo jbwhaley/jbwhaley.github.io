@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/12/04/we-can-all.html",
+	      	
+			"content_text": "We can all agree that pretty much every thing has...",
+			"date_published": "2018-12-04T10:28:15-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/12/04/we-can-all.html"
+		},
+		
+		{
+			"id": "http://jbwhaley.micro.blog/2018/11/27/finally-theres-proof.html",
+	      	
+			"content_text": "Finally, there’s proof. Until now, this fact had only been...",
+			"date_published": "2018-11-27T15:28:31-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/11/27/finally-theres-proof.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/11/27/do-your-thing.html",
 	      	
 			"content_text": "Do your thing. Stay out of others’ way. Don’t hurt...",
