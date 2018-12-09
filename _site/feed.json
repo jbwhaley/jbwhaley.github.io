@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://jbwhaley.micro.blog/2018/12/09/take-your-cat.html",
+	      	
+			"content_html": "<p><a href=\"http://www.jarrodwhaley.com/uploads/2018/4dde95c75a.jpg\"><img src=\"https://www.jarrodwhaley.com/uploads/2018/4dde95c75a.jpg\" width=\"450\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p><strong>Take Your Cat to the Beach Day</strong>, 2018</p>\n\n",
+			"date_published": "2018-12-08T19:17:21-08:00",
+			"url": "https://www.jarrodwhaley.com/2018/12/08/take-your-cat.html"
+		},
+		
+		{
 			"id": "http://jbwhaley.micro.blog/2018/12/05/the-current-trend.html",
 	      	
 			"content_html": "<p>The current trend of burying the link to a login page must die. I understand a focus on gaining new users, but making life difficult for existing users is very bad business.</p>\n",
@@ -202,14 +210,6 @@
 			"content_html": "<p><a href=\"http://www.jarrodwhaley.com/uploads/2018/7fae7b34a0.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/7fae7b34a0.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jarrodwhaley.com/uploads/2018/ff29784589.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/ff29784589.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jarrodwhaley.com/uploads/2018/7f849778e5.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/7f849778e5.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jarrodwhaley.com/uploads/2018/2a9f2e141c.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/2a9f2e141c.jpg\" width=\"600\" height=\"449\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jarrodwhaley.com/uploads/2018/65102b7358.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/65102b7358.jpg\" width=\"600\" height=\"449\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jarrodwhaley.com/uploads/2018/f8dc12ae20.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/f8dc12ae20.jpg\" width=\"600\" height=\"449\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jarrodwhaley.com/uploads/2018/be2aeeef56.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/be2aeeef56.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jarrodwhaley.com/uploads/2018/44dc072bff.jpg\"><img src=\"http://www.jarrodwhaley.com/uploads/2018/44dc072bff.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>Took a break this afternoon with Ginger and walked around in the redwoods. I love living here.</p>\n\n",
 			"date_published": "2018-10-10T18:18:03-07:00",
 			"url": "https://www.jarrodwhaley.com/2018/10/10/purisima-creek-redwoods.html"
-		},
-		
-		{
-			"id": "http://jbwhaley.micro.blog/2018/10/09/google-is-doing.html",
-	      	
-			"content_html": "<p>Google is doing away with chatbots. How was <a href=\"https://www.fastcompany.com/90243776/google-admits-chatbots-were-a-bad-idea\">this conclusion</a> not broadly obvious within the first five minutes of the existence of chatbots?</p>\n",
-			"date_published": "2018-10-09T14:09:23-07:00",
-			"url": "https://www.jarrodwhaley.com/2018/10/09/google-is-doing.html"
 		}
 		
 	]
